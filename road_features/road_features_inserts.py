@@ -2,21 +2,38 @@ import pandas as pd
 from pathlib import Path
 
 def extract_ids_from_sql(file_path):
-    """Extrai IDs de um arquivo SQL de INSERTs de forma mais robusta"""
+    """Extrai IDs de um arquivo SQL de INSERTs no formato específico dos acidentes"""
     ids = []
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
+            in_insert = False
             for line in f:
                 if "INSERT INTO" in line and "VALUES" in line:
-                    # Extrai o primeiro valor após VALUES (que deve ser o ID)
-                    first_value = line.split("VALUES")[1].split(",")[0].strip()
-                    # Remove parênteses e aspas se existirem
-                    clean_id = first_value.replace("(", "").replace(")", "").replace("'", "")
-                    if clean_id.isdigit():
-                        ids.append(int(clean_id))
+                    in_insert = True
+                    # Processa a primeira linha do INSERT
+                    values_part = line.split("VALUES")[1].strip()
+                    records = values_part.replace("(", "").split("),")
+                    for record in records:
+                        if record.strip():
+                            first_value = record.split(",")[0].strip().replace("'", "")
+                            if first_value.isdigit():
+                                ids.append(int(first_value))
+                elif in_insert and line.strip().startswith("("):
+                    # Processa linhas adicionais do INSERT
+                    records = line.strip().replace("(", "").split("),")
+                    for record in records:
+                        if record.strip():
+                            first_value = record.split(",")[0].strip().replace("'", "")
+                            if first_value.isdigit():
+                                ids.append(int(first_value))
+                elif in_insert and ";" in line:
+                    in_insert = False
         return ids
     except FileNotFoundError:
         print(f"Aviso: Arquivo {file_path} não encontrado.")
+        return []
+    except Exception as e:
+        print(f"Erro ao processar arquivo SQL: {e}")
         return []
 
 # 1. Configurar caminhos de forma segura (usando pathlib)
@@ -37,7 +54,7 @@ df = pd.read_csv(
     skiprows=2,
     header=None,
     names=[
-        "Feature_ID", "Accident_ID", "Amenity", "Bump", "Crossing", 
+        "id", "Accident_ID", "Amenity", "Bump", "Crossing", 
         "Give_Way", "Junction", "No_Exit", "Railway", "Roundabout", 
         "Station", "Stop", "Traffic_Calming", "Traffic_Signal", "Turning_Loop"
     ],
@@ -49,17 +66,22 @@ df = pd.read_csv(
 df = df.fillna("NULL")
 df = df.apply(lambda x: x.astype(str).str.strip())
 
-# 4. Carregar os Accident_IDs reais
+# 4. Carregar os Accident_IDs reais do arquivo SQL
 try:
     accident_ids = extract_ids_from_sql(accidents_sql)
+    print(f"Total de Accident_IDs encontrados: {len(accident_ids)}")  # Debug
+    
     if not accident_ids:
         print("Aviso: Nenhum Accident_ID válido encontrado no arquivo SQL. Usando IDs do CSV.")
-    elif len(accident_ids) >= len(df):
-        df["Accident_ID"] = accident_ids[:len(df)]
     else:
-        print(f"Aviso: Há mais features ({len(df)}) do que acidentes ({len(accident_ids)}). Ajustando...")
-        df = df.head(len(accident_ids))
-        df["Accident_ID"] = accident_ids
+        # Verificar se temos Accident_IDs suficientes
+        if len(accident_ids) < len(df):
+            print(f"Aviso: Há mais features ({len(df)}) do que acidentes ({len(accident_ids)}). Ajustando...")
+            df = df.head(len(accident_ids))
+        
+        # Atribuir os IDs sequencialmente
+        df["Accident_ID"] = accident_ids[:len(df)]
+        
 except FileNotFoundError:
     print("Aviso: Arquivo de acidentes não encontrado. Usando Accident_ID do CSV.")
 
@@ -70,17 +92,27 @@ bool_cols = ["Amenity", "Bump", "Crossing", "Give_Way", "Junction",
 
 for col in bool_cols:
     df[col] = df[col].apply(
-        lambda x: "TRUE" if str(x).upper() == "TRUE" else 
-                 "FALSE" if str(x).upper() == "FALSE" else 
+        lambda x: "TRUE" if str(x).upper() in ["TRUE", "T", "1", "YES", "Y"] else 
+                 "FALSE" if str(x).upper() in ["FALSE", "F", "0", "NO", "N"] else 
                  "NULL"
     )
 
-# 6. Gerar Feature_IDs sequenciais (se não existirem)
-if df["Feature_ID"].iloc[0] == "NULL":
-    df["Feature_ID"] = range(1, len(df) + 1)
+# 6. Gerar IDs sequenciais (se não existirem)
+if df["id"].iloc[0] == "NULL":
+    df["id"] = range(1, len(df) + 1)
 
 # 7. Gerar arquivo SQL
 with open(output_sql, "w", encoding="utf-8") as f:
+    # Escrever cabeçalho de comentários
+    f.write("-- INSERT statements for ROAD_FEATURES table\n")
+    f.write(f"-- Total records: {len(df)}\n\n")
+    
+    f.write("INSERT INTO road_features (id, Accident_ID, Amenity, Bump, Crossing, ")
+    f.write("Give_Way, Junction, No_Exit, Railway, Roundabout, Station, Stop, ")
+    f.write("Traffic_Calming, Traffic_Signal, Turning_Loop) VALUES\n")
+    
+    # Gerar todas as linhas de valores
+    rows = []
     for _, row in df.iterrows():
         def format_sql_value(val):
             if val == "NULL":
@@ -92,18 +124,28 @@ with open(output_sql, "w", encoding="utf-8") as f:
             else:
                 return f"'{val}'"
         
-        f.write(
-            "INSERT INTO ROAD_FEATURES (Feature_ID, Accident_ID, Amenity, Bump, Crossing, "
-            "Give_Way, Junction, No_Exit, Railway, Roundabout, Station, Stop, "
-            "Traffic_Calming, Traffic_Signal, Turning_Loop) VALUES ("
-            f"{format_sql_value(row['Feature_ID'])}, {format_sql_value(row['Accident_ID'])}, "
-            f"{format_sql_value(row['Amenity'])}, {format_sql_value(row['Bump'])}, "
-            f"{format_sql_value(row['Crossing'])}, {format_sql_value(row['Give_Way'])}, "
-            f"{format_sql_value(row['Junction'])}, {format_sql_value(row['No_Exit'])}, "
-            f"{format_sql_value(row['Railway'])}, {format_sql_value(row['Roundabout'])}, "
-            f"{format_sql_value(row['Station'])}, {format_sql_value(row['Stop'])}, "
-            f"{format_sql_value(row['Traffic_Calming'])}, {format_sql_value(row['Traffic_Signal'])}, "
-            f"{format_sql_value(row['Turning_Loop'])});\n"
-        )
+        row_values = [
+            format_sql_value(row['id']),
+            format_sql_value(row['Accident_ID']),
+            format_sql_value(row['Amenity']),
+            format_sql_value(row['Bump']),
+            format_sql_value(row['Crossing']),
+            format_sql_value(row['Give_Way']),
+            format_sql_value(row['Junction']),
+            format_sql_value(row['No_Exit']),
+            format_sql_value(row['Railway']),
+            format_sql_value(row['Roundabout']),
+            format_sql_value(row['Station']),
+            format_sql_value(row['Stop']),
+            format_sql_value(row['Traffic_Calming']),
+            format_sql_value(row['Traffic_Signal']),
+            format_sql_value(row['Turning_Loop'])
+        ]
+        
+        rows.append(f"({', '.join(row_values)})")
+    
+    # Escrever todas as linhas, separadas por vírgulas
+    f.write(",\n".join(rows))
+    f.write(";\n")
 
 print(f"Arquivo {output_sql} gerado com {len(df)} registros.")

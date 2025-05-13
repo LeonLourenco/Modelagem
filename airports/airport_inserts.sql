@@ -1,1435 +1,1439 @@
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCMH', 'US/Eastern', 'John Glenn Columbus International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KROA', 'US/Eastern', 'Roanoke–Blacksburg Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBED', 'US/Eastern', 'Laurence G Hanscom Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KARR', 'US/Central', 'Aurora Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCGS', 'US/Eastern', 'College Park Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLUK', 'US/Eastern', 'Cincinnati Municipal Airport Lunken Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOXC', 'US/Eastern', 'Waterbury Oxford Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMDW', 'US/Central', 'Chicago Midway International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJFK', 'US/Eastern', 'John F Kennedy International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSWF', 'US/Eastern', 'New York Stewart International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTZR', 'US/Eastern', 'Bolton Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHPN', 'US/Eastern', 'Westchester County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFNT', 'US/Eastern', 'Bishop International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLOM', 'US/Eastern', 'Wings Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCJ', 'US/Central', 'Salina Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLGA', 'US/Eastern', 'LaGuardia Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KATL', 'US/Eastern', 'Hartsfield Jackson Atlanta International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPTW', 'US/Eastern', 'Heritage Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBDL', 'US/Eastern', 'Bradley International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAL', 'US/Central', 'Dallas Love Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAGC', 'US/Eastern', 'Allegheny County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFIG', 'US/Eastern', 'Clearfield Lawrence Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDVO', 'US/Pacific', 'Marin County Airport - Gnoss Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVLL', 'US/Eastern', 'Oakland Troy Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTC', 'US/Eastern', 'Selfridge Air National Guard Base Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBKL', 'US/Eastern', 'Burke Lakefront Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSLB', 'US/Central', 'Storm Lake Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWC', 'US/Central', 'Lawrence J Timmerman Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGYY', 'US/Central', 'Gary Chicago International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBVY', 'US/Eastern', 'Beverly Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KD95', 'US/Eastern', 'Dupont-Lapeer Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWM', 'US/Eastern', 'Lawrence Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBDR', 'US/Eastern', 'Igor I Sikorsky Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIKV', 'US/Central', 'Ankeny Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOQN', 'US/Eastern', 'Brandywine Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRNT', 'US/Pacific', 'Renton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KALB', 'US/Eastern', 'Albany International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLE', 'US/Central', 'Millard Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEWR', 'US/Eastern', 'Newark Liberty International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDET', 'US/Eastern', 'Coleman A. Young Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KORD', 'US/Central', 'Chicago O''Hare International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOKH', 'US/Pacific', 'AJ Eisenberg Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAY', 'US/Eastern', 'James M Cox Dayton International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOJC', 'US/Central', 'Johnson County Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLVN', 'US/Central', 'Airlake Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLOU', 'US/Eastern', 'Bowman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K3A6', 'US/Pacific', 'Pacific City State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIDA', 'US/Mountain', 'Idaho Falls Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUKT', 'US/Eastern', 'Quakertown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDSM', 'US/Central', 'Des Moines International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRME', 'US/Eastern', 'Griffiss International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPDX', 'US/Pacific', 'Portland International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRJD', 'US/Eastern', 'Ridgely Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRDG', 'US/Eastern', 'Reading Regional Airport (Carl A Spaatz Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCC', 'US/Pacific', 'McClellan Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPNE', 'US/Eastern', 'Northeast Philadelphia Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLNS', 'US/Eastern', 'Lancaster Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMMK', 'US/Eastern', 'Meriden Markham Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDMW', 'US/Eastern', 'Carroll County Regional Jack B Poage Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCEF', 'US/Eastern', 'Westover Metropolitan Airport / Westover Air Reserve Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPSF', 'US/Eastern', 'Pittsfield Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAFF', 'US/Mountain', 'USAF Academy Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBOS', 'US/Eastern', 'Logan International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLDJ', 'US/Eastern', 'Linden Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K4I3', 'US/Eastern', 'Knox County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJRB', 'US/Eastern', 'Downtown Manhattan Heliport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KORH', 'US/Eastern', 'Worcester Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIAD', 'US/Eastern', 'Washington Dulles International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGS', 'US/Central', 'South St Paul Municipal Airport/Richard E Fleming Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVIS', 'US/Pacific', 'Visalia Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOSU', 'US/Eastern', 'The Ohio State University Airport - Don Scott Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUCP', 'US/Eastern', 'New Castle Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRDU', 'US/Eastern', 'Raleigh Durham International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJYO', 'US/Eastern', 'Leesburg Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGTF', 'US/Mountain', 'Great Falls International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIRS', 'US/Eastern', 'Kirsch Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBWI', 'US/Eastern', 'Baltimore/Washington International Thurgood Marshall Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTL', 'US/Central', 'St. Louis Lambert International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOFF', 'US/Central', 'Offutt Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKC', 'US/Central', 'Charles B. Wheeler Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAMW', 'US/Central', 'Ames Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTHV', 'US/Eastern', 'York Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPHL', 'US/Eastern', 'Philadelphia International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOMA', 'US/Central', 'Eppley Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPWK', 'US/Central', 'Chicago Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSMQ', 'US/Eastern', 'Somerset Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIGQ', 'US/Central', 'Lansing Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCLE', 'US/Eastern', 'Cleveland Hopkins International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDCA', 'US/Eastern', 'Ronald Reagan Washington National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCXY', 'US/Eastern', 'Capital City Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSEA', 'US/Pacific', 'Seattle–Tacoma International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFTY', 'US/Eastern', 'Fulton County Airport Brown Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGE', 'US/Eastern', 'Dobbins Air Reserve Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVES', 'US/Eastern', 'Darke County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPWT', 'US/Pacific', 'Bremerton National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNFJ', 'US/Central', 'Choctaw Nolf Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPLU', 'US/Pacific', 'Pierce County-Thun Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTIW', 'US/Pacific', 'Tacoma Narrows Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSDF', 'US/Eastern', 'Louisville Muhammad Ali International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPDK', 'US/Eastern', 'DeKalb Peachtree Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDUH', 'US/Eastern', 'Toledo Suburban Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTOL', 'US/Eastern', 'Eugene F. Kranz Toledo Express Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRNO', 'US/Pacific', 'Reno Tahoe International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KADW', 'US/Eastern', 'Joint Base Andrews');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCCR', 'US/Pacific', 'Buchanan Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGRR', 'US/Eastern', 'Gerald R. Ford International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDXR', 'US/Eastern', 'Danbury Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSLC', 'US/Mountain', 'Salt Lake City International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCLT', 'US/Eastern', 'Charlotte Douglas International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K21D', 'US/Central', 'Lake Elmo Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPSM', 'US/Eastern', 'Portsmouth International at Pease Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRIC', 'US/Eastern', 'Richmond International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KE16', 'US/Pacific', 'San Martin Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KILG', 'US/Eastern', 'Wilmington Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFWA', 'US/Eastern', 'Fort Wayne International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTTD', 'US/Pacific', 'Portland Troutdale Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBFI', 'US/Pacific', 'Boeing Field King County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KISP', 'US/Eastern', 'Long Island Mac Arthur Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPOU', 'US/Eastern', 'Dutchess County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUGN', 'US/Central', 'Waukegan National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFFO', 'US/Eastern', 'Wright-Patterson Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDPA', 'US/Central', 'Dupage Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSCH', 'US/Eastern', 'Schenectady County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCCY', 'US/Central', 'Northeast Iowa Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPIT', 'US/Eastern', 'Pittsburgh International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSYR', 'US/Eastern', 'Syracuse Hancock International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMHR', 'US/Pacific', 'Sacramento Mather Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KK22', 'US/Eastern', 'Big Sandy Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPMD', 'US/Pacific', 'Palmdale Regional Airport / USAF Plant 42 Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPAE', 'US/Pacific', 'Seattle Paine Field International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAND', 'US/Eastern', 'Anderson Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFDK', 'US/Eastern', 'Frederick Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGON', 'US/Eastern', 'Groton New London Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAEL', 'US/Central', 'Albert Lea Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAW', 'US/Eastern', 'Skyhaven Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSFZ', 'US/Eastern', 'North Central State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPTK', 'US/Eastern', 'Oakland County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSUU', 'US/Pacific', 'Travis Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSNC', 'US/Eastern', 'Chester Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPVD', 'US/Eastern', 'Theodore Francis Green State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KU78', 'US/Mountain', 'Allen H Tigert Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFCM', 'US/Central', 'Flying Cloud Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPDT', 'US/Pacific', 'Eastern Oregon Regional Airport at Pendleton');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGY', 'US/Eastern', 'Dayton-Wright Brothers Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAUN', 'US/Pacific', 'Auburn Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRYV', 'US/Central', 'Watertown Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEUG', 'US/Pacific', 'Mahlon Sweet Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KANE', 'US/Central', 'Anoka County-Blaine (Janes Field) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLBE', 'US/Eastern', 'Arnold Palmer Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBGR', 'US/Eastern', 'Bangor International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOPN', 'US/Eastern', 'Thomaston Upson County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRBD', 'US/Central', 'Dallas Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSEZ', 'US/Mountain', 'Sedona Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPVU', 'US/Mountain', 'Provo-Utah Lake International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVNC', 'US/Eastern', 'Venice Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K9A1', 'US/Eastern', 'Covington Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTDZ', 'US/Eastern', 'Toledo Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMPO', 'US/Eastern', 'Pocono Mountains Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHWD', 'US/Pacific', 'Hayward Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUNI', 'US/Eastern', 'Ohio University Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCI', 'US/Central', 'Kansas City International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFKS', 'US/Eastern', 'Frankfort Dow Memorial Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAPG', 'US/Eastern', 'Phillips Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMIC', 'US/Central', 'Crystal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVAY', 'US/Eastern', 'South Jersey Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDFW', 'US/Central', 'Dallas Fort Worth International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMQY', 'US/Central', 'Smyrna Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAPA', 'US/Mountain', 'Centennial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLGD', 'US/Pacific', 'La Grande/Union County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDTW', 'US/Eastern', 'Detroit Metropolitan Wayne County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAKR', 'US/Eastern', 'Akron Fulton International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KACY', 'US/Eastern', 'Atlantic City International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KINJ', 'US/Central', 'Hillsboro Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTTF', 'US/Eastern', 'Custer Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLOT', 'US/Central', 'Lewis University Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHSP', 'US/Eastern', 'Ingalls Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKJ', 'US/Eastern', 'Mountain Empire Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBIV', 'US/Eastern', 'West Michigan Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAA', 'US/Eastern', 'Davison Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBVS', 'US/Pacific', 'Skagit Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSP', 'US/Central', 'Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWB', 'US/Eastern', 'Greenbrier Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCGF', 'US/Eastern', 'Cuyahoga County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFKA', 'US/Central', 'Fillmore County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAWO', 'US/Pacific', 'Arlington Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBUF', 'US/Eastern', 'Buffalo Niagara International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBUR', 'US/Pacific', 'Hollywood Burbank Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTEB', 'US/Eastern', 'Teterboro Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIOB', 'US/Eastern', 'Mount Sterling Montgomery County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVTA', 'US/Eastern', 'Newark Heath Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCPS', 'US/Central', 'St Louis Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSEG', 'US/Eastern', 'Penn Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNEW', 'US/Central', 'Lakefront Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTME', 'US/Central', 'Houston Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRAL', 'US/Pacific', 'Riverside Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KERY', 'US/Eastern', 'Luce County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMJX', 'US/Eastern', 'Ocean County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIJD', 'US/Eastern', 'Windham Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLCK', 'US/Eastern', 'Rickenbacker International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSCK', 'US/Pacific', 'Stockton Metropolitan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAPC', 'US/Pacific', 'Napa County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSFF', 'US/Pacific', 'Felts Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KXFL', 'US/Eastern', 'Flagler Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTYR', 'US/Central', 'Tyler Pounds Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFRG', 'US/Eastern', 'Republic Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJQF', 'US/Eastern', 'Concord-Padgett Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLGB', 'US/Pacific', 'Long Beach Airport (Daugherty Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLVK', 'US/Pacific', 'Livermore Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTEX', 'US/Mountain', 'Telluride Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEYE', 'US/Eastern', 'Eagle Creek Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBJC', 'US/Mountain', 'Rocky Mountain Metropolitan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSMF', 'US/Pacific', 'Sacramento International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KU42', 'US/Mountain', 'South Valley Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KENW', 'US/Central', 'Kenosha Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOLZ', 'US/Central', 'Oelwein Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBNA', 'US/Central', 'Nashville International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBAK', 'US/Eastern', 'Columbus Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KZZV', 'US/Eastern', 'Zanesville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHFD', 'US/Eastern', 'Hartford Brainard Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBKF', 'US/Mountain', 'Buckley Space Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGRF', 'US/Pacific', 'Gray Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFWS', 'US/Central', 'Fort Worth Spinks Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKT', 'US/Central', 'Mankato Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLSV', 'US/Pacific', 'Nellis Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAVL', 'US/Eastern', 'Asheville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHGR', 'US/Eastern', 'Hagerstown Regional Richard A Henson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMQS', 'US/Eastern', 'Chester County G O Carlson Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCHD', 'US/Mountain', 'Chandler Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGSO', 'US/Eastern', 'Piedmont Triad International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLXT', 'US/Central', 'Lee''s Summit Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPHX', 'US/Mountain', 'Phoenix Sky Harbor International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCID', 'US/Central', 'The Eastern Iowa Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVCB', 'US/Pacific', 'Nut Tree Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCAK', 'US/Eastern', 'Akron Canton Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIKW', 'US/Eastern', 'Jack Barstow Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEDU', 'US/Pacific', 'University Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGJ', 'US/Eastern', 'Orange County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KF46', 'US/Central', 'Rockwall Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHQZ', 'US/Central', 'Mesquite Metro Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFME', 'US/Eastern', 'Tipton Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFEW', 'US/Mountain', 'Francis E Warren Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDCU', 'US/Central', 'Pryor Field Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMDT', 'US/Eastern', 'Harrisburg International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPVF', 'US/Pacific', 'Placerville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAZO', 'US/Eastern', 'Kalamazoo Battle Creek International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIMM', 'US/Eastern', 'Immokalee Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRIV', 'US/Pacific', 'March Air Reserve Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBTA', 'US/Central', 'Blair Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGPM', 'US/Central', 'Grand Prairie Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTS', 'US/Pacific', 'Charles M. Schulz Sonoma County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KYIP', 'US/Eastern', 'Willow Run Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAUG', 'US/Eastern', 'Augusta State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLBR', 'US/Central', 'Clarksville Red River City-J D Trissell Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMQJ', 'US/Eastern', 'Indianapolis Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMBS', 'US/Eastern', 'MBS International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTIK', 'US/Central', 'Tinker Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KXLL', 'US/Eastern', 'Allentown Queen City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTTN', 'US/Eastern', 'Trenton Mercer Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEQY', 'US/Eastern', 'Charlotte-Monroe Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHOU', 'US/Central', 'William P Hobby Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGEV', 'US/Eastern', 'Ashe County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJVL', 'US/Central', 'Southern Wisconsin Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTCM', 'US/Pacific', 'McChord Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGF', 'US/Central', 'Springfield Branson National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSFM', 'US/Eastern', 'Sanford Seacoast Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAT', 'US/Central', 'San Antonio International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGAI', 'US/Eastern', 'Montgomery County Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHVN', 'US/Eastern', 'Tweed New Haven Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCHO', 'US/Eastern', 'Charlottesville Albemarle Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTEW', 'US/Eastern', 'Mason Jewett Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTBN', 'US/Central', 'Waynesville-St. Robert Regional Airport-Forney Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVGT', 'US/Pacific', 'North Las Vegas Metropolitan International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOKV', 'US/Eastern', 'Winchester Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDSV', 'US/Eastern', 'Dansville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCDW', 'US/Eastern', 'Essex County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKE', 'US/Central', 'General Mitchell International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCOS', 'US/Mountain', 'City of Colorado Springs Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KABE', 'US/Eastern', 'Lehigh Valley International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSFO', 'US/Pacific', 'San Francisco International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K27A', 'US/Eastern', 'Elbert County Airport Patz Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEDJ', 'US/Eastern', 'Bellefontaine Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHMZ', 'US/Eastern', 'Bedford County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K9L2', 'US/Pacific', 'Edwards Af Aux North Base Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIAH', 'US/Central', 'George Bush Intercontinental Houston Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHEF', 'US/Eastern', 'Manassas Regional Airport/Harry P. Davis Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLSE', 'US/Central', 'La Crosse Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSUS', 'US/Central', 'Spirit of St Louis Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLCI', 'US/Eastern', 'Laconia Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFTW', 'US/Central', 'Fort Worth Meacham International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPAN', 'US/Mountain', 'Payson Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEWB', 'US/Eastern', 'New Bedford Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KATT', 'US/Central', 'Central City Municipal - Larry Reineke Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOKC', 'US/Central', 'Will Rogers World Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSPI', 'US/Central', 'Abraham Lincoln Capital Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTP', 'US/Central', 'Saint Paul Downtown Holman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAN', 'US/Eastern', 'Capital City Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBGM', 'US/Eastern', 'Greater Binghamton/Edwin A Link field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAGS', 'US/Eastern', 'Augusta Regional At Bush Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDYL', 'US/Eastern', 'Doylestown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPHN', 'US/Eastern', 'St Clair County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KORE', 'US/Eastern', 'Orange Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTE', 'US/Central', 'Stevens Point Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLZU', 'US/Eastern', 'Gwinnett County Briscoe Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGJ', 'US/Eastern', 'Northeast Florida Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMFD', 'US/Eastern', 'Mansfield Lahm Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDDC', 'US/Central', 'Dodge City Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKG', 'US/Eastern', 'Muskegon County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAF', 'US/Eastern', 'Purdue University Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLI', 'US/Central', 'Quad City International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAAA', 'US/Central', 'Logan County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSHD', 'US/Eastern', 'Shenandoah Valley Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPYM', 'US/Eastern', 'Plymouth Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNUQ', 'US/Pacific', 'Moffett Federal Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAC', 'US/Pacific', 'Sacramento Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHRI', 'US/Pacific', 'Hermiston Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTUS', 'US/Mountain', 'Tucson International Airport / Morris Air National Guard Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLUA', 'US/Eastern', 'Luray Caverns Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAIK', 'US/Eastern', 'Aiken Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KADS', 'US/Central', 'Addison Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLHQ', 'US/Eastern', 'Fairfield County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEKO', 'US/Pacific', 'Elko Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAHN', 'US/Eastern', 'Athens Ben Epps Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUES', 'US/Central', 'Waukesha County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTAN', 'US/Eastern', 'Taunton Municipal King Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KERI', 'US/Eastern', 'Erie International Tom Ridge Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBIF', 'US/Mountain', 'Biggs Army Air Field (Fort Bliss)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KKLS', 'US/Pacific', 'Southwest Washington Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K01M', 'US/Central', 'Tishomingo County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOUN', 'US/Central', 'University of Oklahoma Westheimer Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAUW', 'US/Central', 'Wausau Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHAO', 'US/Eastern', 'Butler Co Regional Airport - Hogan Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBTL', 'US/Eastern', 'Battle Creek Executive Airport at Kellogg Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFKN', 'US/Eastern', 'Franklin Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRTS', 'US/Pacific', 'Reno-Stead Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KONT', 'US/Pacific', 'Ontario International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCMR', 'US/Mountain', 'H.A. Clark Memorial Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLEE', 'US/Eastern', 'Leesburg International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBKV', 'US/Eastern', 'Brooksville–Tampa Bay Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEZF', 'US/Eastern', 'Shannon Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSV', 'US/Eastern', 'Sullivan County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSZT', 'US/Pacific', 'Sandpoint Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCRW', 'US/Eastern', 'Yeager Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTYQ', 'US/Eastern', 'Indianapolis Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMUL', 'US/Eastern', 'Spence Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHZY', 'US/Eastern', 'Northeast Ohio Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBLI', 'US/Pacific', 'Bellingham International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KI75', 'US/Central', 'Osceola Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFBL', 'US/Central', 'Faribault Municipal Airport-Liz Wall Strohfus Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRDM', 'US/Pacific', 'Roberts Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KI69', 'US/Eastern', 'Clermont County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRHV', 'US/Pacific', 'Reid-Hillview Airport of Santa Clara County');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K6A2', 'US/Eastern', 'Griffin Spalding County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFIT', 'US/Eastern', 'Fitchburg Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K11R', 'US/Central', 'Brenham Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHZX', 'US/Central', 'Isedor Iverson Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLFI', 'US/Eastern', 'Langley Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KARB', 'US/Eastern', 'Ann Arbor Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGKJ', 'US/Eastern', 'Port Meadville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMEM', 'US/Central', 'Memphis International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTJ', 'US/Central', 'Rosecrans Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCVG', 'US/Eastern', 'Cincinnati Northern Kentucky International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRZL', 'US/Central', 'Jasper County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMHT', 'US/Eastern', 'Manchester-Boston Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTN', 'US/Eastern', 'Martin State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBLM', 'US/Eastern', 'Monmouth Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSJC', 'US/Pacific', 'Norman Y. Mineta San Jose International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLB', 'US/Eastern', 'Melbourne Orlando International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCGE', 'US/Eastern', 'Cambridge Dorchester Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPIA', 'US/Central', 'General Wayne A. Downing Peoria International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFNL', 'US/Mountain', 'Northern Colorado Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFWN', 'US/Eastern', 'Sussex Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLF', 'US/Mountain', 'Milford Municipal-Ben and Judy Briscoe Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTRK', 'US/Pacific', 'Truckee Tahoe Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KALO', 'US/Central', 'Waterloo Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCLS', 'US/Pacific', 'Chehalis Centralia Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KO69', 'US/Pacific', 'Petaluma Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDCY', 'US/Eastern', 'Daviess County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLJF', 'US/Central', 'Litchfield Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K0E0', 'US/Mountain', 'Moriarty Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFZY', 'US/Eastern', 'Oswego County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEMT', 'US/Pacific', 'San Gabriel Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAUS', 'US/Central', 'Austin Bergstrom International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOZW', 'US/Eastern', 'Livingston County Spencer J. Hardy Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRMY', 'US/Eastern', 'Brooks Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOGA', 'US/Mountain', 'Ogallala Municipal Airport Searle Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCHS', 'US/Eastern', 'Charleston International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLMT', 'US/Pacific', 'Crater Lake-Klamath Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGPZ', 'US/Central', 'Grand Rapids Itasca Co-Gordon Newstrom field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVUO', 'US/Pacific', 'Pearson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOVE', 'US/Pacific', 'Oroville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHTO', 'US/Eastern', 'Town of East Hampton Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLEX', 'US/Eastern', 'Blue Grass Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBNO', 'US/Pacific', 'Burns Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBAB', 'US/Pacific', 'Beale Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELN', 'US/Pacific', 'Bowers Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCVX', 'US/Eastern', 'Charlevoix Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSHN', 'US/Pacific', 'Sanderson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAID', 'US/Eastern', 'Anderson Municipal Darlington Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDLL', 'US/Central', 'Baraboo Wisconsin Dells Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCVH', 'US/Pacific', 'Hollister Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGCM', 'US/Central', 'Claremore Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDUJ', 'US/Eastern', 'DuBois Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBTP', 'US/Eastern', 'Pittsburgh/Butler Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPHD', 'US/Eastern', 'Harry Clever Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHYX', 'US/Eastern', 'Saginaw County H.W. Browne Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOFP', 'US/Eastern', 'Hanover County Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMIE', 'US/Eastern', 'Delaware County Johnson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBLU', 'US/Pacific', 'Blue Canyon Nyack Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRYY', 'US/Eastern', 'Cobb County International Airport-McCollum Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBDH', 'US/Central', 'Willmar Municipal Airport John L Rice Field (2006)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAN', 'US/Eastern', 'Danville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRYW', 'US/Central', 'Lago Vista Texas Rusty Allen Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEKM', 'US/Eastern', 'Elkhart Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFDY', 'US/Eastern', 'Findlay Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCZK', 'US/Pacific', 'Cascade Locks State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBKW', 'US/Eastern', 'Raleigh County Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOLM', 'US/Pacific', 'Olympia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIOW', 'US/Central', 'Iowa City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEIK', 'US/Mountain', 'Erie Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGH', 'US/Eastern', 'Springfield-Beckley Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGSP', 'US/Eastern', 'Greenville Spartanburg International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGRD', 'US/Eastern', 'Greenwood County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOAK', 'US/Pacific', 'San Francisco Bay Oakland International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMOD', 'US/Pacific', 'Modesto City Co-Harry Sham Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFAT', 'US/Pacific', 'Fresno Yosemite International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIXD', 'US/Central', 'New Century AirCenter Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMER', 'US/Pacific', 'Castle Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAVC', 'US/Eastern', 'Mecklenburg Brunswick Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVYS', 'US/Central', 'Illinois Valley Regional Airport Walter A Duncan Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAXH', 'US/Central', 'Houston Southwest Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBVI', 'US/Eastern', 'Beaver County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTYS', 'US/Eastern', 'McGhee Tyson Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUAO', 'US/Pacific', 'Aurora State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPRO', 'US/Central', 'Perry Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDLZ', 'US/Eastern', 'Delaware Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWVI', 'US/Pacific', 'Watsonville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCHA', 'US/Eastern', 'Chattanooga Metropolitan Airport (Lovell Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHIO', 'US/Pacific', 'Portland Hillsboro Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KF70', 'US/Pacific', 'French Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVJI', 'US/Eastern', 'Virginia Highlands Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTDO', 'US/Pacific', 'Ed Carlson Memorial Field South Lewis County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KINW', 'US/Mountain', 'Winslow Lindbergh Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJXN', 'US/Eastern', 'Jackson County Airport/Reynolds Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMZZ', 'US/Eastern', 'Marion Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBAF', 'US/Eastern', 'Westfield-Barnes Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KANQ', 'US/Eastern', 'Tri State Steuben County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSNS', 'US/Pacific', 'Salinas Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPCW', 'US/Eastern', 'Carl R Keller Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGKY', 'US/Central', 'Arlington Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGEZ', 'US/Eastern', 'Shelbyville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBLV', 'US/Central', 'Scott AFB/Midamerica Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEBS', 'US/Central', 'Webster City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHYR', 'US/Central', 'Sawyer County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOWD', 'US/Eastern', 'Norwood Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHWV', 'US/Eastern', 'Brookhaven Calabro Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSQL', 'US/Pacific', 'San Carlos Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KONZ', 'US/Eastern', 'Grosse Ile Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KL35', 'US/Pacific', 'Big Bear City Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KL38', 'US/Central', 'Louisiana Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K48I', 'US/Eastern', 'Braxton County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KILN', 'US/Eastern', 'Wilmington Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMUI', 'US/Eastern', 'Muir Army Air Field (Fort Indiantown Gap) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K0VG', 'US/Eastern', 'Lee County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWA', 'US/Eastern', 'South Haven Area Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KC29', 'US/Central', 'Middleton Municipal Morey Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDEN', 'US/Mountain', 'Denver International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMAN', 'US/Mountain', 'Nampa Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOGD', 'US/Mountain', 'Ogden Hinckley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFCI', 'US/Eastern', 'Richmond Executive-Chesterfield County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUNV', 'US/Eastern', 'State College Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOKB', 'US/Pacific', 'Oceanside Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSY', 'US/Central', 'Louis Armstrong New Orleans International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCCO', 'US/Eastern', 'Newnan Coweta County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KC09', 'US/Central', 'Morris Municipal Airport James R. Washburn field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEVM', 'US/Central', 'Eveleth–Virginia Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KO22', 'US/Pacific', 'Columbia Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFOK', 'US/Eastern', 'Francis S Gabreski Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCON', 'US/Eastern', 'Concord Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGWB', 'US/Eastern', 'De Kalb County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVTI', 'US/Central', 'Vinton Veterans Memorial Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRNH', 'US/Central', 'New Richmond Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHKS', 'US/Central', 'Hawkins Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDNL', 'US/Eastern', 'Daniel Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFFT', 'US/Eastern', 'Capital City Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGSH', 'US/Eastern', 'Goshen Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFFC', 'US/Eastern', 'Peachtree City Falcon Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMMU', 'US/Eastern', 'Morristown Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGLW', 'US/Central', 'Glasgow Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOTG', 'US/Central', 'Worthington Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KORF', 'US/Eastern', 'Norfolk International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPUC', 'US/Mountain', 'Carbon County Regional Airport / Buck Davis Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KABQ', 'US/Mountain', 'Albuquerque International Sunport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCBF', 'US/Central', 'Council Bluffs Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K3I2', 'US/Eastern', 'Mason County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEAU', 'US/Central', 'Chippewa Valley Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPWA', 'US/Central', 'Wiley Post Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGOO', 'US/Pacific', 'Nevada County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCOU', 'US/Central', 'Columbia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFLG', 'US/Mountain', 'Flagstaff Pulliam International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAVP', 'US/Eastern', 'Wilkes Barre Scranton International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAOH', 'US/Eastern', 'Lima Allen County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUNU', 'US/Central', 'Dodge County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KATW', 'US/Central', 'Appleton International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKL', 'US/Central', 'McKellar-Sipes Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIIY', 'US/Eastern', 'Washington Wilkes County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRND', 'US/Central', 'Randolph Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBUU', 'US/Central', 'Burlington Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPOC', 'US/Pacific', 'Brackett Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCOE', 'US/Pacific', 'Coeur D''Alene Airport - Pappy Boyington Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGOV', 'US/Eastern', 'Grayling Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K5W8', 'US/Eastern', 'Siler City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KASH', 'US/Eastern', 'Nashua Airport / Boire Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBD', 'US/Pacific', 'San Bernardino International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLPR', 'US/Eastern', 'Lorain County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIPT', 'US/Eastern', 'Williamsport Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRFD', 'US/Central', 'Chicago Rockford International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPIH', 'US/Mountain', 'Pocatello Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRNM', 'US/Pacific', 'Ramona Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAOO', 'US/Eastern', 'Altoona Blair County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KADG', 'US/Eastern', 'Lenawee County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRNP', 'US/Eastern', 'Owosso Community Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGHG', 'US/Eastern', 'Marshfield Municipal George Harlow Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTVL', 'US/Pacific', 'Lake Tahoe Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBCB', 'US/Eastern', 'Virginia Tech Montgomery Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KALW', 'US/Pacific', 'Walla Walla Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBIL', 'US/Mountain', 'Billings Logan International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAIG', 'US/Central', 'Langlade County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJOT', 'US/Central', 'Joliet Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSN', 'US/Central', 'Dane County Regional Truax Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCQT', 'US/Pacific', 'Pacific Valley Aviation Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPOV', 'US/Eastern', 'Portage County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDVN', 'US/Central', 'Davenport Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGEG', 'US/Pacific', 'Spokane International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBOI', 'US/Mountain', 'Boise Air Terminal/Gowen Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBJJ', 'US/Eastern', 'Wayne County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGR', 'US/Central', 'Sugar Land Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVPC', 'US/Eastern', 'Cartersville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KD39', 'US/Central', 'Sauk Centre Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSUX', 'US/Central', 'Sioux Gateway Airport / Brigadier General Bud Day Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEEN', 'US/Eastern', 'Dillant Hopkins Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDEH', 'US/Central', 'Decorah Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWL', 'US/Central', 'Mineral Wells Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELM', 'US/Eastern', 'Elmira Corning Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVIH', 'US/Central', 'Rolla National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWM', 'US/Central', 'Windom Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHND', 'US/Pacific', 'Henderson Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTOB', 'US/Central', 'Dodge Center Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOBE', 'US/Eastern', 'Okeechobee County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMVE', 'US/Central', 'Montevideo Chippewa County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSNA', 'US/Pacific', 'John Wayne Orange County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRMN', 'US/Eastern', 'Stafford Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFBR', 'US/Mountain', 'Fort Bridger Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAS', 'US/Pacific', 'Harry Reid International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEOE', 'US/Eastern', 'Newberry County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KESN', 'US/Eastern', 'Easton Airport / Newnam Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDKB', 'US/Central', 'DeKalb Taylor Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWDR', 'US/Eastern', 'Barrow County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTO', 'US/Central', 'Coles County Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPWM', 'US/Eastern', 'Portland International Jetport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSVH', 'US/Eastern', 'Statesville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIND', 'US/Eastern', 'Indianapolis International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGPH', 'US/Central', 'Midwest National Air Center Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEDC', 'US/Central', 'Austin Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KROC', 'US/Eastern', 'Frederick Douglass Greater Rochester International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLD', 'US/Mountain', 'Malad City Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAXA', 'US/Central', 'Algona Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCLM', 'US/Pacific', 'William R Fairchild International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSZL', 'US/Central', 'Whiteman Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSUW', 'US/Central', 'Richard I Bong Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSOW', 'US/Mountain', 'Show Low Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGVL', 'US/Eastern', 'Lee Gilmer Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMNN', 'US/Eastern', 'Marion Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDVT', 'US/Mountain', 'Phoenix Deer Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCNC', 'US/Central', 'Chariton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFFX', 'US/Eastern', 'Fremont Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIGM', 'US/Mountain', 'Kingman Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGW', 'US/Eastern', 'Morgantown Municipal Airport Walter L. (Bill) Hart Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMRJ', 'US/Central', 'Iowa County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPVG', 'US/Eastern', 'Hampton Roads Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCMA', 'US/Pacific', 'Camarillo International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNFW', 'US/Central', 'NAS Fort Worth JRB / Carswell Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSPA', 'US/Eastern', 'Spartanburg Downtown Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHWY', 'US/Eastern', 'Warrenton Fauquier Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPTB', 'US/Eastern', 'Dinwiddie County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBTR', 'US/Central', 'Baton Rouge Metropolitan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNTU', 'US/Eastern', 'Oceana Naval Air Station');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCFE', 'US/Central', 'Buffalo Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNYG', 'US/Eastern', 'Quantico Marine Corps Airfield / Turner Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAST', 'US/Pacific', 'Astoria Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSYN', 'US/Central', 'Stanton Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCE', 'US/Pacific', 'Merced Regional Macready Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPAO', 'US/Pacific', 'Palo Alto Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCBG', 'US/Central', 'Cambridge Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAFJ', 'US/Eastern', 'Washington County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPWC', 'US/Central', 'Pine River Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAKH', 'US/Eastern', 'Gastonia Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFYJ', 'US/Eastern', 'Middle Peninsula Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KETB', 'US/Central', 'West Bend Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCKB', 'US/Eastern', 'North Central West Virginia Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KONO', 'US/Mountain', 'Ontario Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLOZ', 'US/Eastern', 'London-Corbin Airport/Magee Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCEU', 'US/Eastern', 'Oconee County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMFR', 'US/Pacific', 'Rogue Valley International Medford Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPKB', 'US/Eastern', 'Mid Ohio Valley Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBWG', 'US/Central', 'Bowling Green Warren County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCWA', 'US/Central', 'Central Wisconsin Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFET', 'US/Central', 'Fremont Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAG', 'US/Pacific', 'Barstow Daggett Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCMI', 'US/Central', 'University of Illinois Willard Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFPK', 'US/Eastern', 'Fitch H Beach Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOQU', 'US/Eastern', 'Quonset State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBA', 'US/Pacific', 'Santa Barbara Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KONP', 'US/Pacific', 'Newport Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMMH', 'US/Pacific', 'Mammoth Yosemite Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNRS', 'US/Pacific', 'Naval Outlying Field Imperial Beach (Ream Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGU', 'US/Mountain', 'St George Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLHM', 'US/Pacific', 'Lincoln Regional Karl Harder Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTSP', 'US/Pacific', 'Tehachapi Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHLN', 'US/Mountain', 'Helena Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGOK', 'US/Central', 'Guthrie-Edmond Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRVS', 'US/Central', 'Tulsa Riverside Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHDC', 'US/Central', 'Hammond Northshore Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNFL', 'US/Pacific', 'Fallon Naval Air Station');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K2G4', 'US/Eastern', 'Garrett County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJST', 'US/Eastern', 'John Murtha Johnstown Cambria County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBAZ', 'US/Central', 'New Braunfels Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSSF', 'US/Central', 'Stinson Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPEX', 'US/Central', 'Paynesville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPNS', 'US/Central', 'Pensacola International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLVM', 'US/Mountain', 'Mission Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTNU', 'US/Central', 'Newton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KINT', 'US/Eastern', 'Smith Reynolds Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIAB', 'US/Central', 'McConnell Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIYK', 'US/Pacific', 'Inyokern Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHCD', 'US/Central', 'Hutchinson Municipal Butler Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIKK', 'US/Central', 'Greater Kankakee Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KH21', 'US/Central', 'Camdenton Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHTS', 'US/Eastern', 'Tri-State Airport / Milton J. Ferguson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHNR', 'US/Central', 'Harlan Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJER', 'US/Mountain', 'Jerome County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMRT', 'US/Eastern', 'Union County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGG', 'US/Central', 'Maple Lake Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGFL', 'US/Eastern', 'Floyd Bennett Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTQE', 'US/Central', 'Tekamah Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOEO', 'US/Central', 'L O Simenstad Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDWH', 'US/Central', 'David Wayne Hooks Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTC', 'US/Central', 'Saint Cloud Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHNZ', 'US/Eastern', 'Henderson Oxford Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTKI', 'US/Central', 'McKinney National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVDF', 'US/Eastern', 'Tampa Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWMC', 'US/Pacific', 'Winnemucca Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHQM', 'US/Pacific', 'Bowerman Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEGE', 'US/Mountain', 'Eagle County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMIW', 'US/Central', 'Marshalltown Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KYNG', 'US/Eastern', 'Youngstown Warren Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDDH', 'US/Eastern', 'William H Morse State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSLE', 'US/Pacific', 'Salem-Willamette Valley Airport/McNary Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAFW', 'US/Central', 'Perot Field/Fort Worth Alliance Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVOK', 'US/Central', 'Volk Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KONA', 'US/Central', 'Winona Municipal Airport Max Conrad Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEAT', 'US/Pacific', 'Pangborn Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBJI', 'US/Central', 'Bemidji Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBFD', 'US/Eastern', 'Bradford Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJHW', 'US/Eastern', 'Chautauqua County-Jamestown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFSD', 'US/Central', 'Sioux Falls Regional Airport / Joe Foss Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEFT', 'US/Central', 'Monroe Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLXV', 'US/Mountain', 'Lake County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCWI', 'US/Central', 'Clinton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KN03', 'US/Eastern', 'Cortland County Chase Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWHP', 'US/Pacific', 'Whiteman Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KROS', 'US/Central', 'Rush City Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRPJ', 'US/Central', 'Rochelle Municipal Airport - Koritz Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAXN', 'US/Central', 'Chandler Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBP', 'US/Pacific', 'San Luis County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAV', 'US/Eastern', 'Savannah Hilton Head International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMYL', 'US/Mountain', 'McCall Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEOK', 'US/Central', 'Keokuk Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCBE', 'US/Eastern', 'Greater Cumberland Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K6B0', 'US/Eastern', 'Middlebury State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRQE', 'US/Mountain', 'Window Rock Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTCL', 'US/Central', 'Tuscaloosa National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSMO', 'US/Pacific', 'Santa Monica Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIFA', 'US/Central', 'Iowa Falls Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUZA', 'US/Eastern', 'Rock Hill - York County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBUY', 'US/Eastern', 'Burlington Alamance Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRAC', 'US/Central', 'John H Batten Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KASW', 'US/Eastern', 'Warsaw Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMUO', 'US/Mountain', 'Mountain Home Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCXP', 'US/Pacific', 'Carson Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDNV', 'US/Central', 'Vermilion Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KITR', 'US/Mountain', 'Kit Carson County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJAC', 'US/Mountain', 'Jackson Hole Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHBG', 'US/Central', 'Hattiesburg Bobby L Chain Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCNW', 'US/Central', 'TSTC Waco Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K2W6', 'US/Eastern', 'St. Mary''s County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDEC', 'US/Central', 'Decatur Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMIV', 'US/Eastern', 'Millville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBEH', 'US/Eastern', 'Southwest Michigan Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KORL', 'US/Eastern', 'Orlando Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTTA', 'US/Eastern', 'Raleigh Executive Jetport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSFQ', 'US/Eastern', 'Suffolk Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAIO', 'US/Central', 'Atlantic Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGRB', 'US/Central', 'Austin Straubel International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHAI', 'US/Eastern', 'Three Rivers Municipal Dr Haines Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTOP', 'US/Central', 'Philip Billard Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCOQ', 'US/Central', 'Cloquet Carlton County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDZJ', 'US/Eastern', 'Blairsville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSS', 'US/Eastern', 'Massena International Airport Richards Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDOV', 'US/Eastern', 'Dover Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCSV', 'US/Central', 'Crossville Memorial Airport Whitson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJEF', 'US/Central', 'Jefferson City Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWRI', 'US/Eastern', 'Mc Guire Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBNL', 'US/Eastern', 'Barnwell Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KADU', 'US/Central', 'Audubon County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSQI', 'US/Central', 'Whiteside County Airport - Joseph H Bittorf Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJAN', 'US/Central', 'Jackson-Medgar Wiley Evers International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KY70', 'US/Eastern', 'Ionia County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCTZ', 'US/Eastern', 'Sampson County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEEO', 'US/Mountain', 'Meeker Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCSG', 'US/Eastern', 'Columbus Metropolitan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOKZ', 'US/Eastern', 'Kaolin Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTHA', 'US/Central', 'Tullahoma Regional Airport William Northern Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPEO', 'US/Eastern', 'Penn Yan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCTJ', 'US/Eastern', 'West Georgia Regional Airport / O V Gray Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCFS', 'US/Eastern', 'Tuscola Area Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLEW', 'US/Eastern', 'Auburn Lewiston Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLNC', 'US/Central', 'Lancaster Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNUW', 'US/Pacific', 'Whidbey Island Naval Air Station (Ault Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNBC', 'US/Eastern', 'Beaufort MCAS - Merritt Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLNK', 'US/Central', 'Lincoln Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVRB', 'US/Eastern', 'Vero Beach Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCAG', 'US/Mountain', 'Craig Moffat Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLYV', 'US/Central', 'Quentin Aanenson Airfield - Luverne Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCN', 'US/Eastern', 'Middle Georgia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDLH', 'US/Central', 'Duluth International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHLG', 'US/Eastern', 'Wheeling Ohio County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCW', 'US/Central', 'Mason City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSHR', 'US/Mountain', 'Sheridan County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDYR', 'US/Central', 'Dyersburg Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIWA', 'US/Mountain', 'Mesa Gateway Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHIF', 'US/Mountain', 'Hill Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFCS', 'US/Mountain', 'Butts AAF (Fort Carson) Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCIC', 'US/Pacific', 'Chico Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFBG', 'US/Eastern', 'Simmons Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDMA', 'US/Mountain', 'Davis Monthan Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWST', 'US/Eastern', 'Westerly State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDFI', 'US/Eastern', 'Defiance Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMUT', 'US/Central', 'Muscatine Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KM16', 'US/Central', 'John Bell Williams Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGNV', 'US/Eastern', 'Gainesville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHHR', 'US/Pacific', 'Jack Northrop Field Hawthorne Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPUB', 'US/Mountain', 'Pueblo Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJWY', 'US/Central', 'Mid-Way Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDKK', 'US/Eastern', 'Chautauqua County-Dunkirk Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHAF', 'US/Pacific', 'Half Moon Bay Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBHK', 'US/Mountain', 'Baker Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTOA', 'US/Pacific', 'Zamperini Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLEB', 'US/Eastern', 'Lebanon Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBHM', 'US/Central', 'Birmingham-Shuttlesworth International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KXSA', 'US/Eastern', 'Tappahannock-Essex County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGLR', 'US/Eastern', 'Gaylord Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWJF', 'US/Pacific', 'General William J Fox Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K5C1', 'US/Central', 'Boerne Stage Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSWO', 'US/Central', 'Stillwater Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCPR', 'US/Mountain', 'Casper-Natrona County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSRE', 'US/Central', 'Seminole Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KALN', 'US/Central', 'St Louis Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCAV', 'US/Central', 'Clarion Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBDU', 'US/Mountain', 'Boulder Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLKV', 'US/Pacific', 'Lake County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPUW', 'US/Pacific', 'Pullman-Moscow Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMZH', 'US/Central', 'Moose Lake Carlton County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBCK', 'US/Central', 'Black River Falls Area Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCAD', 'US/Eastern', 'Wexford County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCUL', 'US/Central', 'Carmi Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCNI', 'US/Eastern', 'Cherokee County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAR', 'US/Mountain', 'Laramie Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KC75', 'US/Central', 'Marshall County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLRJ', 'US/Central', 'Le Mars Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGYH', 'US/Eastern', 'Donaldson Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBYG', 'US/Mountain', 'Johnson County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLUM', 'US/Central', 'Menomonie Municipal Score Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KICL', 'US/Central', 'Schenck Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLBF', 'US/Central', 'North Platte Regional Airport Lee Bird Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBN', 'US/Eastern', 'South Bend Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRCM', 'US/Central', 'Skyhaven Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPNM', 'US/Central', 'Princeton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDNN', 'US/Eastern', 'Dalton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGNT', 'US/Mountain', 'Grants-Milan Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTWF', 'US/Mountain', 'Joslin Field Magic Valley Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOMK', 'US/Pacific', 'Omak Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMJQ', 'US/Central', 'Jackson Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNEL', 'US/Eastern', 'Lakehurst Maxfield Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGCD', 'US/Pacific', 'Grant County Regional Airport / Ogilvie Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVNY', 'US/Pacific', 'Van Nuys Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPMV', 'US/Central', 'Plattsmouth Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCAE', 'US/Eastern', 'Columbia Metropolitan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAAO', 'US/Central', 'Colonel James Jabara Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAX', 'US/Pacific', 'Los Angeles International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWRB', 'US/Eastern', 'Robins Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIAG', 'US/Eastern', 'Niagara Falls International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWS', 'US/Pacific', 'Lewiston Nez Perce County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KACB', 'US/Eastern', 'Antrim County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDBQ', 'US/Central', 'Dubuque Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNFG', 'US/Pacific', 'Camp Pendleton MCAS (Munn Field) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOSA', 'US/Central', 'Mount Pleasant Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBDN', 'US/Pacific', 'Bend Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPSC', 'US/Pacific', 'Tri Cities Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELP', 'US/Mountain', 'El Paso International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSMS', 'US/Eastern', 'Sumter Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFMH', 'US/Eastern', 'Cape Cod Coast Guard Air Station');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLIC', 'US/Mountain', 'Limon Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWVL', 'US/Eastern', 'Waterville Robert Lafleur Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCMY', 'US/Central', 'Sparta Fort McCoy Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEZS', 'US/Central', 'Shawano Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRBG', 'US/Pacific', 'Roseburg Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSPB', 'US/Pacific', 'Scappoose Industrial Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAFN', 'US/Eastern', 'Jaffrey Airfield Silver Ranch Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDMO', 'US/Central', 'Sedalia Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFYG', 'US/Central', 'Washington Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNIP', 'US/Eastern', 'Jacksonville Naval Air Station (Towers Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMAE', 'US/Pacific', 'Madera Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHUM', 'US/Central', 'Houma Terrebonne Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPRC', 'US/Mountain', 'Prescott International Airport - Ernest A. Love Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGMU', 'US/Eastern', 'Greenville Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGDJ', 'US/Central', 'Granbury Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K3LF', 'US/Central', 'Litchfield Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBFL', 'US/Pacific', 'Meadows Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGJT', 'US/Mountain', 'Grand Junction Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBMG', 'US/Eastern', 'Monroe County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFDW', 'US/Eastern', 'Fairfield County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBXK', 'US/Mountain', 'Buckeye Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGDB', 'US/Central', 'Granite Falls Municipal Airport / Lenzen-Roe Memorial Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCYS', 'US/Mountain', 'Cheyenne Regional Jerry Olson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPUJ', 'US/Eastern', 'Silver Comet Field at Paulding Northwest Atlanta Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBM', 'US/Central', 'Sheboygan County Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHJO', 'US/Pacific', 'Hanford Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFVX', 'US/Eastern', 'Farmville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTPF', 'US/Eastern', 'Peter O Knight Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMYV', 'US/Pacific', 'Yuba County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEMV', 'US/Eastern', 'Emporia Greensville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWH', 'US/Pacific', 'Grant County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUSE', 'US/Eastern', 'Fulton County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAQW', 'US/Eastern', 'Harriman and West Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGGI', 'US/Central', 'Grinnell Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCKV', 'US/Central', 'Clarksville–Montgomery County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDGW', 'US/Mountain', 'Converse County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAMN', 'US/Eastern', 'Gratiot Community Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMOP', 'US/Eastern', 'Mount Pleasant Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCXO', 'US/Central', 'Conroe-North Houston Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBCE', 'US/Mountain', 'Bryce Canyon Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOGB', 'US/Eastern', 'Orangeburg Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDLS', 'US/Pacific', 'Columbia Gorge Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRBW', 'US/Eastern', 'Lowcountry Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNQA', 'US/Central', 'Millington-Memphis Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMXF', 'US/Central', 'Maxwell Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWA', 'US/Central', 'Veterans Airport of Southern Illinois');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSRQ', 'US/Eastern', 'Sarasota Bradenton International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMOB', 'US/Central', 'Mobile Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTKV', 'US/Central', 'Tomahawk Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPTV', 'US/Pacific', 'Porterville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRMG', 'US/Eastern', 'Richard B Russell Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTMA', 'US/Eastern', 'Henry Tift Myers Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMMV', 'US/Pacific', 'Mc Minnville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFLO', 'US/Eastern', 'Florence Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDYB', 'US/Eastern', 'Summerville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KISM', 'US/Eastern', 'Kissimmee Gateway Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDLN', 'US/Mountain', 'Dillon Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDTO', 'US/Central', 'Denton Enterprise Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFSO', 'US/Eastern', 'Franklin County State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMYR', 'US/Eastern', 'Myrtle Beach International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K1V6', 'US/Mountain', 'Fremont County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEUL', 'US/Mountain', 'Caldwell Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTPL', 'US/Central', 'Draughon Miller Central Texas Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSSC', 'US/Eastern', 'Shaw Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOCQ', 'US/Central', 'J. Douglas Bake Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTV', 'US/Eastern', 'Blue Ridge Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFST', 'US/Central', 'Fort Stockton Pecos County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVEL', 'US/Mountain', 'Vernal Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDAB', 'US/Eastern', 'Daytona Beach International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBLF', 'US/Eastern', 'Mercer County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMAO', 'US/Eastern', 'Marion County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBY', 'US/Eastern', 'Salisbury Ocean City Wicomico Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWWD', 'US/Eastern', 'Cape May County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJNX', 'US/Eastern', 'Johnston Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSNL', 'US/Central', 'Shawnee Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHVS', 'US/Eastern', 'Hartsville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KWAL', 'US/Eastern', 'Wallops Flight Facility Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K3J7', 'US/Eastern', 'Greene County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEHO', 'US/Eastern', 'Shelby-Cleveland County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBMI', 'US/Central', 'Central Illinois Regional Airport at Bloomington-Normal');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCRE', 'US/Eastern', 'Grand Strand Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLKR', 'US/Eastern', 'Lancaster County-Mc Whirter Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCKI', 'US/Eastern', 'Williamsburg Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOTH', 'US/Pacific', 'Southwest Oregon Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSKF', 'US/Central', 'Lackland Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KADC', 'US/Central', 'Wadena Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLFT', 'US/Central', 'Lafayette Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFTG', 'US/Mountain', 'Colorado Air and Space Port');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMPV', 'US/Eastern', 'Edward F Knapp State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHYI', 'US/Central', 'San Marcos Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHFF', 'US/Eastern', 'Mackall Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKS', 'US/Eastern', 'Berkeley County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTRI', 'US/Eastern', 'Tri-Cities Regional TN/VA Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEET', 'US/Central', 'Shelby County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLUX', 'US/Eastern', 'Laurens County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCWC', 'US/Central', 'Kickapoo Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHUF', 'US/Eastern', 'Terre Haute Regional Airport, Hulman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMMT', 'US/Eastern', 'Mc Entire Joint National Guard Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNLC', 'US/Pacific', 'Lemoore Naval Air Station (Reeves Field) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVCV', 'US/Pacific', 'Southern California Logistics Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHRJ', 'US/Eastern', 'Harnett Regional Jetport Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSKA', 'US/Pacific', 'Fairchild Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPIB', 'US/Central', 'Hattiesburg Laurel Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAWM', 'US/Central', 'West Memphis Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDCM', 'US/Eastern', 'Chester Catawba Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KT65', 'US/Central', 'Mid Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTW', 'US/Central', 'Manitowoc County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSVN', 'US/Eastern', 'Hunter Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KACV', 'US/Pacific', 'California Redwood Coast-Humboldt County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCRQ', 'US/Pacific', 'McClellan-Palomar Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBKD', 'US/Central', 'Stephens County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KALX', 'US/Central', 'Thomas C Russell Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KM46', 'US/Mountain', 'Colstrip Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLQK', 'US/Eastern', 'Pickens County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFOT', 'US/Pacific', 'Rohnerville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIMT', 'US/Central', 'Ford Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMFI', 'US/Central', 'Marshfield Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTUL', 'US/Central', 'Tulsa International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSHV', 'US/Central', 'Shreveport Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCVO', 'US/Pacific', 'Corvallis Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCO', 'US/Eastern', 'Orlando International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K5T6', 'US/Mountain', 'Doña Ana County International Jetport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBBP', 'US/Eastern', 'Marlboro County Jetport - H E Avent Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAMA', 'US/Central', 'Rick Husband Amarillo International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBAD', 'US/Central', 'Barksdale Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHNB', 'US/Eastern', 'Huntingburg Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPCZ', 'US/Central', 'Waupaca Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAEG', 'US/Mountain', 'Double Eagle II Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOWB', 'US/Central', 'Owensboro Daviess County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHYW', 'US/Eastern', 'Conway Horry County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCLI', 'US/Central', 'Clintonville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCUB', 'US/Eastern', 'Jim Hamilton L.B. Owens Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMXO', 'US/Central', 'Monticello Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLMO', 'US/Mountain', 'Vance Brand Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHLX', 'US/Eastern', 'Twin County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBFM', 'US/Central', 'Mobile Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLRO', 'US/Eastern', 'Mount Pleasant Regional Airport Faison Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRBL', 'US/Pacific', 'Red Bluff Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLXL', 'US/Central', 'Little Falls-Morrison County-Lindbergh field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KISW', 'US/Central', 'Alexander Field South Wood County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KASE', 'US/Mountain', 'Aspen-Pitkin County Airport (Sardy Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEKA', 'US/Pacific', 'Murray Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRDD', 'US/Pacific', 'Redding Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTDF', 'US/Eastern', 'Raleigh Regional Airport at Person County');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPHF', 'US/Eastern', 'Newport News Williamsburg International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLYH', 'US/Eastern', 'Lynchburg Regional Airport - Preston Glenn Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMFV', 'US/Eastern', 'Accomack County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEVV', 'US/Central', 'Evansville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAIT', 'US/Central', 'Aitkin Municipal Airport Steve Kurtz Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCPC', 'US/Eastern', 'Columbus County Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMYF', 'US/Pacific', 'Montgomery-Gibbs Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPPO', 'US/Central', 'La Porte Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMMI', 'US/Eastern', 'McMinn County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRST', 'US/Central', 'Rochester International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPRN', 'US/Central', 'Mac Crenshaw Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHIB', 'US/Central', 'Range Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNGU', 'US/Eastern', 'Norfolk Naval Station (Chambers Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPVC', 'US/Eastern', 'Provincetown Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIDI', 'US/Eastern', 'Indiana County–Jimmy Stewart Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVLD', 'US/Eastern', 'Valdosta Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KY50', 'US/Central', 'Wautoma Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMRB', 'US/Eastern', 'Eastern WV Regional Airport/Shepherd Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUKI', 'US/Pacific', 'Ukiah Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSSI', 'US/Eastern', 'St Simons Island Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFYV', 'US/Central', 'Drake Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFSE', 'US/Central', 'Fosston Municipal Airport-Anderson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPEA', 'US/Central', 'Pella Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCTB', 'US/Mountain', 'Cut Bank International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTTS', 'US/Eastern', 'Space Florida Launch and Landing Facility');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KENL', 'US/Central', 'Centralia Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFPR', 'US/Eastern', 'St Lucie County International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFAY', 'US/Eastern', 'Fayetteville Regional Airport - Grannis Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHKY', 'US/Eastern', 'Hickory Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCDN', 'US/Eastern', 'Woodward Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNPA', 'US/Central', 'Naval Air Station Pensacola Forrest Sherman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDMN', 'US/Mountain', 'Deming Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBOK', 'US/Pacific', 'Brookings Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPSK', 'US/Eastern', 'New River Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJAX', 'US/Eastern', 'Jacksonville International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSO', 'US/Mountain', 'Missoula International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCKP', 'US/Central', 'Cherokee County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIIB', 'US/Central', 'Independence Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBTM', 'US/Mountain', 'Bert Mooney Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOTM', 'US/Central', 'Ottumwa Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLHZ', 'US/Eastern', 'Triangle North Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KY51', 'US/Central', 'Viroqua Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHUA', 'US/Central', 'Redstone Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFAF', 'US/Eastern', 'Felker Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOLV', 'US/Central', 'Olive Branch Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KITH', 'US/Eastern', 'Ithaca Tompkins Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSPG', 'US/Eastern', 'Albert Whitted Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFMM', 'US/Mountain', 'Fort Morgan Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBKE', 'US/Pacific', 'Baker City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDEW', 'US/Pacific', 'Deer Park Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPBG', 'US/Eastern', 'Plattsburgh International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTIX', 'US/Eastern', 'Space Coast Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPIE', 'US/Eastern', 'St. Petersburg Clearwater International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLCQ', 'US/Eastern', 'Lake City Gateway Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTPA', 'US/Eastern', 'Tampa International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFMY', 'US/Eastern', 'Page Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUUU', 'US/Eastern', 'Newport State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOSH', 'US/Central', 'Wittman Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCQX', 'US/Eastern', 'Chatham Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUTA', 'US/Central', 'Tunica Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGBN', 'US/Mountain', 'Gila Bend Air Force Auxiliary Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWC', 'US/Central', 'Lawrence Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWO', 'US/Eastern', 'Middletown Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDYA', 'US/Central', 'Demopolis Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRZN', 'US/Central', 'Burnett County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFLD', 'US/Central', 'Fond du Lac County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEVW', 'US/Mountain', 'Evanston-Uinta County Airport-Burns Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KINF', 'US/Eastern', 'Inverness Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAWG', 'US/Central', 'Washington Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLFK', 'US/Central', 'Angelina County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRZR', 'US/Eastern', 'Cleveland Regional Jetport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBMT', 'US/Central', 'Beaumont Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KART', 'US/Eastern', 'Watertown International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJYM', 'US/Eastern', 'Hillsdale Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBIX', 'US/Central', 'Keesler Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHXD', 'US/Eastern', 'Hilton Head Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSOP', 'US/Eastern', 'Moore County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGGE', 'US/Eastern', 'Georgetown County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVPZ', 'US/Central', 'Porter County Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIXA', 'US/Eastern', 'Halifax-Northampton Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAKQ', 'US/Eastern', 'Wakefield Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEPH', 'US/Pacific', 'Ephrata Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPBF', 'US/Central', 'Pine Bluff Regional Airport, Grider Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVQQ', 'US/Eastern', 'Cecil Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCQW', 'US/Eastern', 'Cheraw Municipal Airport/Lynch Bellinger Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCWF', 'US/Central', 'Chennault International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KACQ', 'US/Central', 'Waseca Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWV', 'US/Central', 'Lawrenceville Vincennes International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJFZ', 'US/Eastern', 'Tazewell County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCLL', 'US/Central', 'Easterwood Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBCT', 'US/Eastern', 'Boca Raton Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAZ', 'US/Central', 'Staples Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHYA', 'US/Eastern', 'Cape Cod Gateway Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBIH', 'US/Pacific', 'Eastern Sierra Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K1H2', 'US/Central', 'Effingham County Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMRC', 'US/Central', 'Maury County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVSF', 'US/Eastern', 'Hartness State Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KZPH', 'US/Eastern', 'Zephyrhills Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRDK', 'US/Central', 'Red Oak Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOXR', 'US/Pacific', 'Oxnard Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEFK', 'US/Eastern', 'Northeast Kingdom International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDTN', 'US/Central', 'Shreveport Downtown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K6R3', 'US/Central', 'Cleveland Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFFZ', 'US/Mountain', 'Falcon Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGC', 'US/Central', 'Michigan City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAA', 'US/Mountain', 'Southeast Colorado Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCQM', 'US/Central', 'Cook Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNXP', 'US/Pacific', 'Twentynine Palms Strategic Expeditionary Landing Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KP08', 'US/Mountain', 'Coolidge Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCJR', 'US/Eastern', 'Culpeper Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFKL', 'US/Eastern', 'Venango Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVDI', 'US/Eastern', 'Vidalia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KILM', 'US/Eastern', 'Wilmington International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPAM', 'US/Central', 'Tyndall Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOGS', 'US/Eastern', 'Ogdensburg International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGGG', 'US/Central', 'East Texas Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRIL', 'US/Mountain', 'Garfield County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHQU', 'US/Eastern', 'Thomson-McDuffie County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVKS', 'US/Central', 'Vicksburg Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBHB', 'US/Eastern', 'Hancock County-Bar Harbor Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELY', 'US/Pacific', 'Ely Airport Yelland Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAF', 'US/Mountain', 'Santa Fe Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDPG', 'US/Mountain', 'Michael AAF (Dugway Proving Ground) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBNW', 'US/Central', 'Boone Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGBG', 'US/Central', 'Galesburg Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUOX', 'US/Central', 'University Oxford Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KARW', 'US/Eastern', 'Beaufort Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGXY', 'US/Mountain', 'Greeley–Weld County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGPT', 'US/Central', 'Gulfport Biloxi International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRYN', 'US/Mountain', 'Ryan Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGGP', 'US/Eastern', 'Logansport Cass County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCDC', 'US/Mountain', 'Cedar City Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSRB', 'US/Central', 'Upper Cumberland Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBYI', 'US/Mountain', 'Burley Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCRG', 'US/Eastern', 'Jacksonville Executive at Craig Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGYL', 'US/Central', 'Glencoe Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUDG', 'US/Eastern', 'Darlington County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLRD', 'US/Central', 'Laredo International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNBJ', 'US/Central', 'Naval Outlying Field Barin');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMHV', 'US/Pacific', 'Mojave Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLRU', 'US/Mountain', 'Las Cruces International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAR', 'US/Central', 'Sparta Community Airport - Hunter Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLHW', 'US/Eastern', 'MidCoast Regional Airport at Wright Army Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAJO', 'US/Pacific', 'Corona Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHKA', 'US/Central', 'Blytheville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KICT', 'US/Central', 'Wichita Eisenhower National Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFQD', 'US/Eastern', 'Rutherford County Marchman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGLS', 'US/Central', 'Scholes International At Galveston Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBMC', 'US/Mountain', 'Brigham City Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KASD', 'US/Central', 'Slidell Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRUT', 'US/Eastern', 'Rutland - Southern Vermont Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGED', 'US/Eastern', 'Delaware Coastal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOMN', 'US/Eastern', 'Ormond Beach Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGYR', 'US/Mountain', 'Phoenix Goodyear Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCEW', 'US/Central', 'Bob Sikes Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K04W', 'US/Central', 'Field of Dreams Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUCY', 'US/Central', 'Everett-Stewart Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K54J', 'US/Central', 'Defuniak Springs Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOKK', 'US/Central', 'Kokomo Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSFB', 'US/Eastern', 'Orlando Sanford International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIWI', 'US/Eastern', 'Wiscasset Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDED', 'US/Eastern', 'Deland Municipal Sidney H Taylor Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCPK', 'US/Eastern', 'Chesapeake Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMNI', 'US/Eastern', 'Santee Cooper Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRCE', 'US/Central', 'Clarence E Page Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGAD', 'US/Central', 'Northeast Alabama Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMDQ', 'US/Central', 'Madison County Executive Airport-Tom Sharp Jr Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTOI', 'US/Central', 'Troy Municipal Airport at N Kenneth Campbell Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGEU', 'US/Mountain', 'Glendale Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVWU', 'US/Central', 'Waskish Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBOW', 'US/Eastern', 'Bartow Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPKD', 'US/Central', 'Park Rapids Municipal Airport Konshok Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWD', 'US/Central', 'Lamoni Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOPF', 'US/Eastern', 'Miami-Opa Locka Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPRB', 'US/Pacific', 'Paso Robles Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGTB', 'US/Eastern', 'Wheeler Sack Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K42J', 'US/Eastern', 'Keystone Heights Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRGK', 'US/Central', 'Red Wing Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGUS', 'US/Eastern', 'Grissom Air Reserve Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRUE', 'US/Central', 'Russellville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTLH', 'US/Eastern', 'Tallahassee Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHFJ', 'US/Central', 'Monett Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEFD', 'US/Central', 'Ellington Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLHX', 'US/Mountain', 'La Junta Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOCF', 'US/Eastern', 'Ocala International Airport - Jim Taylor Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJGG', 'US/Eastern', 'Williamsburg Jamestown Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAKO', 'US/Mountain', 'Colorado Plains Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLIT', 'US/Central', 'Bill & Hillary Clinton National Airport/Adams Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSNK', 'US/Central', 'Winston Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDVP', 'US/Central', 'Slayton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHWO', 'US/Eastern', 'North Perry Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMML', 'US/Central', 'Southwest Minnesota Regional Airport - Marshall/Ryan Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSGT', 'US/Central', 'Stuttgart Municipal Airport / Carl Humphrey Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KM30', 'US/Central', 'Metropolis Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K8A0', 'US/Central', 'Albertville Regional Airport/Thomas J Brumlik Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHSV', 'US/Central', 'Huntsville International Carl T Jones Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLBX', 'US/Central', 'Texas Gulf Coast Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMIA', 'US/Eastern', 'Miami International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBZN', 'US/Mountain', 'Bozeman Yellowstone International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLVS', 'US/Mountain', 'Las Vegas Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOWA', 'US/Central', 'Owatonna Degner Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRQB', 'US/Eastern', 'Roben Hood Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHIE', 'US/Eastern', 'Mount Washington Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFUL', 'US/Pacific', 'Fullerton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOXB', 'US/Eastern', 'Ocean City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRKS', 'US/Mountain', 'Southwest Wyoming Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFSK', 'US/Central', 'Fort Scott Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCQF', 'US/Central', 'H L Sonny Callahan Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRWL', 'US/Mountain', 'Rawlins Municipal Airport/Harvey Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCNY', 'US/Mountain', 'Canyonlands Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K4A9', 'US/Central', 'Isbell Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJYL', 'US/Eastern', 'Plantation Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMAI', 'US/Central', 'Marianna Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLKU', 'US/Eastern', 'Louisa County Airport / Freeman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTCC', 'US/Mountain', 'Tucumcari Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMRY', 'US/Pacific', 'Monterey Peninsula Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBYH', 'US/Central', 'Arkansas International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGVT', 'US/Central', 'Majors Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRSW', 'US/Eastern', 'Southwest Florida International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPGD', 'US/Eastern', 'Punta Gorda Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGTU', 'US/Central', 'Georgetown Executive Airport at Johnny Gantt Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KC35', 'US/Central', 'Reedsburg Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KENV', 'US/Mountain', 'Wendover Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHTL', 'US/Eastern', 'Roscommon County - Blodgett Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBRD', 'US/Central', 'Brainerd Lakes Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDBN', 'US/Eastern', 'W H ''Bud'' Barron Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVAD', 'US/Eastern', 'Moody Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFXE', 'US/Eastern', 'Fort Lauderdale Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KULM', 'US/Central', 'New Ulm Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCMX', 'US/Eastern', 'Houghton County Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOWP', 'US/Central', 'William R. Pogue Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KANB', 'US/Central', 'Anniston Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOLU', 'US/Central', 'Columbus Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVER', 'US/Central', 'Jesse Viertel Memorial Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBVU', 'US/Pacific', 'Boulder City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBTV', 'US/Eastern', 'Burlington International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHRT', 'US/Central', 'Hurlburt Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPBI', 'US/Eastern', 'Palm Beach International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNMM', 'US/Central', 'Naval Air Station Meridian / McCain Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSNY', 'US/Mountain', 'Sidney Municipal Airport Lloyd W Carr Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBGD', 'US/Central', 'Hutchinson County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBGF', 'US/Eastern', 'Winchester Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLGU', 'US/Mountain', 'Logan-Cache Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTCS', 'US/Mountain', 'Truth or Consequences Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPCM', 'US/Eastern', 'Plant City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMFE', 'US/Central', 'McAllen Miller International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJLN', 'US/Central', 'Joplin Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJZI', 'US/Eastern', 'Charleston Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTAD', 'US/Mountain', 'Perry Stokes Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLOL', 'US/Pacific', 'Derby Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRWI', 'US/Eastern', 'Rocky Mount Wilson Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLRF', 'US/Central', 'Little Rock Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KYKM', 'US/Pacific', 'Yakima Air Terminal McAllister Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMGM', 'US/Central', 'Montgomery Regional (Dannelly Field) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLS', 'US/Mountain', 'Miles City Airport - Frank Wiley Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDYT', 'US/Central', 'Sky Harbor Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDTL', 'US/Central', 'Detroit Lakes Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGWW', 'US/Eastern', 'Wayne Executive Jetport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTOC', 'US/Eastern', 'Toccoa Airport - R.G. Letourneau Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJYG', 'US/Central', 'St James Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUXL', 'US/Central', 'Southland Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMSL', 'US/Central', 'Northwest Alabama Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRHI', 'US/Central', 'Rhinelander Oneida County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGUP', 'US/Mountain', 'Gallup Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOLE', 'US/Eastern', 'Cattaraugus County-Olean Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KANK', 'US/Mountain', 'Salida Airport - Harriet Alexander Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFRM', 'US/Central', 'Fairmont Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLPC', 'US/Pacific', 'Lompoc Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCKF', 'US/Eastern', 'Crisp County Cordele Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KODO', 'US/Central', 'Odessa Schlemeyer Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLNR', 'US/Central', 'Tri-County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAUM', 'US/Central', 'Austin Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFLL', 'US/Eastern', 'Fort Lauderdale Hollywood International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLJ', 'US/Eastern', 'Baldwin County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLVJ', 'US/Central', 'Pearland Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCGZ', 'US/Mountain', 'Casa Grande Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBO', 'US/Eastern', 'Emanuel County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSPS', 'US/Central', 'Wichita Falls Municipal Airport / Sheppard Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSLI', 'US/Pacific', 'Los Alamitos Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMEB', 'US/Eastern', 'Laurinburg Maxton Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRUQ', 'US/Eastern', 'Mid-Carolina Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHJH', 'US/Central', 'Hebron Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGDV', 'US/Mountain', 'Dawson Community Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KINL', 'US/Central', 'Falls International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KECP', 'US/Eastern', 'Northwest Florida Beaches International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMLU', 'US/Central', 'Monroe Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLUF', 'US/Mountain', 'Luke Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KM19', 'US/Central', 'Newport Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRSN', 'US/Central', 'Ruston Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHDN', 'US/Mountain', 'Yampa Valley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNKX', 'US/Pacific', 'Miramar Marine Corps Air Station - Mitscher Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAZC', 'US/Mountain', 'Colorado City Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFTK', 'US/Eastern', 'Godman Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFLY', 'US/Mountain', 'Meadow Lake Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEXX', 'US/Eastern', 'Davidson County Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K3R7', 'US/Central', 'Jennings Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDHN', 'US/Central', 'Dothan Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIZA', 'US/Pacific', 'Santa Ynez Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRWF', 'US/Central', 'Redwood Falls Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAPF', 'US/Eastern', 'Naples Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPQL', 'US/Central', 'Trent Lott International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAN', 'US/Pacific', 'San Diego International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMCF', 'US/Eastern', 'MacDill Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLAL', 'US/Eastern', 'Lakeland Linder International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSAD', 'US/Mountain', 'Safford Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSDL', 'US/Mountain', 'Scottsdale Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KO86', 'US/Pacific', 'Trinity Center Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNRB', 'US/Eastern', 'Naval Station Mayport / Admiral David L McDonald Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEDW', 'US/Pacific', 'Edwards Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTMB', 'US/Eastern', 'Miami Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLGC', 'US/Eastern', 'LaGrange Callaway Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCGC', 'US/Eastern', 'Crystal River Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAQP', 'US/Central', 'Appleton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSUA', 'US/Eastern', 'Witham Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCNO', 'US/Pacific', 'Chino Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPMP', 'US/Eastern', 'Pompano Beach Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSMX', 'US/Pacific', 'Santa Maria Public Airport Captain G Allan Hancock Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K40J', 'US/Eastern', 'Perry-Foley Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSBS', 'US/Mountain', 'Steamboat Springs Bob Adams Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEED', 'US/Pacific', 'Needles Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K1M4', 'US/Central', 'Posey Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAJZ', 'US/Mountain', 'Blake Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNCA', 'US/Eastern', 'MCAS New River / McCutcheon Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K12N', 'US/Eastern', 'Aeroflex-Andover Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLWT', 'US/Mountain', 'Lewistown Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCOF', 'US/Eastern', 'Patrick Space Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFZG', 'US/Eastern', 'Fitzgerald Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGIF', 'US/Eastern', 'Winter Haven Regional Airport - Gilbert Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCEC', 'US/Pacific', 'Jack Mc Namara Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAUO', 'US/Central', 'Auburn University Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELZ', 'US/Eastern', 'Wellsville Municipal Airport - Tarantine Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTUP', 'US/Central', 'Tupelo Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGZH', 'US/Central', 'Evergreen Regional Airport/Middleton Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNZY', 'US/Pacific', 'North Island Naval Air Station-Halsey Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMVN', 'US/Central', 'Mount Vernon Outland Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIER', 'US/Central', 'Natchitoches Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUIL', 'US/Pacific', 'Quillayute Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHEY', 'US/Central', 'Hanchey Army (Fort Rucker) Heliport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFHB', 'US/Eastern', 'Fernandina Beach Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUKF', 'US/Eastern', 'Wilkes County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KACJ', 'US/Eastern', 'Jimmy Carter Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSEE', 'US/Pacific', 'Gillespie Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFFM', 'US/Central', 'Fergus Falls Municipal Airport - Einar Mickelson Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHOT', 'US/Central', 'Memorial Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJMR', 'US/Central', 'Mora Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSDM', 'US/Pacific', 'Brown Field Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGSB', 'US/Eastern', 'Seymour Johnson Air Force Base');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KXVG', 'US/Central', 'Longville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K1A5', 'US/Eastern', 'Macon County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHST', 'US/Eastern', 'Homestead ARB Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUTS', 'US/Central', 'Huntsville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHSA', 'US/Central', 'Stennis International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDTS', 'US/Central', 'Destin Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTH', 'US/Eastern', 'The Florida Keys Marathon Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNYL', 'US/Mountain', 'Yuma International Airport / Marine Corps Air Station Yuma');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KO54', 'US/Pacific', 'Lonnie Pool Field Weaverville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHBI', 'US/Eastern', 'Asheboro Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTPH', 'US/Pacific', 'Tonopah Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFAM', 'US/Central', 'Farmington Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMEI', 'US/Central', 'Key Field / Meridian Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTVI', 'US/Eastern', 'Thomasville Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOVL', 'US/Central', 'Olivia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLOR', 'US/Central', 'Lowe AHP (Fort Rucker) Heliport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMRN', 'US/Eastern', 'Foothills Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KETC', 'US/Eastern', 'Tarboro Edgecombe Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELD', 'US/Central', 'South Arkansas Regional Airport at Goodwin Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K9A4', 'US/Central', 'Courtland Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEVB', 'US/Eastern', 'New Smyrna Beach Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGCN', 'US/Mountain', 'Grand Canyon National Park Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBLH', 'US/Pacific', 'Blythe Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEWN', 'US/Eastern', 'Coastal Carolina Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSLK', 'US/Eastern', 'Adirondack Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRHP', 'US/Eastern', 'Western Carolina Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNSE', 'US/Central', 'Whiting Field Naval Air Station - North');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K4A6', 'US/Central', 'Scottsboro Municipal Word Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVBT', 'US/Central', 'Bentonville Municipal-Louise M Thaden Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNID', 'US/Pacific', 'China Lake Naws (Armitage Field) Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVPS', 'US/Central', 'Destin-Fort Walton Beach Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KISO', 'US/Eastern', 'Kinston Regional Jetport At Stallings Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOCW', 'US/Eastern', 'Warren Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDRO', 'US/Mountain', 'Durango La Plata County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOMH', 'US/Eastern', 'Orange County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJBR', 'US/Central', 'Jonesboro Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLSF', 'US/Eastern', 'Lawson Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBQK', 'US/Eastern', 'Brunswick Golden Isles Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTBR', 'US/Eastern', 'Statesboro Bulloch County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNBG', 'US/Central', 'New Orleans NAS JRB/Alvin Callender Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOAJ', 'US/Eastern', 'Albert J Ellis Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLNP', 'US/Eastern', 'Lonesome Pine Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K14Y', 'US/Central', 'Todd Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCTY', 'US/Eastern', 'Cross City Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCWV', 'US/Eastern', 'Claxton Evans County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPNT', 'US/Central', 'Pontiac Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGPI', 'US/Mountain', 'Glacier Park International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNDZ', 'US/Central', 'Whiting Field Naval Air Station South Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJFX', 'US/Central', 'Walker County Airport Bevill Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCIR', 'US/Central', 'Cairo Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KELO', 'US/Central', 'Ely Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDRA', 'US/Pacific', 'Desert Rock Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPGA', 'US/Mountain', 'Page Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTKC', 'US/Central', 'Tracy Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIFP', 'US/Mountain', 'Laughlin Bullhead International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K33V', 'US/Mountain', 'Walden Jackson County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSRC', 'US/Central', 'Searcy Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KASJ', 'US/Eastern', 'Tri-County Airport at Henry Joyner Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFSM', 'US/Central', 'Fort Smith Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTVC', 'US/Eastern', 'Cherry Capital Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLLQ', 'US/Central', 'Monticello Municipal Ellis Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIJX', 'US/Central', 'Jacksonville Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNFE', 'US/Eastern', 'Fentress Naval Auxiliary Landing Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFEP', 'US/Central', 'Albertus Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTRL', 'US/Central', 'Terrell Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFAR', 'US/Central', 'Hector International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMWK', 'US/Eastern', 'Mount Airy Surry County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KIPJ', 'US/Eastern', 'Lincolnton Lincoln County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFOD', 'US/Central', 'Fort Dodge Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KOOA', 'US/Central', 'Oskaloosa Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPLN', 'US/Eastern', 'Pellston Regional Airport of Emmet County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSIF', 'US/Eastern', 'Rockingham County NC Shiloh Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHVR', 'US/Mountain', 'Havre City County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KROG', 'US/Central', 'Rogers Municipal Airport-Carter Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KVCT', 'US/Central', 'Victoria Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K65S', 'US/Pacific', 'Boundary County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAAT', 'US/Pacific', 'Alturas Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHOP', 'US/Central', 'Campbell Army Airfield (Fort Campbell)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSIY', 'US/Pacific', 'Siskiyou County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJMS', 'US/Central', 'Jamestown Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMKY', 'US/Eastern', 'Marco Island Executive Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSTK', 'US/Mountain', 'Sterling Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGHW', 'US/Central', 'Glenwood Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KABY', 'US/Eastern', 'Southwest Georgia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KXMR', 'US/Eastern', 'Cape Canaveral SFS Skid Strip');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAEX', 'US/Central', 'Alexandria International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEZM', 'US/Eastern', 'Heart of Georgia Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSUT', 'US/Eastern', 'Cape Fear Regional Jetport / Howie Franklin Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBIS', 'US/Central', 'Bismarck Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHOE', 'US/Eastern', 'Homerville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K79J', 'US/Central', 'South Alabama Regional At Bill Benton Field Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTXK', 'US/Central', 'Texarkana Regional Airport (Webb Field)');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KM89', 'US/Central', 'Dexter B Florence Memorial Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K20V', 'US/Mountain', 'McElroy Airfield');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KJKJ', 'US/Central', 'Moorhead Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGFK', 'US/Central', 'Grand Forks International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCEZ', 'US/Mountain', 'Cortez Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSJN', 'US/Mountain', 'St Johns Industrial Air Park');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KORB', 'US/Central', 'Orr Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('K6A1', 'US/Eastern', 'Butler Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMEZ', 'US/Central', 'Mena Intermountain Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBBB', 'US/Central', 'Benson Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KTVF', 'US/Central', 'Thief River Falls Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KRCZ', 'US/Eastern', 'Richmond County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KPGV', 'US/Eastern', 'Pitt-Greenville Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNQX', 'US/Eastern', 'Naval Air Station Key West/Boca Chica Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KFHU', 'US/Mountain', 'Sierra Vista Municipal Airport / Libby Army Air Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KASG', 'US/Central', 'Springdale Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEYF', 'US/Eastern', 'Curtis L Brown Jr Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMOT', 'US/Central', 'Minot International Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDPL', 'US/Eastern', 'Duplin County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KY19', 'US/Central', 'Mandan Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KLBT', 'US/Eastern', 'Lumberton Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KDEQ', 'US/Central', 'J Lynn Helms Sevier County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KW22', 'US/Eastern', 'Upshur County Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCDH', 'US/Central', 'Harrell Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KSLG', 'US/Central', 'Smith Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KEUF', 'US/Central', 'Weedon Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KNUI', 'US/Eastern', 'Naval Outlying Landing Field Webster');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMTJ', 'US/Mountain', 'Montrose Regional Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KHRX', 'US/Central', 'Hereford Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KUBE', 'US/Central', 'Cumberland Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KCCA', 'US/Central', 'Clinton Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KINK', 'US/Central', 'Winkler County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KMDD', 'US/Central', 'Midland Airpark');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAZE', 'US/Eastern', 'Hazlehurst Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAFP', 'US/Eastern', 'Anson County Airport - Jeff Cloud Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBPG', 'US/Central', 'Big Spring Mc Mahon-Wrinkle Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KBAC', 'US/Central', 'Barnes County Municipal Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KGGW', 'US/Mountain', 'Glasgow Valley County Airport Wokal Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KE11', 'US/Central', 'Andrews County Airport');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KALS', 'US/Mountain', 'San Luis Valley Regional Airport/Bergman Field');
-INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES ('KAYS', 'US/Eastern', 'Waycross Ware County Airport');
+-- INSERT statements for AIRPORTS table
+-- Generated automatically from AIRPORTS_COM_NOME.csv
+
+INSERT INTO AIRPORTS (Airport_Code, Timezone, Airport_Name) VALUES
+('KCMH', 'US/Eastern', 'John Glenn Columbus International Airport'),
+('KROA', 'US/Eastern', 'Roanoke–Blacksburg Regional Airport'),
+('KBED', 'US/Eastern', 'Laurence G Hanscom Field'),
+('KARR', 'US/Central', 'Aurora Municipal Airport'),
+('KCGS', 'US/Eastern', 'College Park Airport'),
+('KLUK', 'US/Eastern', 'Cincinnati Municipal Airport Lunken Field'),
+('KOXC', 'US/Eastern', 'Waterbury Oxford Airport'),
+('KMDW', 'US/Central', 'Chicago Midway International Airport'),
+('KJFK', 'US/Eastern', 'John F Kennedy International Airport'),
+('KSWF', 'US/Eastern', 'New York Stewart International Airport'),
+('KTZR', 'US/Eastern', 'Bolton Field'),
+('KHPN', 'US/Eastern', 'Westchester County Airport'),
+('KFNT', 'US/Eastern', 'Bishop International Airport'),
+('KLOM', 'US/Eastern', 'Wings Field'),
+('KMCJ', 'US/Central', 'Salina Municipal Airport'),
+('KLGA', 'US/Eastern', 'LaGuardia Airport'),
+('KATL', 'US/Eastern', 'Hartsfield Jackson Atlanta International Airport'),
+('KPTW', 'US/Eastern', 'Heritage Field'),
+('KBDL', 'US/Eastern', 'Bradley International Airport'),
+('KDAL', 'US/Central', 'Dallas Love Field'),
+('KAGC', 'US/Eastern', 'Allegheny County Airport'),
+('KFIG', 'US/Eastern', 'Clearfield Lawrence Airport'),
+('KDVO', 'US/Pacific', 'Marin County Airport - Gnoss Field'),
+('KVLL', 'US/Eastern', 'Oakland Troy Airport'),
+('KMTC', 'US/Eastern', 'Selfridge Air National Guard Base Airport'),
+('KBKL', 'US/Eastern', 'Burke Lakefront Airport'),
+('KSLB', 'US/Central', 'Storm Lake Municipal Airport'),
+('KMWC', 'US/Central', 'Lawrence J Timmerman Airport'),
+('KGYY', 'US/Central', 'Gary Chicago International Airport'),
+('KBVY', 'US/Eastern', 'Beverly Regional Airport'),
+('KD95', 'US/Eastern', 'Dupont-Lapeer Airport'),
+('KLWM', 'US/Eastern', 'Lawrence Municipal Airport'),
+('KBDR', 'US/Eastern', 'Igor I Sikorsky Memorial Airport'),
+('KIKV', 'US/Central', 'Ankeny Regional Airport'),
+('KOQN', 'US/Eastern', 'Brandywine Regional Airport'),
+('KRNT', 'US/Pacific', 'Renton Municipal Airport'),
+('KALB', 'US/Eastern', 'Albany International Airport'),
+('KMLE', 'US/Central', 'Millard Airport'),
+('KEWR', 'US/Eastern', 'Newark Liberty International Airport'),
+('KDET', 'US/Eastern', 'Coleman A. Young Municipal Airport'),
+('KORD', 'US/Central', 'Chicago O''Hare International Airport'),
+('KOKH', 'US/Pacific', 'AJ Eisenberg Airport'),
+('KDAY', 'US/Eastern', 'James M Cox Dayton International Airport'),
+('KOJC', 'US/Central', 'Johnson County Executive Airport'),
+('KLVN', 'US/Central', 'Airlake Airport'),
+('KLOU', 'US/Eastern', 'Bowman Field'),
+('K3A6', 'US/Pacific', 'Pacific City State Airport'),
+('KIDA', 'US/Mountain', 'Idaho Falls Regional Airport'),
+('KUKT', 'US/Eastern', 'Quakertown Airport'),
+('KDSM', 'US/Central', 'Des Moines International Airport'),
+('KRME', 'US/Eastern', 'Griffiss International Airport'),
+('KPDX', 'US/Pacific', 'Portland International Airport'),
+('KRJD', 'US/Eastern', 'Ridgely Airpark'),
+('KRDG', 'US/Eastern', 'Reading Regional Airport (Carl A Spaatz Field)'),
+('KMCC', 'US/Pacific', 'McClellan Airfield'),
+('KPNE', 'US/Eastern', 'Northeast Philadelphia Airport'),
+('KLNS', 'US/Eastern', 'Lancaster Airport'),
+('KMMK', 'US/Eastern', 'Meriden Markham Municipal Airport'),
+('KDMW', 'US/Eastern', 'Carroll County Regional Jack B Poage Field'),
+('KCEF', 'US/Eastern', 'Westover Metropolitan Airport / Westover Air Reserve Base'),
+('KPSF', 'US/Eastern', 'Pittsfield Municipal Airport'),
+('KAFF', 'US/Mountain', 'USAF Academy Airfield'),
+('KBOS', 'US/Eastern', 'Logan International Airport'),
+('KLDJ', 'US/Eastern', 'Linden Airport'),
+('K4I3', 'US/Eastern', 'Knox County Airport'),
+('KJRB', 'US/Eastern', 'Downtown Manhattan Heliport'),
+('KORH', 'US/Eastern', 'Worcester Regional Airport'),
+('KIAD', 'US/Eastern', 'Washington Dulles International Airport'),
+('KSGS', 'US/Central', 'South St Paul Municipal Airport/Richard E Fleming Field'),
+('KVIS', 'US/Pacific', 'Visalia Municipal Airport'),
+('KOSU', 'US/Eastern', 'The Ohio State University Airport - Don Scott Field'),
+('KUCP', 'US/Eastern', 'New Castle Municipal Airport'),
+('KRDU', 'US/Eastern', 'Raleigh Durham International Airport'),
+('KJYO', 'US/Eastern', 'Leesburg Executive Airport'),
+('KGTF', 'US/Mountain', 'Great Falls International Airport'),
+('KIRS', 'US/Eastern', 'Kirsch Municipal Airport'),
+('KBWI', 'US/Eastern', 'Baltimore/Washington International Thurgood Marshall Airport'),
+('KSTL', 'US/Central', 'St. Louis Lambert International Airport'),
+('KOFF', 'US/Central', 'Offutt Air Force Base'),
+('KMKC', 'US/Central', 'Charles B. Wheeler Downtown Airport'),
+('KAMW', 'US/Central', 'Ames Municipal Airport'),
+('KTHV', 'US/Eastern', 'York Airport'),
+('KPHL', 'US/Eastern', 'Philadelphia International Airport'),
+('KOMA', 'US/Central', 'Eppley Airfield'),
+('KPWK', 'US/Central', 'Chicago Executive Airport'),
+('KSMQ', 'US/Eastern', 'Somerset Airport'),
+('KIGQ', 'US/Central', 'Lansing Municipal Airport'),
+('KCLE', 'US/Eastern', 'Cleveland Hopkins International Airport'),
+('KDCA', 'US/Eastern', 'Ronald Reagan Washington National Airport'),
+('KCXY', 'US/Eastern', 'Capital City Airport'),
+('KSEA', 'US/Pacific', 'Seattle–Tacoma International Airport'),
+('KFTY', 'US/Eastern', 'Fulton County Airport Brown Field'),
+('KMGE', 'US/Eastern', 'Dobbins Air Reserve Base'),
+('KVES', 'US/Eastern', 'Darke County Airport'),
+('KPWT', 'US/Pacific', 'Bremerton National Airport'),
+('KNFJ', 'US/Central', 'Choctaw Nolf Airport'),
+('KPLU', 'US/Pacific', 'Pierce County-Thun Field'),
+('KTIW', 'US/Pacific', 'Tacoma Narrows Airport'),
+('KSDF', 'US/Eastern', 'Louisville Muhammad Ali International Airport'),
+('KPDK', 'US/Eastern', 'DeKalb Peachtree Airport'),
+('KDUH', 'US/Eastern', 'Toledo Suburban Airport'),
+('KTOL', 'US/Eastern', 'Eugene F. Kranz Toledo Express Airport'),
+('KRNO', 'US/Pacific', 'Reno Tahoe International Airport'),
+('KADW', 'US/Eastern', 'Joint Base Andrews'),
+('KCCR', 'US/Pacific', 'Buchanan Field'),
+('KGRR', 'US/Eastern', 'Gerald R. Ford International Airport'),
+('KDXR', 'US/Eastern', 'Danbury Municipal Airport'),
+('KSLC', 'US/Mountain', 'Salt Lake City International Airport'),
+('KCLT', 'US/Eastern', 'Charlotte Douglas International Airport'),
+('K21D', 'US/Central', 'Lake Elmo Airport'),
+('KPSM', 'US/Eastern', 'Portsmouth International at Pease Airport'),
+('KRIC', 'US/Eastern', 'Richmond International Airport'),
+('KE16', 'US/Pacific', 'San Martin Airport'),
+('KILG', 'US/Eastern', 'Wilmington Airport'),
+('KFWA', 'US/Eastern', 'Fort Wayne International Airport'),
+('KTTD', 'US/Pacific', 'Portland Troutdale Airport'),
+('KBFI', 'US/Pacific', 'Boeing Field King County International Airport'),
+('KISP', 'US/Eastern', 'Long Island Mac Arthur Airport'),
+('KPOU', 'US/Eastern', 'Dutchess County Airport'),
+('KUGN', 'US/Central', 'Waukegan National Airport'),
+('KFFO', 'US/Eastern', 'Wright-Patterson Air Force Base'),
+('KDPA', 'US/Central', 'Dupage Airport'),
+('KSCH', 'US/Eastern', 'Schenectady County Airport'),
+('KCCY', 'US/Central', 'Northeast Iowa Regional Airport'),
+('KPIT', 'US/Eastern', 'Pittsburgh International Airport'),
+('KSYR', 'US/Eastern', 'Syracuse Hancock International Airport'),
+('KMHR', 'US/Pacific', 'Sacramento Mather Airport'),
+('KK22', 'US/Eastern', 'Big Sandy Regional Airport'),
+('KPMD', 'US/Pacific', 'Palmdale Regional Airport / USAF Plant 42 Airport'),
+('KPAE', 'US/Pacific', 'Seattle Paine Field International Airport'),
+('KAND', 'US/Eastern', 'Anderson Regional Airport'),
+('KFDK', 'US/Eastern', 'Frederick Municipal Airport'),
+('KGON', 'US/Eastern', 'Groton New London Airport'),
+('KAEL', 'US/Central', 'Albert Lea Municipal Airport'),
+('KDAW', 'US/Eastern', 'Skyhaven Airport'),
+('KSFZ', 'US/Eastern', 'North Central State Airport'),
+('KPTK', 'US/Eastern', 'Oakland County International Airport'),
+('KSUU', 'US/Pacific', 'Travis Air Force Base'),
+('KSNC', 'US/Eastern', 'Chester Airport'),
+('KPVD', 'US/Eastern', 'Theodore Francis Green State Airport'),
+('KU78', 'US/Mountain', 'Allen H Tigert Airport'),
+('KFCM', 'US/Central', 'Flying Cloud Airport'),
+('KPDT', 'US/Pacific', 'Eastern Oregon Regional Airport at Pendleton'),
+('KMGY', 'US/Eastern', 'Dayton-Wright Brothers Airport'),
+('KAUN', 'US/Pacific', 'Auburn Municipal Airport'),
+('KRYV', 'US/Central', 'Watertown Municipal Airport'),
+('KEUG', 'US/Pacific', 'Mahlon Sweet Field'),
+('KANE', 'US/Central', 'Anoka County-Blaine (Janes Field) Airport'),
+('KLBE', 'US/Eastern', 'Arnold Palmer Regional Airport'),
+('KBGR', 'US/Eastern', 'Bangor International Airport'),
+('KOPN', 'US/Eastern', 'Thomaston Upson County Airport'),
+('KRBD', 'US/Central', 'Dallas Executive Airport'),
+('KSEZ', 'US/Mountain', 'Sedona Airport'),
+('KPVU', 'US/Mountain', 'Provo-Utah Lake International Airport'),
+('KVNC', 'US/Eastern', 'Venice Municipal Airport'),
+('K9A1', 'US/Eastern', 'Covington Municipal Airport'),
+('KTDZ', 'US/Eastern', 'Toledo Executive Airport'),
+('KMPO', 'US/Eastern', 'Pocono Mountains Municipal Airport'),
+('KHWD', 'US/Pacific', 'Hayward Executive Airport'),
+('KUNI', 'US/Eastern', 'Ohio University Airport'),
+('KMCI', 'US/Central', 'Kansas City International Airport'),
+('KFKS', 'US/Eastern', 'Frankfort Dow Memorial Field'),
+('KAPG', 'US/Eastern', 'Phillips Army Air Field'),
+('KMIC', 'US/Central', 'Crystal Airport'),
+('KVAY', 'US/Eastern', 'South Jersey Regional Airport'),
+('KDFW', 'US/Central', 'Dallas Fort Worth International Airport'),
+('KMQY', 'US/Central', 'Smyrna Airport'),
+('KAPA', 'US/Mountain', 'Centennial Airport'),
+('KLGD', 'US/Pacific', 'La Grande/Union County Airport'),
+('KDTW', 'US/Eastern', 'Detroit Metropolitan Wayne County Airport'),
+('KAKR', 'US/Eastern', 'Akron Fulton International Airport'),
+('KACY', 'US/Eastern', 'Atlantic City International Airport'),
+('KINJ', 'US/Central', 'Hillsboro Municipal Airport'),
+('KTTF', 'US/Eastern', 'Custer Airport'),
+('KLOT', 'US/Central', 'Lewis University Airport'),
+('KHSP', 'US/Eastern', 'Ingalls Field'),
+('KMKJ', 'US/Eastern', 'Mountain Empire Airport'),
+('KBIV', 'US/Eastern', 'West Michigan Regional Airport'),
+('KDAA', 'US/Eastern', 'Davison Army Air Field'),
+('KBVS', 'US/Pacific', 'Skagit Regional Airport'),
+('KMSP', 'US/Central', 'Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field'),
+('KLWB', 'US/Eastern', 'Greenbrier Valley Airport'),
+('KCGF', 'US/Eastern', 'Cuyahoga County Airport'),
+('KFKA', 'US/Central', 'Fillmore County Airport'),
+('KAWO', 'US/Pacific', 'Arlington Municipal Airport'),
+('KBUF', 'US/Eastern', 'Buffalo Niagara International Airport'),
+('KBUR', 'US/Pacific', 'Hollywood Burbank Airport'),
+('KTEB', 'US/Eastern', 'Teterboro Airport'),
+('KIOB', 'US/Eastern', 'Mount Sterling Montgomery County Airport'),
+('KVTA', 'US/Eastern', 'Newark Heath Airport'),
+('KCPS', 'US/Central', 'St Louis Downtown Airport'),
+('KSEG', 'US/Eastern', 'Penn Valley Airport'),
+('KNEW', 'US/Central', 'Lakefront Airport'),
+('KTME', 'US/Central', 'Houston Executive Airport'),
+('KRAL', 'US/Pacific', 'Riverside Municipal Airport'),
+('KERY', 'US/Eastern', 'Luce County Airport'),
+('KMJX', 'US/Eastern', 'Ocean County Airport'),
+('KIJD', 'US/Eastern', 'Windham Airport'),
+('KLCK', 'US/Eastern', 'Rickenbacker International Airport'),
+('KSCK', 'US/Pacific', 'Stockton Metropolitan Airport'),
+('KAPC', 'US/Pacific', 'Napa County Airport'),
+('KSFF', 'US/Pacific', 'Felts Field'),
+('KXFL', 'US/Eastern', 'Flagler Executive Airport'),
+('KTYR', 'US/Central', 'Tyler Pounds Regional Airport'),
+('KFRG', 'US/Eastern', 'Republic Airport'),
+('KJQF', 'US/Eastern', 'Concord-Padgett Regional Airport'),
+('KLGB', 'US/Pacific', 'Long Beach Airport (Daugherty Field)'),
+('KLVK', 'US/Pacific', 'Livermore Municipal Airport'),
+('KTEX', 'US/Mountain', 'Telluride Regional Airport'),
+('KEYE', 'US/Eastern', 'Eagle Creek Airpark'),
+('KBJC', 'US/Mountain', 'Rocky Mountain Metropolitan Airport'),
+('KSMF', 'US/Pacific', 'Sacramento International Airport'),
+('KU42', 'US/Mountain', 'South Valley Regional Airport'),
+('KENW', 'US/Central', 'Kenosha Regional Airport'),
+('KOLZ', 'US/Central', 'Oelwein Municipal Airport'),
+('KBNA', 'US/Central', 'Nashville International Airport'),
+('KBAK', 'US/Eastern', 'Columbus Municipal Airport'),
+('KZZV', 'US/Eastern', 'Zanesville Municipal Airport'),
+('KHFD', 'US/Eastern', 'Hartford Brainard Airport'),
+('KBKF', 'US/Mountain', 'Buckley Space Force Base'),
+('KGRF', 'US/Pacific', 'Gray Army Air Field'),
+('KFWS', 'US/Central', 'Fort Worth Spinks Airport'),
+('KMKT', 'US/Central', 'Mankato Regional Airport'),
+('KLSV', 'US/Pacific', 'Nellis Air Force Base'),
+('KAVL', 'US/Eastern', 'Asheville Regional Airport'),
+('KHGR', 'US/Eastern', 'Hagerstown Regional Richard A Henson Field'),
+('KMQS', 'US/Eastern', 'Chester County G O Carlson Airport'),
+('KCHD', 'US/Mountain', 'Chandler Municipal Airport'),
+('KGSO', 'US/Eastern', 'Piedmont Triad International Airport'),
+('KLXT', 'US/Central', 'Lee''s Summit Municipal Airport'),
+('KPHX', 'US/Mountain', 'Phoenix Sky Harbor International Airport'),
+('KCID', 'US/Central', 'The Eastern Iowa Airport'),
+('KVCB', 'US/Pacific', 'Nut Tree Airport'),
+('KCAK', 'US/Eastern', 'Akron Canton Regional Airport'),
+('KIKW', 'US/Eastern', 'Jack Barstow Airport'),
+('KEDU', 'US/Pacific', 'University Airport'),
+('KMGJ', 'US/Eastern', 'Orange County Airport'),
+('KF46', 'US/Central', 'Rockwall Municipal Airport'),
+('KHQZ', 'US/Central', 'Mesquite Metro Airport'),
+('KFME', 'US/Eastern', 'Tipton Airport'),
+('KFEW', 'US/Mountain', 'Francis E Warren Air Force Base'),
+('KDCU', 'US/Central', 'Pryor Field Regional Airport'),
+('KMDT', 'US/Eastern', 'Harrisburg International Airport'),
+('KPVF', 'US/Pacific', 'Placerville Airport'),
+('KAZO', 'US/Eastern', 'Kalamazoo Battle Creek International Airport'),
+('KIMM', 'US/Eastern', 'Immokalee Regional Airport'),
+('KRIV', 'US/Pacific', 'March Air Reserve Base'),
+('KBTA', 'US/Central', 'Blair Executive Airport'),
+('KGPM', 'US/Central', 'Grand Prairie Municipal Airport'),
+('KSTS', 'US/Pacific', 'Charles M. Schulz Sonoma County Airport'),
+('KYIP', 'US/Eastern', 'Willow Run Airport'),
+('KAUG', 'US/Eastern', 'Augusta State Airport'),
+('KLBR', 'US/Central', 'Clarksville Red River City-J D Trissell Field'),
+('KMQJ', 'US/Eastern', 'Indianapolis Regional Airport'),
+('KMBS', 'US/Eastern', 'MBS International Airport'),
+('KTIK', 'US/Central', 'Tinker Air Force Base'),
+('KXLL', 'US/Eastern', 'Allentown Queen City Municipal Airport'),
+('KTTN', 'US/Eastern', 'Trenton Mercer Airport'),
+('KEQY', 'US/Eastern', 'Charlotte-Monroe Executive Airport'),
+('KHOU', 'US/Central', 'William P Hobby Airport'),
+('KGEV', 'US/Eastern', 'Ashe County Airport'),
+('KJVL', 'US/Central', 'Southern Wisconsin Regional Airport'),
+('KTCM', 'US/Pacific', 'McChord Air Force Base'),
+('KSGF', 'US/Central', 'Springfield Branson National Airport'),
+('KSFM', 'US/Eastern', 'Sanford Seacoast Regional Airport'),
+('KSAT', 'US/Central', 'San Antonio International Airport'),
+('KGAI', 'US/Eastern', 'Montgomery County Airpark'),
+('KHVN', 'US/Eastern', 'Tweed New Haven Airport'),
+('KCHO', 'US/Eastern', 'Charlottesville Albemarle Airport'),
+('KTEW', 'US/Eastern', 'Mason Jewett Field'),
+('KTBN', 'US/Central', 'Waynesville-St. Robert Regional Airport-Forney Field'),
+('KVGT', 'US/Pacific', 'North Las Vegas Metropolitan International Airport'),
+('KOKV', 'US/Eastern', 'Winchester Regional Airport'),
+('KDSV', 'US/Eastern', 'Dansville Municipal Airport'),
+('KCDW', 'US/Eastern', 'Essex County Airport'),
+('KMKE', 'US/Central', 'General Mitchell International Airport'),
+('KCOS', 'US/Mountain', 'City of Colorado Springs Municipal Airport'),
+('KABE', 'US/Eastern', 'Lehigh Valley International Airport'),
+('KSFO', 'US/Pacific', 'San Francisco International Airport'),
+('K27A', 'US/Eastern', 'Elbert County Airport Patz Field'),
+('KEDJ', 'US/Eastern', 'Bellefontaine Regional Airport'),
+('KHMZ', 'US/Eastern', 'Bedford County Airport'),
+('K9L2', 'US/Pacific', 'Edwards Af Aux North Base Airport'),
+('KIAH', 'US/Central', 'George Bush Intercontinental Houston Airport'),
+('KHEF', 'US/Eastern', 'Manassas Regional Airport/Harry P. Davis Field'),
+('KLSE', 'US/Central', 'La Crosse Regional Airport'),
+('KSUS', 'US/Central', 'Spirit of St Louis Airport'),
+('KLCI', 'US/Eastern', 'Laconia Municipal Airport'),
+('KFTW', 'US/Central', 'Fort Worth Meacham International Airport'),
+('KPAN', 'US/Mountain', 'Payson Airport'),
+('KEWB', 'US/Eastern', 'New Bedford Regional Airport'),
+('KATT', 'US/Central', 'Central City Municipal - Larry Reineke Field'),
+('KOKC', 'US/Central', 'Will Rogers World Airport'),
+('KSPI', 'US/Central', 'Abraham Lincoln Capital Airport'),
+('KSTP', 'US/Central', 'Saint Paul Downtown Holman Field'),
+('KLAN', 'US/Eastern', 'Capital City Airport'),
+('KBGM', 'US/Eastern', 'Greater Binghamton/Edwin A Link field'),
+('KAGS', 'US/Eastern', 'Augusta Regional At Bush Field'),
+('KDYL', 'US/Eastern', 'Doylestown Airport'),
+('KPHN', 'US/Eastern', 'St Clair County International Airport'),
+('KORE', 'US/Eastern', 'Orange Municipal Airport'),
+('KSTE', 'US/Central', 'Stevens Point Municipal Airport'),
+('KLZU', 'US/Eastern', 'Gwinnett County Briscoe Field'),
+('KSGJ', 'US/Eastern', 'Northeast Florida Regional Airport'),
+('KMFD', 'US/Eastern', 'Mansfield Lahm Regional Airport'),
+('KDDC', 'US/Central', 'Dodge City Regional Airport'),
+('KMKG', 'US/Eastern', 'Muskegon County Airport'),
+('KLAF', 'US/Eastern', 'Purdue University Airport'),
+('KMLI', 'US/Central', 'Quad City International Airport'),
+('KAAA', 'US/Central', 'Logan County Airport'),
+('KSHD', 'US/Eastern', 'Shenandoah Valley Regional Airport'),
+('KPYM', 'US/Eastern', 'Plymouth Municipal Airport'),
+('KNUQ', 'US/Pacific', 'Moffett Federal Airfield'),
+('KSAC', 'US/Pacific', 'Sacramento Executive Airport'),
+('KHRI', 'US/Pacific', 'Hermiston Municipal Airport'),
+('KTUS', 'US/Mountain', 'Tucson International Airport / Morris Air National Guard Base'),
+('KLUA', 'US/Eastern', 'Luray Caverns Airport'),
+('KAIK', 'US/Eastern', 'Aiken Regional Airport'),
+('KADS', 'US/Central', 'Addison Airport'),
+('KLHQ', 'US/Eastern', 'Fairfield County Airport'),
+('KEKO', 'US/Pacific', 'Elko Regional Airport'),
+('KAHN', 'US/Eastern', 'Athens Ben Epps Airport'),
+('KUES', 'US/Central', 'Waukesha County Airport'),
+('KTAN', 'US/Eastern', 'Taunton Municipal King Field'),
+('KERI', 'US/Eastern', 'Erie International Tom Ridge Field'),
+('KBIF', 'US/Mountain', 'Biggs Army Air Field (Fort Bliss)'),
+('KKLS', 'US/Pacific', 'Southwest Washington Regional Airport'),
+('K01M', 'US/Central', 'Tishomingo County Airport'),
+('KOUN', 'US/Central', 'University of Oklahoma Westheimer Airport'),
+('KAUW', 'US/Central', 'Wausau Downtown Airport'),
+('KHAO', 'US/Eastern', 'Butler Co Regional Airport - Hogan Field'),
+('KBTL', 'US/Eastern', 'Battle Creek Executive Airport at Kellogg Field'),
+('KFKN', 'US/Eastern', 'Franklin Regional Airport'),
+('KRTS', 'US/Pacific', 'Reno-Stead Airport'),
+('KONT', 'US/Pacific', 'Ontario International Airport'),
+('KCMR', 'US/Mountain', 'H.A. Clark Memorial Field'),
+('KLEE', 'US/Eastern', 'Leesburg International Airport'),
+('KBKV', 'US/Eastern', 'Brooksville–Tampa Bay Regional Airport'),
+('KEZF', 'US/Eastern', 'Shannon Airport'),
+('KMSV', 'US/Eastern', 'Sullivan County International Airport'),
+('KSZT', 'US/Pacific', 'Sandpoint Airport'),
+('KCRW', 'US/Eastern', 'Yeager Airport'),
+('KTYQ', 'US/Eastern', 'Indianapolis Executive Airport'),
+('KMUL', 'US/Eastern', 'Spence Airport'),
+('KHZY', 'US/Eastern', 'Northeast Ohio Regional Airport'),
+('KBLI', 'US/Pacific', 'Bellingham International Airport'),
+('KI75', 'US/Central', 'Osceola Municipal Airport'),
+('KFBL', 'US/Central', 'Faribault Municipal Airport-Liz Wall Strohfus Field'),
+('KRDM', 'US/Pacific', 'Roberts Field'),
+('KI69', 'US/Eastern', 'Clermont County Airport'),
+('KRHV', 'US/Pacific', 'Reid-Hillview Airport of Santa Clara County'),
+('K6A2', 'US/Eastern', 'Griffin Spalding County Airport'),
+('KFIT', 'US/Eastern', 'Fitchburg Municipal Airport'),
+('K11R', 'US/Central', 'Brenham Municipal Airport'),
+('KHZX', 'US/Central', 'Isedor Iverson Airport'),
+('KLFI', 'US/Eastern', 'Langley Air Force Base'),
+('KARB', 'US/Eastern', 'Ann Arbor Municipal Airport'),
+('KGKJ', 'US/Eastern', 'Port Meadville Airport'),
+('KMEM', 'US/Central', 'Memphis International Airport'),
+('KSTJ', 'US/Central', 'Rosecrans Memorial Airport'),
+('KCVG', 'US/Eastern', 'Cincinnati Northern Kentucky International Airport'),
+('KRZL', 'US/Central', 'Jasper County Airport'),
+('KMHT', 'US/Eastern', 'Manchester-Boston Regional Airport'),
+('KMTN', 'US/Eastern', 'Martin State Airport'),
+('KBLM', 'US/Eastern', 'Monmouth Executive Airport'),
+('KSJC', 'US/Pacific', 'Norman Y. Mineta San Jose International Airport'),
+('KMLB', 'US/Eastern', 'Melbourne Orlando International Airport'),
+('KCGE', 'US/Eastern', 'Cambridge Dorchester Airport'),
+('KPIA', 'US/Central', 'General Wayne A. Downing Peoria International Airport'),
+('KFNL', 'US/Mountain', 'Northern Colorado Regional Airport'),
+('KFWN', 'US/Eastern', 'Sussex Airport'),
+('KMLF', 'US/Mountain', 'Milford Municipal-Ben and Judy Briscoe Field'),
+('KTRK', 'US/Pacific', 'Truckee Tahoe Airport'),
+('KALO', 'US/Central', 'Waterloo Regional Airport'),
+('KCLS', 'US/Pacific', 'Chehalis Centralia Airport'),
+('KO69', 'US/Pacific', 'Petaluma Municipal Airport'),
+('KDCY', 'US/Eastern', 'Daviess County Airport'),
+('KLJF', 'US/Central', 'Litchfield Municipal Airport'),
+('K0E0', 'US/Mountain', 'Moriarty Municipal Airport'),
+('KFZY', 'US/Eastern', 'Oswego County Airport'),
+('KEMT', 'US/Pacific', 'San Gabriel Valley Airport'),
+('KAUS', 'US/Central', 'Austin Bergstrom International Airport'),
+('KOZW', 'US/Eastern', 'Livingston County Spencer J. Hardy Airport'),
+('KRMY', 'US/Eastern', 'Brooks Field'),
+('KOGA', 'US/Mountain', 'Ogallala Municipal Airport Searle Field'),
+('KCHS', 'US/Eastern', 'Charleston International Airport'),
+('KLMT', 'US/Pacific', 'Crater Lake-Klamath Regional Airport'),
+('KGPZ', 'US/Central', 'Grand Rapids Itasca Co-Gordon Newstrom field'),
+('KVUO', 'US/Pacific', 'Pearson Field'),
+('KOVE', 'US/Pacific', 'Oroville Municipal Airport'),
+('KHTO', 'US/Eastern', 'Town of East Hampton Airport'),
+('KLEX', 'US/Eastern', 'Blue Grass Airport'),
+('KBNO', 'US/Pacific', 'Burns Municipal Airport'),
+('KBAB', 'US/Pacific', 'Beale Air Force Base'),
+('KELN', 'US/Pacific', 'Bowers Field'),
+('KCVX', 'US/Eastern', 'Charlevoix Municipal Airport'),
+('KSHN', 'US/Pacific', 'Sanderson Field'),
+('KAID', 'US/Eastern', 'Anderson Municipal Darlington Field'),
+('KDLL', 'US/Central', 'Baraboo Wisconsin Dells Regional Airport'),
+('KCVH', 'US/Pacific', 'Hollister Municipal Airport'),
+('KGCM', 'US/Central', 'Claremore Regional Airport'),
+('KDUJ', 'US/Eastern', 'DuBois Regional Airport'),
+('KBTP', 'US/Eastern', 'Pittsburgh/Butler Regional Airport'),
+('KPHD', 'US/Eastern', 'Harry Clever Field'),
+('KHYX', 'US/Eastern', 'Saginaw County H.W. Browne Airport'),
+('KOFP', 'US/Eastern', 'Hanover County Municipal Airport'),
+('KMIE', 'US/Eastern', 'Delaware County Johnson Field'),
+('KBLU', 'US/Pacific', 'Blue Canyon Nyack Airport'),
+('KRYY', 'US/Eastern', 'Cobb County International Airport-McCollum Field'),
+('KBDH', 'US/Central', 'Willmar Municipal Airport John L Rice Field (2006)'),
+('KDAN', 'US/Eastern', 'Danville Regional Airport'),
+('KRYW', 'US/Central', 'Lago Vista Texas Rusty Allen Airport'),
+('KEKM', 'US/Eastern', 'Elkhart Municipal Airport'),
+('KFDY', 'US/Eastern', 'Findlay Airport'),
+('KCZK', 'US/Pacific', 'Cascade Locks State Airport'),
+('KBKW', 'US/Eastern', 'Raleigh County Memorial Airport'),
+('KOLM', 'US/Pacific', 'Olympia Regional Airport'),
+('KIOW', 'US/Central', 'Iowa City Municipal Airport'),
+('KEIK', 'US/Mountain', 'Erie Municipal Airport'),
+('KSGH', 'US/Eastern', 'Springfield-Beckley Municipal Airport'),
+('KGSP', 'US/Eastern', 'Greenville Spartanburg International Airport'),
+('KGRD', 'US/Eastern', 'Greenwood County Airport'),
+('KOAK', 'US/Pacific', 'San Francisco Bay Oakland International Airport'),
+('KMOD', 'US/Pacific', 'Modesto City Co-Harry Sham Field'),
+('KFAT', 'US/Pacific', 'Fresno Yosemite International Airport'),
+('KIXD', 'US/Central', 'New Century AirCenter Airport'),
+('KMER', 'US/Pacific', 'Castle Airport'),
+('KAVC', 'US/Eastern', 'Mecklenburg Brunswick Regional Airport'),
+('KVYS', 'US/Central', 'Illinois Valley Regional Airport Walter A Duncan Field'),
+('KAXH', 'US/Central', 'Houston Southwest Airport'),
+('KBVI', 'US/Eastern', 'Beaver County Airport'),
+('KTYS', 'US/Eastern', 'McGhee Tyson Airport'),
+('KUAO', 'US/Pacific', 'Aurora State Airport'),
+('KPRO', 'US/Central', 'Perry Municipal Airport'),
+('KDLZ', 'US/Eastern', 'Delaware Municipal Airport'),
+('KWVI', 'US/Pacific', 'Watsonville Municipal Airport'),
+('KCHA', 'US/Eastern', 'Chattanooga Metropolitan Airport (Lovell Field)'),
+('KHIO', 'US/Pacific', 'Portland Hillsboro Airport'),
+('KF70', 'US/Pacific', 'French Valley Airport'),
+('KVJI', 'US/Eastern', 'Virginia Highlands Airport'),
+('KTDO', 'US/Pacific', 'Ed Carlson Memorial Field South Lewis County Airport'),
+('KINW', 'US/Mountain', 'Winslow Lindbergh Regional Airport'),
+('KJXN', 'US/Eastern', 'Jackson County Airport/Reynolds Field'),
+('KMZZ', 'US/Eastern', 'Marion Municipal Airport'),
+('KBAF', 'US/Eastern', 'Westfield-Barnes Regional Airport'),
+('KANQ', 'US/Eastern', 'Tri State Steuben County Airport'),
+('KSNS', 'US/Pacific', 'Salinas Municipal Airport'),
+('KPCW', 'US/Eastern', 'Carl R Keller Field'),
+('KGKY', 'US/Central', 'Arlington Municipal Airport'),
+('KGEZ', 'US/Eastern', 'Shelbyville Municipal Airport'),
+('KBLV', 'US/Central', 'Scott AFB/Midamerica Airport'),
+('KEBS', 'US/Central', 'Webster City Municipal Airport'),
+('KHYR', 'US/Central', 'Sawyer County Airport'),
+('KOWD', 'US/Eastern', 'Norwood Memorial Airport'),
+('KHWV', 'US/Eastern', 'Brookhaven Calabro Airport'),
+('KSQL', 'US/Pacific', 'San Carlos Airport'),
+('KONZ', 'US/Eastern', 'Grosse Ile Municipal Airport'),
+('KL35', 'US/Pacific', 'Big Bear City Airport'),
+('KL38', 'US/Central', 'Louisiana Regional Airport'),
+('K48I', 'US/Eastern', 'Braxton County Airport'),
+('KILN', 'US/Eastern', 'Wilmington Airpark'),
+('KMUI', 'US/Eastern', 'Muir Army Air Field (Fort Indiantown Gap) Airport'),
+('K0VG', 'US/Eastern', 'Lee County Airport'),
+('KLWA', 'US/Eastern', 'South Haven Area Regional Airport'),
+('KC29', 'US/Central', 'Middleton Municipal Morey Field'),
+('KDEN', 'US/Mountain', 'Denver International Airport'),
+('KMAN', 'US/Mountain', 'Nampa Municipal Airport'),
+('KOGD', 'US/Mountain', 'Ogden Hinckley Airport'),
+('KFCI', 'US/Eastern', 'Richmond Executive-Chesterfield County Airport'),
+('KUNV', 'US/Eastern', 'State College Regional Airport'),
+('KOKB', 'US/Pacific', 'Oceanside Municipal Airport'),
+('KMSY', 'US/Central', 'Louis Armstrong New Orleans International Airport'),
+('KCCO', 'US/Eastern', 'Newnan Coweta County Airport'),
+('KC09', 'US/Central', 'Morris Municipal Airport James R. Washburn field'),
+('KEVM', 'US/Central', 'Eveleth–Virginia Municipal Airport'),
+('KO22', 'US/Pacific', 'Columbia Airport'),
+('KFOK', 'US/Eastern', 'Francis S Gabreski Airport'),
+('KCON', 'US/Eastern', 'Concord Municipal Airport'),
+('KGWB', 'US/Eastern', 'De Kalb County Airport'),
+('KVTI', 'US/Central', 'Vinton Veterans Memorial Airpark'),
+('KRNH', 'US/Central', 'New Richmond Regional Airport'),
+('KHKS', 'US/Central', 'Hawkins Field'),
+('KDNL', 'US/Eastern', 'Daniel Field'),
+('KFFT', 'US/Eastern', 'Capital City Airport'),
+('KGSH', 'US/Eastern', 'Goshen Municipal Airport'),
+('KFFC', 'US/Eastern', 'Peachtree City Falcon Field'),
+('KMMU', 'US/Eastern', 'Morristown Municipal Airport'),
+('KGLW', 'US/Central', 'Glasgow Municipal Airport'),
+('KOTG', 'US/Central', 'Worthington Municipal Airport'),
+('KORF', 'US/Eastern', 'Norfolk International Airport'),
+('KPUC', 'US/Mountain', 'Carbon County Regional Airport / Buck Davis Field'),
+('KABQ', 'US/Mountain', 'Albuquerque International Sunport'),
+('KCBF', 'US/Central', 'Council Bluffs Municipal Airport'),
+('K3I2', 'US/Eastern', 'Mason County Airport'),
+('KEAU', 'US/Central', 'Chippewa Valley Regional Airport'),
+('KPWA', 'US/Central', 'Wiley Post Airport'),
+('KGOO', 'US/Pacific', 'Nevada County Airport'),
+('KCOU', 'US/Central', 'Columbia Regional Airport'),
+('KFLG', 'US/Mountain', 'Flagstaff Pulliam International Airport'),
+('KAVP', 'US/Eastern', 'Wilkes Barre Scranton International Airport'),
+('KAOH', 'US/Eastern', 'Lima Allen County Airport'),
+('KUNU', 'US/Central', 'Dodge County Airport'),
+('KATW', 'US/Central', 'Appleton International Airport'),
+('KMKL', 'US/Central', 'McKellar-Sipes Regional Airport'),
+('KIIY', 'US/Eastern', 'Washington Wilkes County Airport'),
+('KRND', 'US/Central', 'Randolph Air Force Base'),
+('KBUU', 'US/Central', 'Burlington Municipal Airport'),
+('KPOC', 'US/Pacific', 'Brackett Field'),
+('KCOE', 'US/Pacific', 'Coeur D''Alene Airport - Pappy Boyington Field'),
+('KGOV', 'US/Eastern', 'Grayling Army Air Field'),
+('K5W8', 'US/Eastern', 'Siler City Municipal Airport'),
+('KASH', 'US/Eastern', 'Nashua Airport / Boire Field'),
+('KSBD', 'US/Pacific', 'San Bernardino International Airport'),
+('KLPR', 'US/Eastern', 'Lorain County Regional Airport'),
+('KIPT', 'US/Eastern', 'Williamsport Regional Airport'),
+('KRFD', 'US/Central', 'Chicago Rockford International Airport'),
+('KPIH', 'US/Mountain', 'Pocatello Regional Airport'),
+('KRNM', 'US/Pacific', 'Ramona Airport'),
+('KAOO', 'US/Eastern', 'Altoona Blair County Airport'),
+('KADG', 'US/Eastern', 'Lenawee County Airport'),
+('KRNP', 'US/Eastern', 'Owosso Community Airport'),
+('KGHG', 'US/Eastern', 'Marshfield Municipal George Harlow Field'),
+('KTVL', 'US/Pacific', 'Lake Tahoe Airport'),
+('KBCB', 'US/Eastern', 'Virginia Tech Montgomery Executive Airport'),
+('KALW', 'US/Pacific', 'Walla Walla Regional Airport'),
+('KBIL', 'US/Mountain', 'Billings Logan International Airport'),
+('KAIG', 'US/Central', 'Langlade County Airport'),
+('KJOT', 'US/Central', 'Joliet Regional Airport'),
+('KMSN', 'US/Central', 'Dane County Regional Truax Field'),
+('KCQT', 'US/Pacific', 'Pacific Valley Aviation Airport'),
+('KPOV', 'US/Eastern', 'Portage County Regional Airport'),
+('KDVN', 'US/Central', 'Davenport Municipal Airport'),
+('KGEG', 'US/Pacific', 'Spokane International Airport'),
+('KBOI', 'US/Mountain', 'Boise Air Terminal/Gowen Field'),
+('KBJJ', 'US/Eastern', 'Wayne County Airport'),
+('KSGR', 'US/Central', 'Sugar Land Regional Airport'),
+('KVPC', 'US/Eastern', 'Cartersville Airport'),
+('KD39', 'US/Central', 'Sauk Centre Municipal Airport'),
+('KSUX', 'US/Central', 'Sioux Gateway Airport / Brigadier General Bud Day Field'),
+('KEEN', 'US/Eastern', 'Dillant Hopkins Airport'),
+('KDEH', 'US/Central', 'Decorah Municipal Airport'),
+('KMWL', 'US/Central', 'Mineral Wells Regional Airport'),
+('KELM', 'US/Eastern', 'Elmira Corning Regional Airport'),
+('KVIH', 'US/Central', 'Rolla National Airport'),
+('KMWM', 'US/Central', 'Windom Municipal Airport'),
+('KHND', 'US/Pacific', 'Henderson Executive Airport'),
+('KTOB', 'US/Central', 'Dodge Center Airport'),
+('KOBE', 'US/Eastern', 'Okeechobee County Airport'),
+('KMVE', 'US/Central', 'Montevideo Chippewa County Airport'),
+('KSNA', 'US/Pacific', 'John Wayne Orange County International Airport'),
+('KRMN', 'US/Eastern', 'Stafford Regional Airport'),
+('KFBR', 'US/Mountain', 'Fort Bridger Airport'),
+('KLAS', 'US/Pacific', 'Harry Reid International Airport'),
+('KEOE', 'US/Eastern', 'Newberry County Airport'),
+('KESN', 'US/Eastern', 'Easton Airport / Newnam Field'),
+('KDKB', 'US/Central', 'DeKalb Taylor Municipal Airport'),
+('KWDR', 'US/Eastern', 'Barrow County Airport'),
+('KMTO', 'US/Central', 'Coles County Memorial Airport'),
+('KPWM', 'US/Eastern', 'Portland International Jetport'),
+('KSVH', 'US/Eastern', 'Statesville Regional Airport'),
+('KIND', 'US/Eastern', 'Indianapolis International Airport'),
+('KGPH', 'US/Central', 'Midwest National Air Center Airport'),
+('KEDC', 'US/Central', 'Austin Executive Airport'),
+('KROC', 'US/Eastern', 'Frederick Douglass Greater Rochester International Airport'),
+('KMLD', 'US/Mountain', 'Malad City Airport'),
+('KAXA', 'US/Central', 'Algona Municipal Airport'),
+('KCLM', 'US/Pacific', 'William R Fairchild International Airport'),
+('KSZL', 'US/Central', 'Whiteman Air Force Base'),
+('KSUW', 'US/Central', 'Richard I Bong Memorial Airport'),
+('KSOW', 'US/Mountain', 'Show Low Regional Airport'),
+('KGVL', 'US/Eastern', 'Lee Gilmer Memorial Airport'),
+('KMNN', 'US/Eastern', 'Marion Municipal Airport'),
+('KDVT', 'US/Mountain', 'Phoenix Deer Valley Airport'),
+('KCNC', 'US/Central', 'Chariton Municipal Airport'),
+('KFFX', 'US/Eastern', 'Fremont Municipal Airport'),
+('KIGM', 'US/Mountain', 'Kingman Airport'),
+('KMGW', 'US/Eastern', 'Morgantown Municipal Airport Walter L. (Bill) Hart Field'),
+('KMRJ', 'US/Central', 'Iowa County Airport'),
+('KPVG', 'US/Eastern', 'Hampton Roads Executive Airport'),
+('KCMA', 'US/Pacific', 'Camarillo International Airport'),
+('KNFW', 'US/Central', 'NAS Fort Worth JRB / Carswell Field'),
+('KSPA', 'US/Eastern', 'Spartanburg Downtown Memorial Airport'),
+('KHWY', 'US/Eastern', 'Warrenton Fauquier Airport'),
+('KPTB', 'US/Eastern', 'Dinwiddie County Airport'),
+('KBTR', 'US/Central', 'Baton Rouge Metropolitan Airport'),
+('KNTU', 'US/Eastern', 'Oceana Naval Air Station'),
+('KCFE', 'US/Central', 'Buffalo Municipal Airport'),
+('KNYG', 'US/Eastern', 'Quantico Marine Corps Airfield / Turner Field'),
+('KAST', 'US/Pacific', 'Astoria Regional Airport'),
+('KSYN', 'US/Central', 'Stanton Airfield'),
+('KMCE', 'US/Pacific', 'Merced Regional Macready Field'),
+('KPAO', 'US/Pacific', 'Palo Alto Airport'),
+('KCBG', 'US/Central', 'Cambridge Municipal Airport'),
+('KAFJ', 'US/Eastern', 'Washington County Airport'),
+('KPWC', 'US/Central', 'Pine River Regional Airport'),
+('KAKH', 'US/Eastern', 'Gastonia Municipal Airport'),
+('KFYJ', 'US/Eastern', 'Middle Peninsula Regional Airport'),
+('KETB', 'US/Central', 'West Bend Municipal Airport'),
+('KCKB', 'US/Eastern', 'North Central West Virginia Airport'),
+('KONO', 'US/Mountain', 'Ontario Municipal Airport'),
+('KLOZ', 'US/Eastern', 'London-Corbin Airport/Magee Field'),
+('KCEU', 'US/Eastern', 'Oconee County Regional Airport'),
+('KMFR', 'US/Pacific', 'Rogue Valley International Medford Airport'),
+('KPKB', 'US/Eastern', 'Mid Ohio Valley Regional Airport'),
+('KBWG', 'US/Central', 'Bowling Green Warren County Regional Airport'),
+('KCWA', 'US/Central', 'Central Wisconsin Airport'),
+('KFET', 'US/Central', 'Fremont Municipal Airport'),
+('KDAG', 'US/Pacific', 'Barstow Daggett Airport'),
+('KCMI', 'US/Central', 'University of Illinois Willard Airport'),
+('KFPK', 'US/Eastern', 'Fitch H Beach Airport'),
+('KOQU', 'US/Eastern', 'Quonset State Airport'),
+('KSBA', 'US/Pacific', 'Santa Barbara Municipal Airport'),
+('KONP', 'US/Pacific', 'Newport Municipal Airport'),
+('KMMH', 'US/Pacific', 'Mammoth Yosemite Airport'),
+('KNRS', 'US/Pacific', 'Naval Outlying Field Imperial Beach (Ream Field)'),
+('KSGU', 'US/Mountain', 'St George Regional Airport'),
+('KLHM', 'US/Pacific', 'Lincoln Regional Karl Harder Field'),
+('KTSP', 'US/Pacific', 'Tehachapi Municipal Airport'),
+('KHLN', 'US/Mountain', 'Helena Regional Airport'),
+('KGOK', 'US/Central', 'Guthrie-Edmond Regional Airport'),
+('KRVS', 'US/Central', 'Tulsa Riverside Airport'),
+('KHDC', 'US/Central', 'Hammond Northshore Regional Airport'),
+('KNFL', 'US/Pacific', 'Fallon Naval Air Station'),
+('K2G4', 'US/Eastern', 'Garrett County Airport'),
+('KJST', 'US/Eastern', 'John Murtha Johnstown Cambria County Airport'),
+('KBAZ', 'US/Central', 'New Braunfels Municipal Airport'),
+('KSSF', 'US/Central', 'Stinson Municipal Airport'),
+('KPEX', 'US/Central', 'Paynesville Municipal Airport'),
+('KPNS', 'US/Central', 'Pensacola International Airport'),
+('KLVM', 'US/Mountain', 'Mission Field'),
+('KTNU', 'US/Central', 'Newton Municipal Airport'),
+('KINT', 'US/Eastern', 'Smith Reynolds Airport'),
+('KIAB', 'US/Central', 'McConnell Air Force Base'),
+('KIYK', 'US/Pacific', 'Inyokern Airport'),
+('KHCD', 'US/Central', 'Hutchinson Municipal Butler Field'),
+('KIKK', 'US/Central', 'Greater Kankakee Airport'),
+('KH21', 'US/Central', 'Camdenton Memorial Airport'),
+('KHTS', 'US/Eastern', 'Tri-State Airport / Milton J. Ferguson Field'),
+('KHNR', 'US/Central', 'Harlan Municipal Airport'),
+('KJER', 'US/Mountain', 'Jerome County Airport'),
+('KMRT', 'US/Eastern', 'Union County Airport'),
+('KMGG', 'US/Central', 'Maple Lake Municipal Airport'),
+('KGFL', 'US/Eastern', 'Floyd Bennett Memorial Airport'),
+('KTQE', 'US/Central', 'Tekamah Municipal Airport'),
+('KOEO', 'US/Central', 'L O Simenstad Municipal Airport'),
+('KDWH', 'US/Central', 'David Wayne Hooks Memorial Airport'),
+('KSTC', 'US/Central', 'Saint Cloud Regional Airport'),
+('KHNZ', 'US/Eastern', 'Henderson Oxford Airport'),
+('KTKI', 'US/Central', 'McKinney National Airport'),
+('KVDF', 'US/Eastern', 'Tampa Executive Airport'),
+('KWMC', 'US/Pacific', 'Winnemucca Municipal Airport'),
+('KHQM', 'US/Pacific', 'Bowerman Airport'),
+('KEGE', 'US/Mountain', 'Eagle County Regional Airport'),
+('KMIW', 'US/Central', 'Marshalltown Municipal Airport'),
+('KYNG', 'US/Eastern', 'Youngstown Warren Regional Airport'),
+('KDDH', 'US/Eastern', 'William H Morse State Airport'),
+('KSLE', 'US/Pacific', 'Salem-Willamette Valley Airport/McNary Field'),
+('KAFW', 'US/Central', 'Perot Field/Fort Worth Alliance Airport'),
+('KVOK', 'US/Central', 'Volk Field'),
+('KONA', 'US/Central', 'Winona Municipal Airport Max Conrad Field'),
+('KEAT', 'US/Pacific', 'Pangborn Memorial Airport'),
+('KBJI', 'US/Central', 'Bemidji Regional Airport'),
+('KBFD', 'US/Eastern', 'Bradford Regional Airport'),
+('KJHW', 'US/Eastern', 'Chautauqua County-Jamestown Airport'),
+('KFSD', 'US/Central', 'Sioux Falls Regional Airport / Joe Foss Field'),
+('KEFT', 'US/Central', 'Monroe Municipal Airport'),
+('KLXV', 'US/Mountain', 'Lake County Airport'),
+('KCWI', 'US/Central', 'Clinton Municipal Airport'),
+('KN03', 'US/Eastern', 'Cortland County Chase Field'),
+('KWHP', 'US/Pacific', 'Whiteman Airport'),
+('KROS', 'US/Central', 'Rush City Regional Airport'),
+('KRPJ', 'US/Central', 'Rochelle Municipal Airport - Koritz Field'),
+('KAXN', 'US/Central', 'Chandler Field'),
+('KSBP', 'US/Pacific', 'San Luis County Regional Airport'),
+('KSAV', 'US/Eastern', 'Savannah Hilton Head International Airport'),
+('KMYL', 'US/Mountain', 'McCall Municipal Airport'),
+('KEOK', 'US/Central', 'Keokuk Municipal Airport'),
+('KCBE', 'US/Eastern', 'Greater Cumberland Regional Airport'),
+('K6B0', 'US/Eastern', 'Middlebury State Airport'),
+('KRQE', 'US/Mountain', 'Window Rock Airport'),
+('KTCL', 'US/Central', 'Tuscaloosa National Airport'),
+('KSMO', 'US/Pacific', 'Santa Monica Municipal Airport'),
+('KIFA', 'US/Central', 'Iowa Falls Municipal Airport'),
+('KUZA', 'US/Eastern', 'Rock Hill - York County Airport'),
+('KBUY', 'US/Eastern', 'Burlington Alamance Regional Airport'),
+('KRAC', 'US/Central', 'John H Batten Airport'),
+('KASW', 'US/Eastern', 'Warsaw Municipal Airport'),
+('KMUO', 'US/Mountain', 'Mountain Home Air Force Base'),
+('KCXP', 'US/Pacific', 'Carson Airport'),
+('KDNV', 'US/Central', 'Vermilion Regional Airport'),
+('KITR', 'US/Mountain', 'Kit Carson County Airport'),
+('KJAC', 'US/Mountain', 'Jackson Hole Airport'),
+('KHBG', 'US/Central', 'Hattiesburg Bobby L Chain Municipal Airport'),
+('KCNW', 'US/Central', 'TSTC Waco Airport'),
+('K2W6', 'US/Eastern', 'St. Mary''s County Regional Airport'),
+('KDEC', 'US/Central', 'Decatur Airport'),
+('KMIV', 'US/Eastern', 'Millville Municipal Airport'),
+('KBEH', 'US/Eastern', 'Southwest Michigan Regional Airport'),
+('KORL', 'US/Eastern', 'Orlando Executive Airport'),
+('KTTA', 'US/Eastern', 'Raleigh Executive Jetport'),
+('KSFQ', 'US/Eastern', 'Suffolk Executive Airport'),
+('KAIO', 'US/Central', 'Atlantic Municipal Airport'),
+('KGRB', 'US/Central', 'Austin Straubel International Airport'),
+('KHAI', 'US/Eastern', 'Three Rivers Municipal Dr Haines Airport'),
+('KTOP', 'US/Central', 'Philip Billard Municipal Airport'),
+('KCOQ', 'US/Central', 'Cloquet Carlton County Airport'),
+('KDZJ', 'US/Eastern', 'Blairsville Airport'),
+('KMSS', 'US/Eastern', 'Massena International Airport Richards Field'),
+('KDOV', 'US/Eastern', 'Dover Air Force Base'),
+('KCSV', 'US/Central', 'Crossville Memorial Airport Whitson Field'),
+('KJEF', 'US/Central', 'Jefferson City Memorial Airport'),
+('KWRI', 'US/Eastern', 'Mc Guire Air Force Base'),
+('KBNL', 'US/Eastern', 'Barnwell Regional Airport'),
+('KADU', 'US/Central', 'Audubon County Airport'),
+('KSQI', 'US/Central', 'Whiteside County Airport - Joseph H Bittorf Field'),
+('KJAN', 'US/Central', 'Jackson-Medgar Wiley Evers International Airport'),
+('KY70', 'US/Eastern', 'Ionia County Airport'),
+('KCTZ', 'US/Eastern', 'Sampson County Airport'),
+('KEEO', 'US/Mountain', 'Meeker Airport'),
+('KCSG', 'US/Eastern', 'Columbus Metropolitan Airport'),
+('KOKZ', 'US/Eastern', 'Kaolin Field'),
+('KTHA', 'US/Central', 'Tullahoma Regional Airport William Northern Field'),
+('KPEO', 'US/Eastern', 'Penn Yan Airport'),
+('KCTJ', 'US/Eastern', 'West Georgia Regional Airport / O V Gray Field'),
+('KCFS', 'US/Eastern', 'Tuscola Area Airport'),
+('KLEW', 'US/Eastern', 'Auburn Lewiston Municipal Airport'),
+('KLNC', 'US/Central', 'Lancaster Airport'),
+('KNUW', 'US/Pacific', 'Whidbey Island Naval Air Station (Ault Field)'),
+('KNBC', 'US/Eastern', 'Beaufort MCAS - Merritt Field'),
+('KLNK', 'US/Central', 'Lincoln Airport'),
+('KVRB', 'US/Eastern', 'Vero Beach Regional Airport'),
+('KCAG', 'US/Mountain', 'Craig Moffat Airport'),
+('KLYV', 'US/Central', 'Quentin Aanenson Airfield - Luverne Municipal Airport'),
+('KMCN', 'US/Eastern', 'Middle Georgia Regional Airport'),
+('KDLH', 'US/Central', 'Duluth International Airport'),
+('KHLG', 'US/Eastern', 'Wheeling Ohio County Airport'),
+('KMCW', 'US/Central', 'Mason City Municipal Airport'),
+('KSHR', 'US/Mountain', 'Sheridan County Airport'),
+('KDYR', 'US/Central', 'Dyersburg Regional Airport'),
+('KIWA', 'US/Mountain', 'Mesa Gateway Airport'),
+('KHIF', 'US/Mountain', 'Hill Air Force Base'),
+('KFCS', 'US/Mountain', 'Butts AAF (Fort Carson) Air Field'),
+('KCIC', 'US/Pacific', 'Chico Regional Airport'),
+('KFBG', 'US/Eastern', 'Simmons Army Air Field'),
+('KDMA', 'US/Mountain', 'Davis Monthan Air Force Base'),
+('KWST', 'US/Eastern', 'Westerly State Airport'),
+('KDFI', 'US/Eastern', 'Defiance Memorial Airport'),
+('KMUT', 'US/Central', 'Muscatine Municipal Airport'),
+('KM16', 'US/Central', 'John Bell Williams Airport'),
+('KGNV', 'US/Eastern', 'Gainesville Regional Airport'),
+('KHHR', 'US/Pacific', 'Jack Northrop Field Hawthorne Municipal Airport'),
+('KPUB', 'US/Mountain', 'Pueblo Memorial Airport'),
+('KJWY', 'US/Central', 'Mid-Way Regional Airport'),
+('KDKK', 'US/Eastern', 'Chautauqua County-Dunkirk Airport'),
+('KHAF', 'US/Pacific', 'Half Moon Bay Airport'),
+('KBHK', 'US/Mountain', 'Baker Municipal Airport'),
+('KTOA', 'US/Pacific', 'Zamperini Field'),
+('KLEB', 'US/Eastern', 'Lebanon Municipal Airport'),
+('KBHM', 'US/Central', 'Birmingham-Shuttlesworth International Airport'),
+('KXSA', 'US/Eastern', 'Tappahannock-Essex County Airport'),
+('KGLR', 'US/Eastern', 'Gaylord Regional Airport'),
+('KWJF', 'US/Pacific', 'General William J Fox Airfield'),
+('K5C1', 'US/Central', 'Boerne Stage Field'),
+('KSWO', 'US/Central', 'Stillwater Regional Airport'),
+('KCPR', 'US/Mountain', 'Casper-Natrona County International Airport'),
+('KSRE', 'US/Central', 'Seminole Municipal Airport'),
+('KALN', 'US/Central', 'St Louis Regional Airport'),
+('KCAV', 'US/Central', 'Clarion Municipal Airport'),
+('KBDU', 'US/Mountain', 'Boulder Municipal Airport'),
+('KLKV', 'US/Pacific', 'Lake County Airport'),
+('KPUW', 'US/Pacific', 'Pullman-Moscow Regional Airport'),
+('KMZH', 'US/Central', 'Moose Lake Carlton County Airport'),
+('KBCK', 'US/Central', 'Black River Falls Area Airport'),
+('KCAD', 'US/Eastern', 'Wexford County Airport'),
+('KCUL', 'US/Central', 'Carmi Municipal Airport'),
+('KCNI', 'US/Eastern', 'Cherokee County Regional Airport'),
+('KLAR', 'US/Mountain', 'Laramie Regional Airport'),
+('KC75', 'US/Central', 'Marshall County Airport'),
+('KLRJ', 'US/Central', 'Le Mars Municipal Airport'),
+('KGYH', 'US/Eastern', 'Donaldson Field Airport'),
+('KBYG', 'US/Mountain', 'Johnson County Airport'),
+('KLUM', 'US/Central', 'Menomonie Municipal Score Field'),
+('KICL', 'US/Central', 'Schenck Field'),
+('KLBF', 'US/Central', 'North Platte Regional Airport Lee Bird Field'),
+('KSBN', 'US/Eastern', 'South Bend Regional Airport'),
+('KRCM', 'US/Central', 'Skyhaven Airport'),
+('KPNM', 'US/Central', 'Princeton Municipal Airport'),
+('KDNN', 'US/Eastern', 'Dalton Municipal Airport'),
+('KGNT', 'US/Mountain', 'Grants-Milan Municipal Airport'),
+('KTWF', 'US/Mountain', 'Joslin Field Magic Valley Regional Airport'),
+('KOMK', 'US/Pacific', 'Omak Airport'),
+('KMJQ', 'US/Central', 'Jackson Municipal Airport'),
+('KNEL', 'US/Eastern', 'Lakehurst Maxfield Field Airport'),
+('KGCD', 'US/Pacific', 'Grant County Regional Airport / Ogilvie Field'),
+('KVNY', 'US/Pacific', 'Van Nuys Airport'),
+('KPMV', 'US/Central', 'Plattsmouth Municipal Airport'),
+('KCAE', 'US/Eastern', 'Columbia Metropolitan Airport'),
+('KAAO', 'US/Central', 'Colonel James Jabara Airport'),
+('KLAX', 'US/Pacific', 'Los Angeles International Airport'),
+('KWRB', 'US/Eastern', 'Robins Air Force Base'),
+('KIAG', 'US/Eastern', 'Niagara Falls International Airport'),
+('KLWS', 'US/Pacific', 'Lewiston Nez Perce County Airport'),
+('KACB', 'US/Eastern', 'Antrim County Airport'),
+('KDBQ', 'US/Central', 'Dubuque Regional Airport'),
+('KNFG', 'US/Pacific', 'Camp Pendleton MCAS (Munn Field) Airport'),
+('KOSA', 'US/Central', 'Mount Pleasant Regional Airport'),
+('KBDN', 'US/Pacific', 'Bend Municipal Airport'),
+('KPSC', 'US/Pacific', 'Tri Cities Airport'),
+('KELP', 'US/Mountain', 'El Paso International Airport'),
+('KSMS', 'US/Eastern', 'Sumter Airport'),
+('KFMH', 'US/Eastern', 'Cape Cod Coast Guard Air Station'),
+('KLIC', 'US/Mountain', 'Limon Municipal Airport'),
+('KWVL', 'US/Eastern', 'Waterville Robert Lafleur Airport'),
+('KCMY', 'US/Central', 'Sparta Fort McCoy Airport'),
+('KEZS', 'US/Central', 'Shawano Municipal Airport'),
+('KRBG', 'US/Pacific', 'Roseburg Regional Airport'),
+('KSPB', 'US/Pacific', 'Scappoose Industrial Airpark'),
+('KAFN', 'US/Eastern', 'Jaffrey Airfield Silver Ranch Airport'),
+('KDMO', 'US/Central', 'Sedalia Memorial Airport'),
+('KFYG', 'US/Central', 'Washington Regional Airport'),
+('KNIP', 'US/Eastern', 'Jacksonville Naval Air Station (Towers Field)'),
+('KMAE', 'US/Pacific', 'Madera Municipal Airport'),
+('KHUM', 'US/Central', 'Houma Terrebonne Airport'),
+('KPRC', 'US/Mountain', 'Prescott International Airport - Ernest A. Love Field'),
+('KGMU', 'US/Eastern', 'Greenville Downtown Airport'),
+('KGDJ', 'US/Central', 'Granbury Regional Airport'),
+('K3LF', 'US/Central', 'Litchfield Municipal Airport'),
+('KBFL', 'US/Pacific', 'Meadows Field'),
+('KGJT', 'US/Mountain', 'Grand Junction Regional Airport'),
+('KBMG', 'US/Eastern', 'Monroe County Airport'),
+('KFDW', 'US/Eastern', 'Fairfield County Airport'),
+('KBXK', 'US/Mountain', 'Buckeye Municipal Airport'),
+('KGDB', 'US/Central', 'Granite Falls Municipal Airport / Lenzen-Roe Memorial Field'),
+('KCYS', 'US/Mountain', 'Cheyenne Regional Jerry Olson Field'),
+('KPUJ', 'US/Eastern', 'Silver Comet Field at Paulding Northwest Atlanta Airport'),
+('KSBM', 'US/Central', 'Sheboygan County Memorial Airport'),
+('KHJO', 'US/Pacific', 'Hanford Municipal Airport'),
+('KFVX', 'US/Eastern', 'Farmville Regional Airport'),
+('KTPF', 'US/Eastern', 'Peter O Knight Airport'),
+('KMYV', 'US/Pacific', 'Yuba County Airport'),
+('KEMV', 'US/Eastern', 'Emporia Greensville Regional Airport'),
+('KMWH', 'US/Pacific', 'Grant County International Airport'),
+('KUSE', 'US/Eastern', 'Fulton County Airport'),
+('KAQW', 'US/Eastern', 'Harriman and West Airport'),
+('KGGI', 'US/Central', 'Grinnell Regional Airport'),
+('KCKV', 'US/Central', 'Clarksville–Montgomery County Regional Airport'),
+('KDGW', 'US/Mountain', 'Converse County Airport'),
+('KAMN', 'US/Eastern', 'Gratiot Community Airport'),
+('KMOP', 'US/Eastern', 'Mount Pleasant Municipal Airport'),
+('KCXO', 'US/Central', 'Conroe-North Houston Regional Airport'),
+('KBCE', 'US/Mountain', 'Bryce Canyon Airport'),
+('KOGB', 'US/Eastern', 'Orangeburg Municipal Airport'),
+('KDLS', 'US/Pacific', 'Columbia Gorge Regional Airport'),
+('KRBW', 'US/Eastern', 'Lowcountry Regional Airport'),
+('KNQA', 'US/Central', 'Millington-Memphis Airport'),
+('KMXF', 'US/Central', 'Maxwell Air Force Base'),
+('KMWA', 'US/Central', 'Veterans Airport of Southern Illinois'),
+('KSRQ', 'US/Eastern', 'Sarasota Bradenton International Airport'),
+('KMOB', 'US/Central', 'Mobile Regional Airport'),
+('KTKV', 'US/Central', 'Tomahawk Regional Airport'),
+('KPTV', 'US/Pacific', 'Porterville Municipal Airport'),
+('KRMG', 'US/Eastern', 'Richard B Russell Airport'),
+('KTMA', 'US/Eastern', 'Henry Tift Myers Airport'),
+('KMMV', 'US/Pacific', 'Mc Minnville Municipal Airport'),
+('KFLO', 'US/Eastern', 'Florence Regional Airport'),
+('KDYB', 'US/Eastern', 'Summerville Airport'),
+('KISM', 'US/Eastern', 'Kissimmee Gateway Airport'),
+('KDLN', 'US/Mountain', 'Dillon Airport'),
+('KDTO', 'US/Central', 'Denton Enterprise Airport'),
+('KFSO', 'US/Eastern', 'Franklin County State Airport'),
+('KMYR', 'US/Eastern', 'Myrtle Beach International Airport'),
+('K1V6', 'US/Mountain', 'Fremont County Airport'),
+('KEUL', 'US/Mountain', 'Caldwell Executive Airport'),
+('KTPL', 'US/Central', 'Draughon Miller Central Texas Regional Airport'),
+('KSSC', 'US/Eastern', 'Shaw Air Force Base'),
+('KOCQ', 'US/Central', 'J. Douglas Bake Memorial Airport'),
+('KMTV', 'US/Eastern', 'Blue Ridge Airport'),
+('KFST', 'US/Central', 'Fort Stockton Pecos County Airport'),
+('KVEL', 'US/Mountain', 'Vernal Regional Airport'),
+('KDAB', 'US/Eastern', 'Daytona Beach International Airport'),
+('KBLF', 'US/Eastern', 'Mercer County Airport'),
+('KMAO', 'US/Eastern', 'Marion County Airport'),
+('KSBY', 'US/Eastern', 'Salisbury Ocean City Wicomico Regional Airport'),
+('KWWD', 'US/Eastern', 'Cape May County Airport'),
+('KJNX', 'US/Eastern', 'Johnston Regional Airport'),
+('KSNL', 'US/Central', 'Shawnee Regional Airport'),
+('KHVS', 'US/Eastern', 'Hartsville Regional Airport'),
+('KWAL', 'US/Eastern', 'Wallops Flight Facility Airport'),
+('K3J7', 'US/Eastern', 'Greene County Regional Airport'),
+('KEHO', 'US/Eastern', 'Shelby-Cleveland County Regional Airport'),
+('KBMI', 'US/Central', 'Central Illinois Regional Airport at Bloomington-Normal'),
+('KCRE', 'US/Eastern', 'Grand Strand Airport'),
+('KLKR', 'US/Eastern', 'Lancaster County-Mc Whirter Field'),
+('KCKI', 'US/Eastern', 'Williamsburg Regional Airport'),
+('KOTH', 'US/Pacific', 'Southwest Oregon Regional Airport'),
+('KSKF', 'US/Central', 'Lackland Air Force Base'),
+('KADC', 'US/Central', 'Wadena Municipal Airport'),
+('KLFT', 'US/Central', 'Lafayette Regional Airport'),
+('KFTG', 'US/Mountain', 'Colorado Air and Space Port'),
+('KMPV', 'US/Eastern', 'Edward F Knapp State Airport'),
+('KHYI', 'US/Central', 'San Marcos Regional Airport'),
+('KHFF', 'US/Eastern', 'Mackall Army Air Field'),
+('KMKS', 'US/Eastern', 'Berkeley County Airport'),
+('KTRI', 'US/Eastern', 'Tri-Cities Regional TN/VA Airport'),
+('KEET', 'US/Central', 'Shelby County Airport'),
+('KLUX', 'US/Eastern', 'Laurens County Airport'),
+('KCWC', 'US/Central', 'Kickapoo Downtown Airport'),
+('KHUF', 'US/Eastern', 'Terre Haute Regional Airport, Hulman Field'),
+('KMMT', 'US/Eastern', 'Mc Entire Joint National Guard Base'),
+('KNLC', 'US/Pacific', 'Lemoore Naval Air Station (Reeves Field) Airport'),
+('KVCV', 'US/Pacific', 'Southern California Logistics Airport'),
+('KHRJ', 'US/Eastern', 'Harnett Regional Jetport Airport'),
+('KSKA', 'US/Pacific', 'Fairchild Air Force Base'),
+('KPIB', 'US/Central', 'Hattiesburg Laurel Regional Airport'),
+('KAWM', 'US/Central', 'West Memphis Municipal Airport'),
+('KDCM', 'US/Eastern', 'Chester Catawba Regional Airport'),
+('KT65', 'US/Central', 'Mid Valley Airport'),
+('KMTW', 'US/Central', 'Manitowoc County Airport'),
+('KSVN', 'US/Eastern', 'Hunter Army Air Field'),
+('KACV', 'US/Pacific', 'California Redwood Coast-Humboldt County Airport'),
+('KCRQ', 'US/Pacific', 'McClellan-Palomar Airport'),
+('KBKD', 'US/Central', 'Stephens County Airport'),
+('KALX', 'US/Central', 'Thomas C Russell Field'),
+('KM46', 'US/Mountain', 'Colstrip Airport'),
+('KLQK', 'US/Eastern', 'Pickens County Airport'),
+('KFOT', 'US/Pacific', 'Rohnerville Airport'),
+('KIMT', 'US/Central', 'Ford Airport'),
+('KMFI', 'US/Central', 'Marshfield Municipal Airport'),
+('KTUL', 'US/Central', 'Tulsa International Airport'),
+('KSHV', 'US/Central', 'Shreveport Regional Airport'),
+('KCVO', 'US/Pacific', 'Corvallis Municipal Airport'),
+('KMCO', 'US/Eastern', 'Orlando International Airport'),
+('K5T6', 'US/Mountain', 'Doña Ana County International Jetport'),
+('KBBP', 'US/Eastern', 'Marlboro County Jetport - H E Avent Field Airport'),
+('KAMA', 'US/Central', 'Rick Husband Amarillo International Airport'),
+('KBAD', 'US/Central', 'Barksdale Air Force Base'),
+('KHNB', 'US/Eastern', 'Huntingburg Airport'),
+('KPCZ', 'US/Central', 'Waupaca Municipal Airport'),
+('KAEG', 'US/Mountain', 'Double Eagle II Airport'),
+('KOWB', 'US/Central', 'Owensboro Daviess County Airport'),
+('KHYW', 'US/Eastern', 'Conway Horry County Airport'),
+('KCLI', 'US/Central', 'Clintonville Municipal Airport'),
+('KCUB', 'US/Eastern', 'Jim Hamilton L.B. Owens Airport'),
+('KMXO', 'US/Central', 'Monticello Regional Airport'),
+('KLMO', 'US/Mountain', 'Vance Brand Airport'),
+('KHLX', 'US/Eastern', 'Twin County Airport'),
+('KBFM', 'US/Central', 'Mobile Downtown Airport'),
+('KLRO', 'US/Eastern', 'Mount Pleasant Regional Airport Faison Field'),
+('KRBL', 'US/Pacific', 'Red Bluff Municipal Airport'),
+('KLXL', 'US/Central', 'Little Falls-Morrison County-Lindbergh field'),
+('KISW', 'US/Central', 'Alexander Field South Wood County Airport'),
+('KASE', 'US/Mountain', 'Aspen-Pitkin County Airport (Sardy Field)'),
+('KEKA', 'US/Pacific', 'Murray Field'),
+('KRDD', 'US/Pacific', 'Redding Municipal Airport'),
+('KTDF', 'US/Eastern', 'Raleigh Regional Airport at Person County'),
+('KPHF', 'US/Eastern', 'Newport News Williamsburg International Airport'),
+('KLYH', 'US/Eastern', 'Lynchburg Regional Airport - Preston Glenn Field'),
+('KMFV', 'US/Eastern', 'Accomack County Airport'),
+('KEVV', 'US/Central', 'Evansville Regional Airport'),
+('KAIT', 'US/Central', 'Aitkin Municipal Airport Steve Kurtz Field'),
+('KCPC', 'US/Eastern', 'Columbus County Municipal Airport'),
+('KMYF', 'US/Pacific', 'Montgomery-Gibbs Executive Airport'),
+('KPPO', 'US/Central', 'La Porte Municipal Airport'),
+('KMMI', 'US/Eastern', 'McMinn County Airport'),
+('KRST', 'US/Central', 'Rochester International Airport'),
+('KPRN', 'US/Central', 'Mac Crenshaw Memorial Airport'),
+('KHIB', 'US/Central', 'Range Regional Airport'),
+('KNGU', 'US/Eastern', 'Norfolk Naval Station (Chambers Field)'),
+('KPVC', 'US/Eastern', 'Provincetown Municipal Airport'),
+('KIDI', 'US/Eastern', 'Indiana County–Jimmy Stewart Airport'),
+('KVLD', 'US/Eastern', 'Valdosta Regional Airport'),
+('KY50', 'US/Central', 'Wautoma Municipal Airport'),
+('KMRB', 'US/Eastern', 'Eastern WV Regional Airport/Shepherd Field'),
+('KUKI', 'US/Pacific', 'Ukiah Municipal Airport'),
+('KSSI', 'US/Eastern', 'St Simons Island Airport'),
+('KFYV', 'US/Central', 'Drake Field'),
+('KFSE', 'US/Central', 'Fosston Municipal Airport-Anderson Field'),
+('KPEA', 'US/Central', 'Pella Municipal Airport'),
+('KCTB', 'US/Mountain', 'Cut Bank International Airport'),
+('KTTS', 'US/Eastern', 'Space Florida Launch and Landing Facility'),
+('KENL', 'US/Central', 'Centralia Municipal Airport'),
+('KFPR', 'US/Eastern', 'St Lucie County International Airport'),
+('KFAY', 'US/Eastern', 'Fayetteville Regional Airport - Grannis Field'),
+('KHKY', 'US/Eastern', 'Hickory Regional Airport'),
+('KCDN', 'US/Eastern', 'Woodward Field'),
+('KNPA', 'US/Central', 'Naval Air Station Pensacola Forrest Sherman Field'),
+('KDMN', 'US/Mountain', 'Deming Municipal Airport'),
+('KBOK', 'US/Pacific', 'Brookings Airport'),
+('KPSK', 'US/Eastern', 'New River Valley Airport'),
+('KJAX', 'US/Eastern', 'Jacksonville International Airport'),
+('KMSO', 'US/Mountain', 'Missoula International Airport'),
+('KCKP', 'US/Central', 'Cherokee County Regional Airport'),
+('KIIB', 'US/Central', 'Independence Municipal Airport'),
+('KBTM', 'US/Mountain', 'Bert Mooney Airport'),
+('KOTM', 'US/Central', 'Ottumwa Regional Airport'),
+('KLHZ', 'US/Eastern', 'Triangle North Executive Airport'),
+('KY51', 'US/Central', 'Viroqua Municipal Airport'),
+('KHUA', 'US/Central', 'Redstone Army Air Field'),
+('KFAF', 'US/Eastern', 'Felker Army Air Field'),
+('KOLV', 'US/Central', 'Olive Branch Airport'),
+('KITH', 'US/Eastern', 'Ithaca Tompkins Regional Airport'),
+('KSPG', 'US/Eastern', 'Albert Whitted Airport'),
+('KFMM', 'US/Mountain', 'Fort Morgan Municipal Airport'),
+('KBKE', 'US/Pacific', 'Baker City Municipal Airport'),
+('KDEW', 'US/Pacific', 'Deer Park Airport'),
+('KPBG', 'US/Eastern', 'Plattsburgh International Airport'),
+('KTIX', 'US/Eastern', 'Space Coast Regional Airport'),
+('KPIE', 'US/Eastern', 'St. Petersburg Clearwater International Airport'),
+('KLCQ', 'US/Eastern', 'Lake City Gateway Airport'),
+('KTPA', 'US/Eastern', 'Tampa International Airport'),
+('KFMY', 'US/Eastern', 'Page Field'),
+('KUUU', 'US/Eastern', 'Newport State Airport'),
+('KOSH', 'US/Central', 'Wittman Regional Airport'),
+('KCQX', 'US/Eastern', 'Chatham Municipal Airport'),
+('KUTA', 'US/Central', 'Tunica Municipal Airport'),
+('KGBN', 'US/Mountain', 'Gila Bend Air Force Auxiliary Airport'),
+('KLWC', 'US/Central', 'Lawrence Municipal Airport'),
+('KMWO', 'US/Eastern', 'Middletown Regional Airport'),
+('KDYA', 'US/Central', 'Demopolis Municipal Airport'),
+('KRZN', 'US/Central', 'Burnett County Airport'),
+('KFLD', 'US/Central', 'Fond du Lac County Airport'),
+('KEVW', 'US/Mountain', 'Evanston-Uinta County Airport-Burns Field'),
+('KINF', 'US/Eastern', 'Inverness Airport'),
+('KAWG', 'US/Central', 'Washington Municipal Airport'),
+('KLFK', 'US/Central', 'Angelina County Airport'),
+('KRZR', 'US/Eastern', 'Cleveland Regional Jetport'),
+('KBMT', 'US/Central', 'Beaumont Municipal Airport'),
+('KART', 'US/Eastern', 'Watertown International Airport'),
+('KJYM', 'US/Eastern', 'Hillsdale Municipal Airport'),
+('KBIX', 'US/Central', 'Keesler Air Force Base'),
+('KHXD', 'US/Eastern', 'Hilton Head Airport'),
+('KSOP', 'US/Eastern', 'Moore County Airport'),
+('KGGE', 'US/Eastern', 'Georgetown County Airport'),
+('KVPZ', 'US/Central', 'Porter County Municipal Airport'),
+('KIXA', 'US/Eastern', 'Halifax-Northampton Regional Airport'),
+('KAKQ', 'US/Eastern', 'Wakefield Municipal Airport'),
+('KEPH', 'US/Pacific', 'Ephrata Municipal Airport'),
+('KPBF', 'US/Central', 'Pine Bluff Regional Airport, Grider Field'),
+('KVQQ', 'US/Eastern', 'Cecil Airport'),
+('KCQW', 'US/Eastern', 'Cheraw Municipal Airport/Lynch Bellinger Field'),
+('KCWF', 'US/Central', 'Chennault International Airport'),
+('KACQ', 'US/Central', 'Waseca Municipal Airport'),
+('KLWV', 'US/Central', 'Lawrenceville Vincennes International Airport'),
+('KJFZ', 'US/Eastern', 'Tazewell County Airport'),
+('KCLL', 'US/Central', 'Easterwood Field'),
+('KBCT', 'US/Eastern', 'Boca Raton Airport'),
+('KSAZ', 'US/Central', 'Staples Municipal Airport'),
+('KHYA', 'US/Eastern', 'Cape Cod Gateway Airport'),
+('KBIH', 'US/Pacific', 'Eastern Sierra Regional Airport'),
+('K1H2', 'US/Central', 'Effingham County Memorial Airport'),
+('KMRC', 'US/Central', 'Maury County Airport'),
+('KVSF', 'US/Eastern', 'Hartness State Airport'),
+('KZPH', 'US/Eastern', 'Zephyrhills Municipal Airport'),
+('KRDK', 'US/Central', 'Red Oak Municipal Airport'),
+('KOXR', 'US/Pacific', 'Oxnard Airport'),
+('KEFK', 'US/Eastern', 'Northeast Kingdom International Airport'),
+('KDTN', 'US/Central', 'Shreveport Downtown Airport'),
+('K6R3', 'US/Central', 'Cleveland Municipal Airport'),
+('KFFZ', 'US/Mountain', 'Falcon Field'),
+('KMGC', 'US/Central', 'Michigan City Municipal Airport'),
+('KLAA', 'US/Mountain', 'Southeast Colorado Regional Airport'),
+('KCQM', 'US/Central', 'Cook Municipal Airport'),
+('KNXP', 'US/Pacific', 'Twentynine Palms Strategic Expeditionary Landing Field'),
+('KP08', 'US/Mountain', 'Coolidge Municipal Airport'),
+('KCJR', 'US/Eastern', 'Culpeper Regional Airport'),
+('KFKL', 'US/Eastern', 'Venango Regional Airport'),
+('KVDI', 'US/Eastern', 'Vidalia Regional Airport'),
+('KILM', 'US/Eastern', 'Wilmington International Airport'),
+('KPAM', 'US/Central', 'Tyndall Air Force Base'),
+('KOGS', 'US/Eastern', 'Ogdensburg International Airport'),
+('KGGG', 'US/Central', 'East Texas Regional Airport'),
+('KRIL', 'US/Mountain', 'Garfield County Regional Airport'),
+('KHQU', 'US/Eastern', 'Thomson-McDuffie County Airport'),
+('KVKS', 'US/Central', 'Vicksburg Municipal Airport'),
+('KBHB', 'US/Eastern', 'Hancock County-Bar Harbor Airport'),
+('KELY', 'US/Pacific', 'Ely Airport Yelland Field'),
+('KSAF', 'US/Mountain', 'Santa Fe Municipal Airport'),
+('KDPG', 'US/Mountain', 'Michael AAF (Dugway Proving Ground) Airport'),
+('KBNW', 'US/Central', 'Boone Municipal Airport'),
+('KGBG', 'US/Central', 'Galesburg Municipal Airport'),
+('KUOX', 'US/Central', 'University Oxford Airport'),
+('KARW', 'US/Eastern', 'Beaufort Executive Airport'),
+('KGXY', 'US/Mountain', 'Greeley–Weld County Airport'),
+('KGPT', 'US/Central', 'Gulfport Biloxi International Airport'),
+('KRYN', 'US/Mountain', 'Ryan Field'),
+('KGGP', 'US/Eastern', 'Logansport Cass County Airport'),
+('KCDC', 'US/Mountain', 'Cedar City Regional Airport'),
+('KSRB', 'US/Central', 'Upper Cumberland Regional Airport'),
+('KBYI', 'US/Mountain', 'Burley Municipal Airport'),
+('KCRG', 'US/Eastern', 'Jacksonville Executive at Craig Airport'),
+('KGYL', 'US/Central', 'Glencoe Municipal Airport'),
+('KUDG', 'US/Eastern', 'Darlington County Airport'),
+('KLRD', 'US/Central', 'Laredo International Airport'),
+('KNBJ', 'US/Central', 'Naval Outlying Field Barin'),
+('KMHV', 'US/Pacific', 'Mojave Airport'),
+('KLRU', 'US/Mountain', 'Las Cruces International Airport'),
+('KSAR', 'US/Central', 'Sparta Community Airport - Hunter Field'),
+('KLHW', 'US/Eastern', 'MidCoast Regional Airport at Wright Army Airfield'),
+('KAJO', 'US/Pacific', 'Corona Municipal Airport'),
+('KHKA', 'US/Central', 'Blytheville Municipal Airport'),
+('KICT', 'US/Central', 'Wichita Eisenhower National Airport'),
+('KFQD', 'US/Eastern', 'Rutherford County Marchman Field'),
+('KGLS', 'US/Central', 'Scholes International At Galveston Airport'),
+('KBMC', 'US/Mountain', 'Brigham City Regional Airport'),
+('KASD', 'US/Central', 'Slidell Airport'),
+('KRUT', 'US/Eastern', 'Rutland - Southern Vermont Regional Airport'),
+('KGED', 'US/Eastern', 'Delaware Coastal Airport'),
+('KOMN', 'US/Eastern', 'Ormond Beach Municipal Airport'),
+('KGYR', 'US/Mountain', 'Phoenix Goodyear Airport'),
+('KCEW', 'US/Central', 'Bob Sikes Airport'),
+('K04W', 'US/Central', 'Field of Dreams Airport'),
+('KUCY', 'US/Central', 'Everett-Stewart Regional Airport'),
+('K54J', 'US/Central', 'Defuniak Springs Airport'),
+('KOKK', 'US/Central', 'Kokomo Municipal Airport'),
+('KSFB', 'US/Eastern', 'Orlando Sanford International Airport'),
+('KIWI', 'US/Eastern', 'Wiscasset Airport'),
+('KDED', 'US/Eastern', 'Deland Municipal Sidney H Taylor Field'),
+('KCPK', 'US/Eastern', 'Chesapeake Regional Airport'),
+('KMNI', 'US/Eastern', 'Santee Cooper Regional Airport'),
+('KRCE', 'US/Central', 'Clarence E Page Municipal Airport'),
+('KGAD', 'US/Central', 'Northeast Alabama Regional Airport'),
+('KMDQ', 'US/Central', 'Madison County Executive Airport-Tom Sharp Jr Field'),
+('KTOI', 'US/Central', 'Troy Municipal Airport at N Kenneth Campbell Field'),
+('KGEU', 'US/Mountain', 'Glendale Municipal Airport'),
+('KVWU', 'US/Central', 'Waskish Municipal Airport'),
+('KBOW', 'US/Eastern', 'Bartow Executive Airport'),
+('KPKD', 'US/Central', 'Park Rapids Municipal Airport Konshok Field'),
+('KLWD', 'US/Central', 'Lamoni Municipal Airport'),
+('KOPF', 'US/Eastern', 'Miami-Opa Locka Executive Airport'),
+('KPRB', 'US/Pacific', 'Paso Robles Municipal Airport'),
+('KGTB', 'US/Eastern', 'Wheeler Sack Army Air Field'),
+('K42J', 'US/Eastern', 'Keystone Heights Airport'),
+('KRGK', 'US/Central', 'Red Wing Regional Airport'),
+('KGUS', 'US/Eastern', 'Grissom Air Reserve Base'),
+('KRUE', 'US/Central', 'Russellville Regional Airport'),
+('KTLH', 'US/Eastern', 'Tallahassee Regional Airport'),
+('KHFJ', 'US/Central', 'Monett Regional Airport'),
+('KEFD', 'US/Central', 'Ellington Airport'),
+('KLHX', 'US/Mountain', 'La Junta Municipal Airport'),
+('KOCF', 'US/Eastern', 'Ocala International Airport - Jim Taylor Field'),
+('KJGG', 'US/Eastern', 'Williamsburg Jamestown Airport'),
+('KAKO', 'US/Mountain', 'Colorado Plains Regional Airport'),
+('KLIT', 'US/Central', 'Bill & Hillary Clinton National Airport/Adams Field'),
+('KSNK', 'US/Central', 'Winston Field'),
+('KDVP', 'US/Central', 'Slayton Municipal Airport'),
+('KHWO', 'US/Eastern', 'North Perry Airport'),
+('KMML', 'US/Central', 'Southwest Minnesota Regional Airport - Marshall/Ryan Field'),
+('KSGT', 'US/Central', 'Stuttgart Municipal Airport / Carl Humphrey Field'),
+('KM30', 'US/Central', 'Metropolis Municipal Airport'),
+('K8A0', 'US/Central', 'Albertville Regional Airport/Thomas J Brumlik Field'),
+('KHSV', 'US/Central', 'Huntsville International Carl T Jones Field'),
+('KLBX', 'US/Central', 'Texas Gulf Coast Regional Airport'),
+('KMIA', 'US/Eastern', 'Miami International Airport'),
+('KBZN', 'US/Mountain', 'Bozeman Yellowstone International Airport'),
+('KLVS', 'US/Mountain', 'Las Vegas Municipal Airport'),
+('KOWA', 'US/Central', 'Owatonna Degner Regional Airport'),
+('KRQB', 'US/Eastern', 'Roben Hood Airport'),
+('KHIE', 'US/Eastern', 'Mount Washington Regional Airport'),
+('KFUL', 'US/Pacific', 'Fullerton Municipal Airport'),
+('KOXB', 'US/Eastern', 'Ocean City Municipal Airport'),
+('KRKS', 'US/Mountain', 'Southwest Wyoming Regional Airport'),
+('KFSK', 'US/Central', 'Fort Scott Municipal Airport'),
+('KCQF', 'US/Central', 'H L Sonny Callahan Airport'),
+('KRWL', 'US/Mountain', 'Rawlins Municipal Airport/Harvey Field'),
+('KCNY', 'US/Mountain', 'Canyonlands Regional Airport'),
+('K4A9', 'US/Central', 'Isbell Field'),
+('KJYL', 'US/Eastern', 'Plantation Airpark'),
+('KMAI', 'US/Central', 'Marianna Municipal Airport'),
+('KLKU', 'US/Eastern', 'Louisa County Airport / Freeman Field'),
+('KTCC', 'US/Mountain', 'Tucumcari Municipal Airport'),
+('KMRY', 'US/Pacific', 'Monterey Peninsula Airport'),
+('KBYH', 'US/Central', 'Arkansas International Airport'),
+('KGVT', 'US/Central', 'Majors Airport'),
+('KRSW', 'US/Eastern', 'Southwest Florida International Airport'),
+('KPGD', 'US/Eastern', 'Punta Gorda Airport'),
+('KGTU', 'US/Central', 'Georgetown Executive Airport at Johnny Gantt Field'),
+('KC35', 'US/Central', 'Reedsburg Municipal Airport'),
+('KENV', 'US/Mountain', 'Wendover Airport'),
+('KHTL', 'US/Eastern', 'Roscommon County - Blodgett Memorial Airport'),
+('KBRD', 'US/Central', 'Brainerd Lakes Regional Airport'),
+('KDBN', 'US/Eastern', 'W H ''Bud'' Barron Airport'),
+('KVAD', 'US/Eastern', 'Moody Air Force Base'),
+('KFXE', 'US/Eastern', 'Fort Lauderdale Executive Airport'),
+('KULM', 'US/Central', 'New Ulm Municipal Airport'),
+('KCMX', 'US/Eastern', 'Houghton County Memorial Airport'),
+('KOWP', 'US/Central', 'William R. Pogue Municipal Airport'),
+('KANB', 'US/Central', 'Anniston Regional Airport'),
+('KOLU', 'US/Central', 'Columbus Municipal Airport'),
+('KVER', 'US/Central', 'Jesse Viertel Memorial Airport'),
+('KBVU', 'US/Pacific', 'Boulder City Municipal Airport'),
+('KBTV', 'US/Eastern', 'Burlington International Airport'),
+('KHRT', 'US/Central', 'Hurlburt Field'),
+('KPBI', 'US/Eastern', 'Palm Beach International Airport'),
+('KNMM', 'US/Central', 'Naval Air Station Meridian / McCain Field'),
+('KSNY', 'US/Mountain', 'Sidney Municipal Airport Lloyd W Carr Field'),
+('KBGD', 'US/Central', 'Hutchinson County Airport'),
+('KBGF', 'US/Eastern', 'Winchester Municipal Airport'),
+('KLGU', 'US/Mountain', 'Logan-Cache Airport'),
+('KTCS', 'US/Mountain', 'Truth or Consequences Municipal Airport'),
+('KPCM', 'US/Eastern', 'Plant City Municipal Airport'),
+('KMFE', 'US/Central', 'McAllen Miller International Airport'),
+('KJLN', 'US/Central', 'Joplin Regional Airport'),
+('KJZI', 'US/Eastern', 'Charleston Executive Airport'),
+('KTAD', 'US/Mountain', 'Perry Stokes Airport'),
+('KLOL', 'US/Pacific', 'Derby Field'),
+('KRWI', 'US/Eastern', 'Rocky Mount Wilson Regional Airport'),
+('KLRF', 'US/Central', 'Little Rock Air Force Base'),
+('KYKM', 'US/Pacific', 'Yakima Air Terminal McAllister Field'),
+('KMGM', 'US/Central', 'Montgomery Regional (Dannelly Field) Airport'),
+('KMLS', 'US/Mountain', 'Miles City Airport - Frank Wiley Field'),
+('KDYT', 'US/Central', 'Sky Harbor Airport'),
+('KDTL', 'US/Central', 'Detroit Lakes Airport'),
+('KGWW', 'US/Eastern', 'Wayne Executive Jetport'),
+('KTOC', 'US/Eastern', 'Toccoa Airport - R.G. Letourneau Field'),
+('KJYG', 'US/Central', 'St James Municipal Airport'),
+('KUXL', 'US/Central', 'Southland Field'),
+('KMSL', 'US/Central', 'Northwest Alabama Regional Airport'),
+('KRHI', 'US/Central', 'Rhinelander Oneida County Airport'),
+('KGUP', 'US/Mountain', 'Gallup Municipal Airport'),
+('KOLE', 'US/Eastern', 'Cattaraugus County-Olean Airport'),
+('KANK', 'US/Mountain', 'Salida Airport - Harriet Alexander Field'),
+('KFRM', 'US/Central', 'Fairmont Municipal Airport'),
+('KLPC', 'US/Pacific', 'Lompoc Airport'),
+('KCKF', 'US/Eastern', 'Crisp County Cordele Airport'),
+('KODO', 'US/Central', 'Odessa Schlemeyer Field'),
+('KLNR', 'US/Central', 'Tri-County Regional Airport'),
+('KAUM', 'US/Central', 'Austin Municipal Airport'),
+('KFLL', 'US/Eastern', 'Fort Lauderdale Hollywood International Airport'),
+('KMLJ', 'US/Eastern', 'Baldwin County Regional Airport'),
+('KLVJ', 'US/Central', 'Pearland Regional Airport'),
+('KCGZ', 'US/Mountain', 'Casa Grande Municipal Airport'),
+('KSBO', 'US/Eastern', 'Emanuel County Airport'),
+('KSPS', 'US/Central', 'Wichita Falls Municipal Airport / Sheppard Air Force Base'),
+('KSLI', 'US/Pacific', 'Los Alamitos Army Air Field'),
+('KMEB', 'US/Eastern', 'Laurinburg Maxton Airport'),
+('KRUQ', 'US/Eastern', 'Mid-Carolina Regional Airport'),
+('KHJH', 'US/Central', 'Hebron Municipal Airport'),
+('KGDV', 'US/Mountain', 'Dawson Community Airport'),
+('KINL', 'US/Central', 'Falls International Airport'),
+('KECP', 'US/Eastern', 'Northwest Florida Beaches International Airport'),
+('KMLU', 'US/Central', 'Monroe Regional Airport'),
+('KLUF', 'US/Mountain', 'Luke Air Force Base'),
+('KM19', 'US/Central', 'Newport Regional Airport'),
+('KRSN', 'US/Central', 'Ruston Regional Airport'),
+('KHDN', 'US/Mountain', 'Yampa Valley Airport'),
+('KNKX', 'US/Pacific', 'Miramar Marine Corps Air Station - Mitscher Field'),
+('KAZC', 'US/Mountain', 'Colorado City Municipal Airport'),
+('KFTK', 'US/Eastern', 'Godman Army Air Field'),
+('KFLY', 'US/Mountain', 'Meadow Lake Airport'),
+('KEXX', 'US/Eastern', 'Davidson County Executive Airport'),
+('K3R7', 'US/Central', 'Jennings Airport'),
+('KDHN', 'US/Central', 'Dothan Regional Airport'),
+('KIZA', 'US/Pacific', 'Santa Ynez Airport'),
+('KRWF', 'US/Central', 'Redwood Falls Municipal Airport'),
+('KAPF', 'US/Eastern', 'Naples Municipal Airport'),
+('KPQL', 'US/Central', 'Trent Lott International Airport'),
+('KSAN', 'US/Pacific', 'San Diego International Airport'),
+('KMCF', 'US/Eastern', 'MacDill Air Force Base'),
+('KLAL', 'US/Eastern', 'Lakeland Linder International Airport'),
+('KSAD', 'US/Mountain', 'Safford Regional Airport'),
+('KSDL', 'US/Mountain', 'Scottsdale Airport'),
+('KO86', 'US/Pacific', 'Trinity Center Airport'),
+('KNRB', 'US/Eastern', 'Naval Station Mayport / Admiral David L McDonald Field'),
+('KEDW', 'US/Pacific', 'Edwards Air Force Base'),
+('KTMB', 'US/Eastern', 'Miami Executive Airport'),
+('KLGC', 'US/Eastern', 'LaGrange Callaway Airport'),
+('KCGC', 'US/Eastern', 'Crystal River Airport'),
+('KAQP', 'US/Central', 'Appleton Municipal Airport'),
+('KSUA', 'US/Eastern', 'Witham Field'),
+('KCNO', 'US/Pacific', 'Chino Airport'),
+('KPMP', 'US/Eastern', 'Pompano Beach Airpark'),
+('KSMX', 'US/Pacific', 'Santa Maria Public Airport Captain G Allan Hancock Field'),
+('K40J', 'US/Eastern', 'Perry-Foley Airport'),
+('KSBS', 'US/Mountain', 'Steamboat Springs Bob Adams Field'),
+('KEED', 'US/Pacific', 'Needles Airport'),
+('K1M4', 'US/Central', 'Posey Field'),
+('KAJZ', 'US/Mountain', 'Blake Field'),
+('KNCA', 'US/Eastern', 'MCAS New River / McCutcheon Field'),
+('K12N', 'US/Eastern', 'Aeroflex-Andover Airport'),
+('KLWT', 'US/Mountain', 'Lewistown Municipal Airport'),
+('KCOF', 'US/Eastern', 'Patrick Space Force Base'),
+('KFZG', 'US/Eastern', 'Fitzgerald Municipal Airport'),
+('KGIF', 'US/Eastern', 'Winter Haven Regional Airport - Gilbert Field'),
+('KCEC', 'US/Pacific', 'Jack Mc Namara Field Airport'),
+('KAUO', 'US/Central', 'Auburn University Regional Airport'),
+('KELZ', 'US/Eastern', 'Wellsville Municipal Airport - Tarantine Field'),
+('KTUP', 'US/Central', 'Tupelo Regional Airport'),
+('KGZH', 'US/Central', 'Evergreen Regional Airport/Middleton Field'),
+('KNZY', 'US/Pacific', 'North Island Naval Air Station-Halsey Field'),
+('KMVN', 'US/Central', 'Mount Vernon Outland Airport'),
+('KIER', 'US/Central', 'Natchitoches Regional Airport'),
+('KUIL', 'US/Pacific', 'Quillayute Airport'),
+('KHEY', 'US/Central', 'Hanchey Army (Fort Rucker) Heliport'),
+('KFHB', 'US/Eastern', 'Fernandina Beach Municipal Airport'),
+('KUKF', 'US/Eastern', 'Wilkes County Airport'),
+('KACJ', 'US/Eastern', 'Jimmy Carter Regional Airport'),
+('KSEE', 'US/Pacific', 'Gillespie Field'),
+('KFFM', 'US/Central', 'Fergus Falls Municipal Airport - Einar Mickelson Field'),
+('KHOT', 'US/Central', 'Memorial Field Airport'),
+('KJMR', 'US/Central', 'Mora Municipal Airport'),
+('KSDM', 'US/Pacific', 'Brown Field Municipal Airport'),
+('KGSB', 'US/Eastern', 'Seymour Johnson Air Force Base'),
+('KXVG', 'US/Central', 'Longville Municipal Airport'),
+('K1A5', 'US/Eastern', 'Macon County Airport'),
+('KHST', 'US/Eastern', 'Homestead ARB Airport'),
+('KUTS', 'US/Central', 'Huntsville Regional Airport'),
+('KHSA', 'US/Central', 'Stennis International Airport'),
+('KDTS', 'US/Central', 'Destin Executive Airport'),
+('KMTH', 'US/Eastern', 'The Florida Keys Marathon Airport'),
+('KNYL', 'US/Mountain', 'Yuma International Airport / Marine Corps Air Station Yuma'),
+('KO54', 'US/Pacific', 'Lonnie Pool Field Weaverville Airport'),
+('KHBI', 'US/Eastern', 'Asheboro Regional Airport'),
+('KTPH', 'US/Pacific', 'Tonopah Airport'),
+('KFAM', 'US/Central', 'Farmington Regional Airport'),
+('KMEI', 'US/Central', 'Key Field / Meridian Regional Airport'),
+('KTVI', 'US/Eastern', 'Thomasville Regional Airport'),
+('KOVL', 'US/Central', 'Olivia Regional Airport'),
+('KLOR', 'US/Central', 'Lowe AHP (Fort Rucker) Heliport'),
+('KMRN', 'US/Eastern', 'Foothills Regional Airport'),
+('KETC', 'US/Eastern', 'Tarboro Edgecombe Airport'),
+('KELD', 'US/Central', 'South Arkansas Regional Airport at Goodwin Field'),
+('K9A4', 'US/Central', 'Courtland Airport'),
+('KEVB', 'US/Eastern', 'New Smyrna Beach Municipal Airport'),
+('KGCN', 'US/Mountain', 'Grand Canyon National Park Airport'),
+('KBLH', 'US/Pacific', 'Blythe Airport'),
+('KEWN', 'US/Eastern', 'Coastal Carolina Regional Airport'),
+('KSLK', 'US/Eastern', 'Adirondack Regional Airport'),
+('KRHP', 'US/Eastern', 'Western Carolina Regional Airport'),
+('KNSE', 'US/Central', 'Whiting Field Naval Air Station - North'),
+('K4A6', 'US/Central', 'Scottsboro Municipal Word Field'),
+('KVBT', 'US/Central', 'Bentonville Municipal-Louise M Thaden Field'),
+('KNID', 'US/Pacific', 'China Lake Naws (Armitage Field) Airport'),
+('KVPS', 'US/Central', 'Destin-Fort Walton Beach Airport'),
+('KISO', 'US/Eastern', 'Kinston Regional Jetport At Stallings Field'),
+('KOCW', 'US/Eastern', 'Warren Field'),
+('KDRO', 'US/Mountain', 'Durango La Plata County Airport'),
+('KOMH', 'US/Eastern', 'Orange County Airport'),
+('KJBR', 'US/Central', 'Jonesboro Municipal Airport'),
+('KLSF', 'US/Eastern', 'Lawson Army Air Field'),
+('KBQK', 'US/Eastern', 'Brunswick Golden Isles Airport'),
+('KTBR', 'US/Eastern', 'Statesboro Bulloch County Airport'),
+('KNBG', 'US/Central', 'New Orleans NAS JRB/Alvin Callender Field'),
+('KOAJ', 'US/Eastern', 'Albert J Ellis Airport'),
+('KLNP', 'US/Eastern', 'Lonesome Pine Airport'),
+('K14Y', 'US/Central', 'Todd Field'),
+('KCTY', 'US/Eastern', 'Cross City Airport'),
+('KCWV', 'US/Eastern', 'Claxton Evans County Airport'),
+('KPNT', 'US/Central', 'Pontiac Municipal Airport'),
+('KGPI', 'US/Mountain', 'Glacier Park International Airport'),
+('KNDZ', 'US/Central', 'Whiting Field Naval Air Station South Airport'),
+('KJFX', 'US/Central', 'Walker County Airport Bevill Field'),
+('KCIR', 'US/Central', 'Cairo Regional Airport'),
+('KELO', 'US/Central', 'Ely Municipal Airport'),
+('KDRA', 'US/Pacific', 'Desert Rock Airport'),
+('KPGA', 'US/Mountain', 'Page Municipal Airport'),
+('KTKC', 'US/Central', 'Tracy Municipal Airport'),
+('KIFP', 'US/Mountain', 'Laughlin Bullhead International Airport'),
+('K33V', 'US/Mountain', 'Walden Jackson County Airport'),
+('KSRC', 'US/Central', 'Searcy Municipal Airport'),
+('KASJ', 'US/Eastern', 'Tri-County Airport at Henry Joyner Field'),
+('KFSM', 'US/Central', 'Fort Smith Regional Airport'),
+('KTVC', 'US/Eastern', 'Cherry Capital Airport'),
+('KLLQ', 'US/Central', 'Monticello Municipal Ellis Field'),
+('KIJX', 'US/Central', 'Jacksonville Municipal Airport'),
+('KNFE', 'US/Eastern', 'Fentress Naval Auxiliary Landing Field'),
+('KFEP', 'US/Central', 'Albertus Airport'),
+('KTRL', 'US/Central', 'Terrell Municipal Airport'),
+('KFAR', 'US/Central', 'Hector International Airport'),
+('KMWK', 'US/Eastern', 'Mount Airy Surry County Airport'),
+('KIPJ', 'US/Eastern', 'Lincolnton Lincoln County Regional Airport'),
+('KFOD', 'US/Central', 'Fort Dodge Regional Airport'),
+('KOOA', 'US/Central', 'Oskaloosa Municipal Airport'),
+('KPLN', 'US/Eastern', 'Pellston Regional Airport of Emmet County Airport'),
+('KSIF', 'US/Eastern', 'Rockingham County NC Shiloh Airport'),
+('KHVR', 'US/Mountain', 'Havre City County Airport'),
+('KROG', 'US/Central', 'Rogers Municipal Airport-Carter Field'),
+('KVCT', 'US/Central', 'Victoria Regional Airport'),
+('K65S', 'US/Pacific', 'Boundary County Airport'),
+('KAAT', 'US/Pacific', 'Alturas Municipal Airport'),
+('KHOP', 'US/Central', 'Campbell Army Airfield (Fort Campbell)'),
+('KSIY', 'US/Pacific', 'Siskiyou County Airport'),
+('KJMS', 'US/Central', 'Jamestown Regional Airport'),
+('KMKY', 'US/Eastern', 'Marco Island Executive Airport'),
+('KSTK', 'US/Mountain', 'Sterling Municipal Airport'),
+('KGHW', 'US/Central', 'Glenwood Municipal Airport'),
+('KABY', 'US/Eastern', 'Southwest Georgia Regional Airport'),
+('KXMR', 'US/Eastern', 'Cape Canaveral SFS Skid Strip'),
+('KAEX', 'US/Central', 'Alexandria International Airport'),
+('KEZM', 'US/Eastern', 'Heart of Georgia Regional Airport'),
+('KSUT', 'US/Eastern', 'Cape Fear Regional Jetport / Howie Franklin Field Airport'),
+('KBIS', 'US/Central', 'Bismarck Municipal Airport'),
+('KHOE', 'US/Eastern', 'Homerville Airport'),
+('K79J', 'US/Central', 'South Alabama Regional At Bill Benton Field Airport'),
+('KTXK', 'US/Central', 'Texarkana Regional Airport (Webb Field)'),
+('KM89', 'US/Central', 'Dexter B Florence Memorial Field'),
+('K20V', 'US/Mountain', 'McElroy Airfield'),
+('KJKJ', 'US/Central', 'Moorhead Municipal Airport'),
+('KGFK', 'US/Central', 'Grand Forks International Airport'),
+('KCEZ', 'US/Mountain', 'Cortez Municipal Airport'),
+('KSJN', 'US/Mountain', 'St Johns Industrial Air Park'),
+('KORB', 'US/Central', 'Orr Regional Airport'),
+('K6A1', 'US/Eastern', 'Butler Municipal Airport'),
+('KMEZ', 'US/Central', 'Mena Intermountain Municipal Airport'),
+('KBBB', 'US/Central', 'Benson Municipal Airport'),
+('KTVF', 'US/Central', 'Thief River Falls Regional Airport'),
+('KRCZ', 'US/Eastern', 'Richmond County Airport'),
+('KPGV', 'US/Eastern', 'Pitt-Greenville Airport'),
+('KNQX', 'US/Eastern', 'Naval Air Station Key West/Boca Chica Field'),
+('KFHU', 'US/Mountain', 'Sierra Vista Municipal Airport / Libby Army Air Field'),
+('KASG', 'US/Central', 'Springdale Municipal Airport'),
+('KEYF', 'US/Eastern', 'Curtis L Brown Jr Field'),
+('KMOT', 'US/Central', 'Minot International Airport'),
+('KDPL', 'US/Eastern', 'Duplin County Airport'),
+('KY19', 'US/Central', 'Mandan Municipal Airport'),
+('KLBT', 'US/Eastern', 'Lumberton Regional Airport'),
+('KDEQ', 'US/Central', 'J Lynn Helms Sevier County Airport'),
+('KW22', 'US/Eastern', 'Upshur County Regional Airport'),
+('KCDH', 'US/Central', 'Harrell Field'),
+('KSLG', 'US/Central', 'Smith Field'),
+('KEUF', 'US/Central', 'Weedon Field'),
+('KNUI', 'US/Eastern', 'Naval Outlying Landing Field Webster'),
+('KMTJ', 'US/Mountain', 'Montrose Regional Airport'),
+('KHRX', 'US/Central', 'Hereford Municipal Airport'),
+('KUBE', 'US/Central', 'Cumberland Municipal Airport'),
+('KCCA', 'US/Central', 'Clinton Municipal Airport'),
+('KINK', 'US/Central', 'Winkler County Airport'),
+('KMDD', 'US/Central', 'Midland Airpark'),
+('KAZE', 'US/Eastern', 'Hazlehurst Airport'),
+('KAFP', 'US/Eastern', 'Anson County Airport - Jeff Cloud Field'),
+('KBPG', 'US/Central', 'Big Spring Mc Mahon-Wrinkle Airport'),
+('KBAC', 'US/Central', 'Barnes County Municipal Airport'),
+('KGGW', 'US/Mountain', 'Glasgow Valley County Airport Wokal Field'),
+('KE11', 'US/Central', 'Andrews County Airport'),
+('KALS', 'US/Mountain', 'San Luis Valley Regional Airport/Bergman Field'),
+('KAYS', 'US/Eastern', 'Waycross Ware County Airport');

@@ -6,7 +6,7 @@ USE `US_ACCIDENTS`;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`WEATHER_CONDITIONS` (
   `id` VARCHAR(128) NOT NULL,
-  `Description` VARCHAR(10) NOT NULL,
+  `Description` VARCHAR(30) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `id` (`id` ASC)
 ) ENGINE = InnoDB;
