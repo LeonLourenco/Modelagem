@@ -1,21 +1,20 @@
 import pandas as pd
 from pathlib import Path
+from config_paths import PATHS 
 
 # ================= CONFIGURAÇÕES =================
-BASE_DIR = Path(r'C:\Users\leolo\OneDrive\Documentos\Faculdade\Mundo2')
+# Arquivos de entrada usando config_paths
+ARQUIVO_AEROPORTOS = PATHS['airports_input']
+ARQUIVO_INDICES = PATHS['indices_input']
 
-# Arquivos de entrada
-ARQUIVO_AEROPORTOS = BASE_DIR / 'airports' / 'AIRPORTS_COM_NOME.csv'
-ARQUIVO_INDICES = BASE_DIR / 'airports' / 'indices_sem_nome.txt'
-
-# Lista de outras tabelas para filtrar
+# Lista de outras tabelas para filtrar usando config_paths
 OUTRAS_TABELAS = [
-    BASE_DIR / 'weather_conditions' / 'WEATHER_CONDITIONS.csv',
-    BASE_DIR / 'weather' / 'WEATHER.csv',
-    BASE_DIR / 'road_features' / 'ROAD_FEATURES.csv',
-    BASE_DIR / 'locations' / 'LOCATIONS.csv',
-    BASE_DIR / 'day_periods' / 'DAY_PERIODSDAY_PERIODS.csv',
-    BASE_DIR / 'accidents' / 'ACCIDENTS.csv'
+    PATHS['weather_conditions_input'],
+    PATHS['weather_input'],
+    PATHS['road_features_input'],
+    PATHS['locations_input'],
+    PATHS['day_periods_input'],
+    PATHS['accidents_input']
 ]
 
 # ================= FUNÇÃO PRINCIPAL =================
@@ -51,11 +50,8 @@ def processar_aeroportos(caminho_aeroportos, indices_remover):
     # Remover duplicatas
     df_unico = df.drop_duplicates(subset=["Airport_Code", "Timezone", "Airport_Name"])
     
-    # Criar diretório se não existir
-    (BASE_DIR / 'airports').mkdir(parents=True, exist_ok=True)
-    
     # Gerar INSERTs SQL
-    output_sql = BASE_DIR / 'airports' / 'airport_inserts.sql'
+    output_sql = PATHS['airports_output']
     with open(output_sql, "w", encoding="utf-8") as f:
         f.write("-- INSERT statements for AIRPORTS table\n")
         f.write("-- Generated automatically from AIRPORTS_COM_NOME.csv\n\n")
@@ -79,7 +75,7 @@ def processar_aeroportos(caminho_aeroportos, indices_remover):
     event_df['Airport_ID'] = event_df['Airport_Code'].map(code_to_id)
     event_df_filtrado = event_df.drop(index=indices_remover, errors='ignore').reset_index(drop=True)
     
-    output_csv = BASE_DIR / 'airports' / 'airport_events.csv'
+    output_csv = PATHS['airport_events_output']
     event_df_filtrado.to_csv(output_csv, index=False)
     
     print(f"'{output_csv}' gerado com Airport_IDs atualizados")

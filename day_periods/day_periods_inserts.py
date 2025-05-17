@@ -1,13 +1,11 @@
 import pandas as pd
 import os
-from pathlib import Path
+from config_paths import PATHS  
 
-# 1. Configuração de caminhos (usando Path para evitar problemas com barras)
-base_path = Path(r"C:\Users\leolo\OneDrive\Documentos\Faculdade\Mundo2")
-input_path = base_path / "day_periods" / "DAY_PERIODSDAY_PERIODS_filtrado.csv"
-output_path_main = base_path / "day_periods" / "day_period_inserts.sql"
-output_path_events = base_path / "day_periods" / "period_events_inserts.sql"
-
+# 1. Configuração de caminhos via config_paths
+input_path = PATHS['day_periods_input']
+output_path_main = PATHS['day_periods_main_output']
+output_path_events = PATHS['day_periods_events_output']
 
 # 1. Leitura e preparação dos dados
 try:

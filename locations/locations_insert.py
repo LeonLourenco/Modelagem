@@ -1,5 +1,5 @@
 import pandas as pd
-from pathlib import Path
+from config_paths import PATHS  # Import added here
 
 # 1. Função para carregar códigos de aeroporto
 def load_airport_codes(csv_path):
@@ -10,11 +10,10 @@ def load_airport_codes(csv_path):
         print(f"Aviso: Arquivo {csv_path} não encontrado. Airport_Code será NULL.")
         return {}
 
-# Configuração de caminhos
-base_path = Path(r"C:\Users\leolo\OneDrive\Documentos\Faculdade\Mundo2")
-input_path = base_path / "locations" / "LOCATIONS_filtrado.csv"
-output_path = base_path / "locations" / "locations_inserts.sql"
-airport_codes_path = base_path / "airports" / "AIRPORTS_COM_NOME.csv"
+# Configuração de caminhos via config_paths
+input_path = PATHS['locations_input']
+output_path = PATHS['locations_output']
+airport_codes_path = PATHS['airport_codes']
 
 try:
     # 2. Carregar e preparar dados

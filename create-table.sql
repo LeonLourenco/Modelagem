@@ -6,7 +6,7 @@ USE `US_ACCIDENTS`;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`WEATHER_CONDITIONS` (
   `id` VARCHAR(128) NOT NULL,
-  `Description` VARCHAR(30) NOT NULL,
+  `Description` VARCHAR(128) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `id` (`id` ASC)
 ) ENGINE = InnoDB;
@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`WEATHER` (
   `Humidity` FLOAT NOT NULL,
   `Pressure` FLOAT NOT NULL,
   `Visibility` FLOAT NOT NULL,
-  `Wind_Direction` VARCHAR(10) NOT NULL,
+  `Wind_Direction` VARCHAR(128) NOT NULL,
   `Wind_Speed` FLOAT NOT NULL,
   `Precipitation` FLOAT NOT NULL,
   `Weather_Condition_ID` VARCHAR(128) NOT NULL,
@@ -57,7 +57,7 @@ CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`WEATHER` (
 -- Table `US_ACCIDENTS`.`AIRPORTS`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`AIRPORTS` (
-  `Airport_Code` VARCHAR(3) NOT NULL,
+  `Airport_Code` VARCHAR(10) NOT NULL,
   `Name` VARCHAR(125) NOT NULL,
   `Timezone` VARCHAR(25) NOT NULL,
   PRIMARY KEY (`Airport_Code`),
@@ -69,13 +69,13 @@ CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`AIRPORTS` (
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `US_ACCIDENTS`.`LOCATIONS` (
   `id` VARCHAR(128) NOT NULL,
-  `Street` VARCHAR(45) NOT NULL,
-  `City` VARCHAR(45) NOT NULL,
-  `County` VARCHAR(45) NOT NULL,
+  `Street` VARCHAR(128) NOT NULL,
+  `City` VARCHAR(128) NOT NULL,
+  `County` VARCHAR(128) NOT NULL,
   `State` VARCHAR(2) NOT NULL,
   `Zipcode` VARCHAR(10) NOT NULL,
   `Country` VARCHAR(2) NOT NULL,
-  `Airport_Code` VARCHAR(3) NOT NULL,
+  `Airport_Code` VARCHAR(10) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `id` (`id` ASC),
   CONSTRAINT `fk_LOCATIONS_AIRPORTS`

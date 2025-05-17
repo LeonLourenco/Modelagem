@@ -1,7 +1,8 @@
 import pandas as pd
+from config_paths import PATHS 
 
 # Lê o CSV pulando as 2 primeiras linhas de metadados
-df_raw = pd.read_csv('weather_conditions\WEATHER_CONDITIONS_filtrado.csv', skiprows=2, header=None, names=['Description'])
+df_raw = pd.read_csv(PATHS['weather_conditions_input'], skiprows=2, header=None, names=['Description'])
 
 # Remove espaços e normaliza
 df_raw['Description'] = df_raw['Description'].astype(str).str.strip()
@@ -15,7 +16,7 @@ unique_conditions.insert(0, 'id', range(1, len(unique_conditions) + 1))
 # =====================
 # 1. Gera os INSERTs da tabela weather_conditions no formato desejado
 # =====================
-with open('weather_conditions_inserts.sql', 'w', encoding='utf-8') as f:
+with open(PATHS['weather_conditions_output'], 'w', encoding='utf-8') as f:
     # Escreve o início do comando INSERT
     f.write("INSERT INTO weather_conditions (id, description) VALUES\n")
     

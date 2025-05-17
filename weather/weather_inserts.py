@@ -1,13 +1,11 @@
 import pandas as pd
-import os
-from pathlib import Path
+from config_paths import PATHS  # Importa os caminhos do config
 
-# Configuração de caminhos
-base_path = Path(r"C:\Users\leolo\OneDrive\Documentos\Faculdade\Mundo2")
-input_path = base_path / "weather" / "WEATHER_filtrado.csv"
-output_path = base_path / "weather" / "weather_inserts.sql"
-weather_events_path = base_path / "weather_conditions" / "weather_events_inserts.sql"
-period_events_path = base_path / "day_periods" / "period_events_inserts.sql"
+# Configuração de caminhos usando PATHS do config
+input_path = PATHS['weather_input']
+output_path = PATHS['weather_output']
+weather_events_path = PATHS['weather_events']
+period_events_path = PATHS['period_events']
 
 # Carrega o CSV da tabela WEATHER, ignorando as duas primeiras linhas
 try:
