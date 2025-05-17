@@ -1,6 +1,6 @@
 import pandas as pd
 from pathlib import Path
-from config_paths import PATHS 
+from Modelagem.config_paths import PATHS 
 
 # ================= CONFIGURAÇÕES =================
 # Arquivos de entrada usando config_paths

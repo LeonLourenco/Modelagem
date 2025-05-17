@@ -1,5 +1,5 @@
 import pandas as pd
-from config_paths import PATHS  # Importa os caminhos do config
+from Modelagem.config_paths import PATHS  # Importa os caminhos do config
 
 # Configuração de caminhos usando PATHS do config
 input_path = PATHS['weather_input']

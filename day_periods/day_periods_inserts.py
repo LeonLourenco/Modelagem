@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-from config_paths import PATHS  
+from Modelagem.config_paths import PATHS  
 
 # 1. Configuração de caminhos via config_paths
 input_path = PATHS['day_periods_input']

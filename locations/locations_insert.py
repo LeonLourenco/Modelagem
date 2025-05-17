@@ -1,5 +1,5 @@
 import pandas as pd
-from config_paths import PATHS  # Import added here
+from Modelagem.config_paths import PATHS  # Import added here
 
 # 1. Função para carregar códigos de aeroporto
 def load_airport_codes(csv_path):

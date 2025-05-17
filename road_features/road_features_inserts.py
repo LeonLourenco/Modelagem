@@ -1,5 +1,5 @@
 import pandas as pd
-from config_paths import PATHS
+from Modelagem.config_paths import PATHS
 
 def extract_ids_from_sql(file_path):
     """Extrai IDs de um arquivo SQL de INSERTs"""
@@ -111,4 +111,3 @@ try:
 
 except Exception as e:
     print(f"Erro durante o processamento: {str(e)}")
-    

@@ -1,5 +1,5 @@
 import pandas as pd
-from config_paths import PATHS 
+from Modelagem.config_paths import PATHS 
 
 # Lê o CSV pulando as 2 primeiras linhas de metadados
 df_raw = pd.read_csv(PATHS['weather_conditions_input'], skiprows=2, header=None, names=['Description'])
