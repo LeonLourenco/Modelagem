@@ -98,17 +98,3 @@ Execute os scripts na seguinte ordem:
   - Aproximadamente 2GB de espaço em disco são necessários para a base completa.
 
 ---
-
-**✅ Este guia inclui:**
-
-- Pré-requisitos claros  
-- Instruções de instalação  
-- Visualização da estrutura do projeto  
-- Etapas de configuração  
-- Pipeline ordenado de processamento  
-- Importação da base de dados  
-- Verificação e checagem de dados  
-- Tabela de problemas comuns  
-- Notas úteis sobre performance  
-
-
