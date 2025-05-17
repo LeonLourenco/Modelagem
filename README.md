@@ -1,7 +1,7 @@
 
 # US_ACCIDENTS Database Implementation Guide
 
-## 📋 Prerequisites
+## 📋 Pré-requisitos
 
 - **MySQL Server** (8.0+ recommended)  
 - **Python 3.8+**  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Setup Instructions
+## 🚀 Instruções iniciais
 
 1. **Clone the repository (optional)**
 
@@ -43,35 +43,14 @@
 
 ---
 
-## 🗂 Project Structure
+## ⚙️ Configuração
 
-```
-📦US_ACCIDENTS
-├── 📂data
-│   ├── ACCIDENTS.csv
-│   ├── LOCATIONS.csv
-│   ├── WEATHER.csv
-│   ├── ROAD_FEATURES.csv
-│   └── ...
-├── 📂scripts
-│   ├── create_tables.sql
-│   ├── config_paths.py
-│   ├── process_accidents.py
-│   ├── process_locations.py
-│   └── ...
-└── README.md
-```
-
----
-
-## ⚙️ Configuration
-
-1. Edit `scripts/config_paths.py`:
+1. Edite `config_paths.py`:
 
    ```python
    from pathlib import Path
 
-   BASE_PATH = Path("C:/path/to/US_ACCIDENTS/data")  # 👈 Update this path
+   BASE_PATH = Path("C:/path/to/Modelagem/data")  # 👈 Update this path
 
    PATHS = {
        'accidents_input': BASE_PATH / "ACCIDENTS.csv",
@@ -84,80 +63,17 @@
 
 ---
 
-## 🔄 Data Processing Pipeline
+## 🔄 Processamento de dados
 
 Execute os scripts na seguinte ordem:
 
-1. **Weather Conditions**
-
-   ```bash
-   python scripts/process_weather_conditions.py
-   ```
-
-2. **Day Periods**
-
-   ```bash
-   python scripts/process_day_periods.py
-   ```
-
-3. **Airports**
-
-   ```bash
-   python scripts/process_airports.py
-   ```
-
-4. **Locations**
-
-   ```bash
-   python scripts/process_locations.py
-   ```
-
-5. **Road Features**
-
-   ```bash
-   python scripts/process_road_features.py
-   ```
-
-6. **Accidents (Final step)**
-
-   ```bash
-   python scripts/process_accidents.py
-   ```
-
----
-
-## 🗄 Database Import
-
-1. **Create the database**
-
-   ```sql
-   CREATE SCHEMA `US_ACCIDENTS` DEFAULT CHARACTER SET utf8mb4;
-   USE US_ACCIDENTS;
-   ```
-
-2. **Execute SQL scripts in this exact order:**
-
-   ```sql
-   SOURCE data/weather_conditions_inserts.sql;
-   SOURCE data/day_periods_inserts.sql;
-   SOURCE data/airport_inserts.sql;
-   SOURCE data/locations_inserts.sql;
-   SOURCE data/road_features_inserts.sql;
-   SOURCE data/accidents_inserts.sql;
-   ```
-
----
-
-## ✅ Verification
-
-```sql
--- Check data counts
-SELECT COUNT(*) FROM ACCIDENTS;
-SELECT COUNT(*) FROM LOCATIONS;
-
--- Sample data check
-SELECT * FROM WEATHER LIMIT 5;
-```
+- Airport
+- Location
+- Weather Conditions
+- Day Periods
+- Weather
+- Accidents 
+- Road Features
 
 ---
 
