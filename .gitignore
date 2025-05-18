@@ -1,0 +1,5 @@
+# Ignorar o cache de Python em Scripts
+Scripts/__pycache__/
+
+# Ignorar o arquivo test_suite.log 
+logs/test_suite.log
