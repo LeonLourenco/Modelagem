@@ -8,9 +8,6 @@ PATHS = {
     'logs_dir': BASE_PATH / "Logs",
     'data_dir': BASE_PATH / "Data",
     
-    # Suite de Execução
-    #'run_suite': BASE_PATH / "Scripts" / "run_suite.py",
-    
     # PRE-PROCESSAMENTO
     'airports_database': BASE_PATH / "data" / "input" / "airports_database.csv",
     'airports_repetidos': BASE_PATH / "data" / "input" / "airports_repetidos.csv",

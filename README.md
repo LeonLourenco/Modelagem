@@ -1,12 +1,12 @@
 
-# US_ACCIDENTS Database Implementation Guide
+# 📦 Guia de Implementação do Banco de Dados US_ACCIDENTES
 
 ## 📋 Pré-requisitos
 
-- **MySQL Server** (8.0+ recommended)  
-- **Python 3.8+**  
-- **Git** (optional)  
-- Required Python packages:
+- **MySQL Workbench**
+- **Python 3.8+**
+- **Git** (opcional)
+- **Pacotes Python necessários:**
 
   ```bash
   pip install pandas mysql-connector-python
@@ -16,14 +16,14 @@
 
 ## 🚀 Instruções iniciais
 
-1. **Clone the repository (optional)**
+1. **Clone o repositório (opcional):**
 
    ```bash
    git clone https://github.com/your-username/US_ACCIDENTS.git
    cd US_ACCIDENTS
    ```
 
-2. **Create and activate virtual environment**
+2. **Crie e ative o ambiente virtual:**
 
    ```bash
    python -m venv venv
@@ -35,66 +35,100 @@
      venv\Scripts\activate
      ```
 
-   - **Linux/Mac:**
+   - **Linux/MacOS:**
 
      ```bash
      source venv/bin/activate
      ```
 
+   > 💡 Em alguns sistemas Unix com `zsh`, pode ser necessário rodar:
+   > ```bash
+   > source venv/bin/activate
+   > ```
+
 ---
 
 ## ⚙️ Configuração
 
-1. Edite `config_paths.py`:
+1. Edite o arquivo `Scripts/paths.py` (no Windows, o caminho pode aparecer como `Scripts\paths.py`):
 
    ```python
    from pathlib import Path
 
-   BASE_PATH = Path("C:/path/to/Modelagem/data")  # 👈 Update this path
+   # Exemplo para Windows:
+   BASE_PATH = Path(r"C:\seu\caminho\para\Modelagem")
+
+   # Exemplo para Linux/MacOS:
+   # BASE_PATH = Path("/home/seu_usuario/caminho/para/Modelagem")
 
    PATHS = {
-       'accidents_input': BASE_PATH / "ACCIDENTS.csv",
-       'accidents_output': BASE_PATH / "accidents_inserts.sql",
-       'locations_input': BASE_PATH / "LOCATIONS.csv",
-       'locations_output': BASE_PATH / "locations_inserts.sql",
-       # Add other paths as needed
+       # Diretórios principais
+       'scripts_dir': BASE_PATH / "Scripts",
+       'logs_dir': BASE_PATH / "Logs",
+       'data_dir': BASE_PATH / "Data",
+       # Outros diretórios conforme necessidade
    }
    ```
 
----
+## 🔄 Execução da Suite
 
-## 🔄 Processamento de dados
+1. Para executar todo o processo de tratamento e carga dos dados, execute o script principal:
 
-Execute os scripts na seguinte ordem:
+   ```bash
+   python Scripts/run_suite.py
+   ```
 
-- Airport
-- Location
-- Weather Conditions
-- Day Periods
-- Weather
-- Accidents 
-- Road Features
+2. Após a execução, verifique os logs para acompanhar o andamento e resultado dos scripts:
 
----
-
-## ⚠️ Troubleshooting
-
-| Issue                 | Solution                                           |
-|----------------------|----------------------------------------------------|
-| Encoding errors       | Ensure all CSV files are UTF-8 encoded            |
-| Foreign key errors    | Verify scripts were executed in correct order     |
-| Missing data          | Check Python scripts converted NULL values properly |
-| Connection issues     | Verify MySQL server is running                    |
+   - **Linux/MacOS:** `logs/test_suite.log`
+   - **Windows:** `logs\test_suite.log`
 
 ---
 
-## 📝 Notes
+
+---
+
+## 🛠️ Execução no MySQL Workbench
+
+1. **Abra o arquivo SQL de criação do banco:**
+
+   - Navegue até `data/output/create_tables.sql`
+   - Execute o script no MySQL Workbench para criar todas as tabelas necessárias
+
+2. **Insira os dados na ordem correta:**
+
+   Acesse os arquivos em `data/output/` e execute os seguintes arquivos SQL **nesta ordem**:
+
+   ```text
+   1. weather_conditions_insert.sql
+   2. day_periods_insert.sql
+   3. weather_insert.sql
+   4. airports_insert.sql
+   5. locations_insert.sql
+   6. road_features_insert.sql
+   7. accidents_insert.sql
+   ```
+
+   > ❗ A ordem é importante para respeitar as restrições de chave estrangeira.
+
+---
+
+## ⚠️ Solução de Problemas
+
+| Problemas                 | Soluções                                                      |
+|---------------------------|---------------------------------------------------------------|
+| Erros de codificação      | Verifique se os arquivos CSV estão em UTF-8                   |
+| Erros de chave estrangeira| Verifique se os scripts SQL foram executados na ordem correta |
+| Dados ausentes            | Certifique-se de que todos os scripts Python foram executados corretamente |
+
+---
+
+## 📝 Notas Finais
 
 - O processo completo pode levar vários minutos com datasets grandes.
-- Para melhor desempenho, considere:
-
-  - Mínimo de 8GB de RAM  
-  - Armazenamento em SSD  
-  - Aproximadamente 2GB de espaço em disco são necessários para a base completa.
+- Para melhor desempenho, recomenda-se:
+  - 💾 **Mínimo de 8GB de RAM**
+  - ⚡ **Armazenamento em SSD**
+  - 📂 **Aproximadamente 2GB de espaço em disco** para a base completa.
 
 ---
