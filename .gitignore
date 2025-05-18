@@ -3,3 +3,4 @@ Scripts/__pycache__/
 
 # Ignorar o arquivo test_suite.log 
 logs/test_suite.log
+venv

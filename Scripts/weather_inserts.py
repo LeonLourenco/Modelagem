@@ -56,8 +56,10 @@ try:
         f.write("Visibility, Wind_Direction, Wind_Speed, Precipitation, Weather_Condition_ID, Day_Period_ID) VALUES\n")
         
         # Função para converter valores para formato SQL
-        def sql_val(x):
+        def sql_val(x, isPrecipitation=False):
             if x == "NULL":
+                if isPrecipitation:
+                    return float(0.0)
                 return "NULL"
             try:
                 # Tenta converter para float (para números com decimais)
@@ -73,7 +75,7 @@ try:
             values.append(
                 f"({row['Weather_ID']}, {sql_val(row['Weather_Timestamp'])}, {sql_val(row['Temperature'])}, "
                 f"{sql_val(row['Humidity'])}, {sql_val(row['Pressure'])}, {sql_val(row['Visibility'])}, "
-                f"{sql_val(row['Wind_Direction'])}, {sql_val(row['Wind_Speed'])}, {sql_val(row['Precipitation'])}, "
+                f"{sql_val(row['Wind_Direction'])}, {sql_val(row['Wind_Speed'])}, {sql_val(row['Precipitation'], isPrecipitation=True)}, "
                 f"{row['Weather_Condition_ID']}, {row['Day_Period_ID']})"
             )
         

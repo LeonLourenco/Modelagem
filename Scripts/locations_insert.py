@@ -38,7 +38,7 @@ try:
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("-- INSERT statements for LOCATIONS table\n")
         f.write(f"-- Total records: {len(df_locations)}\n\n")
-        f.write("INSERT INTO location (id, Street, City, County, State, Zipcode, Country, Airport_Code) VALUES\n")
+        f.write("INSERT INTO LOCATIONS (id, Street, City, County, State, Zipcode, Country, Airport_Code) VALUES\n")
         
         # Função para formatar valores SQL
         def sql_val(x):
