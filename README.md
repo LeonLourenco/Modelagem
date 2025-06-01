@@ -92,7 +92,7 @@
 
 1. **Abra o arquivo SQL de criação do banco:**
 
-   - Navegue até `data/output/create_tables.sql`
+   - Navegue até `create_tables.sql`
    - Execute o script no MySQL Workbench para criar todas as tabelas necessárias
 
 2. **Insira os dados na ordem correta:**
