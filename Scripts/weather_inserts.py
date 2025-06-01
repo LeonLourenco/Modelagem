@@ -18,6 +18,9 @@ try:
     # Limpa espaços em branco e trata dados faltantes
     df = df.fillna("NULL")
     df = df.apply(lambda x: x.astype(str).str.strip())
+    
+    # Substitui NULL por 0 na coluna Precipitation
+    df['Precipitation'] = df['Precipitation'].replace('NULL', '0')
 
     # Lê os arquivos EVENTS para obter os IDs corretos baseados na posição
     try:
