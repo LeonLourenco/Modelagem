@@ -1,7 +1,7 @@
 -- INSERT statements for LOCATIONS table
 -- Total records: 155736
 
-INSERT INTO location (id, Street, City, County, State, Zipcode, Country, Airport_Code) VALUES
+INSERT INTO LOCATIONS (id, Street, City, County, State, Zipcode, Country, Airport_Code) VALUES
 (1, 'Outerbelt N', 'Columbus', 'Franklin', 'OH', 43230, 'US', 'KCMH'),
 (2, 'Stewartsville Rd', 'Vinton', 'Bedford County', 'VA', 24179, 'US', 'KROA'),
 (3, 'Main St', 'Waltham', 'Middlesex', 'MA', 02452, 'US', 'KBED'),
